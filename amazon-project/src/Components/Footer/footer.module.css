@@ -1,0 +1,182 @@
+.footer {
+  background-color: #232f3e;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+.backToTop {
+  background-color: #37475a;
+  text-align: center;
+  padding: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.backToTop:hover {
+  background-color: #485769;
+}
+
+.backToTop p {
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.footerLinksContainer {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.footerLinks {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+.footerColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.columnTitle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.footerColumn ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footerColumn li {
+  margin-bottom: 0.5rem;
+}
+
+.footerLink {
+  color: #dddddd;
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+
+.footerLink:hover {
+  text-decoration: underline;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #3a4553;
+  margin: 0;
+}
+
+.footerIconsContainer {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.amazonLogo {
+  height: 1.5rem;
+  max-width: 100px;
+}
+
+.footerIcons {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.iconItem {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.flagIcon {
+  height: 1.25rem;
+  width: auto;
+}
+
+/* Tablet (640px and above) */
+@media (min-width: 640px) {
+  .footerLinks {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footerIcons {
+    flex-direction: row;
+    gap: 1.5rem;
+  }
+
+  .footerIconsContainer {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+/* Desktop (1024px and above) */
+@media (min-width: 1024px) {
+  .footerLinks {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .footerLinksContainer {
+    padding: 3rem 2rem;
+  }
+
+  .footerIconsContainer {
+    padding: 2rem 2rem;
+  }
+
+  .columnTitle {
+    font-size: 1.2rem;
+  }
+
+  .footerLink {
+    font-size: 0.9rem;
+  }
+
+  .iconItem {
+    font-size: 0.9rem;
+  }
+
+  .amazonLogo {
+    height: 2rem;
+    max-width: 120px;
+  }
+}
+
+/* Small mobile devices (below 360px) */
+@media (max-width: 360px) {
+  .backToTop p {
+    font-size: 0.8rem;
+  }
+
+  .columnTitle {
+    font-size: 1rem;
+  }
+
+  .footerLink {
+    font-size: 0.8rem;
+  }
+
+  .iconItem {
+    font-size: 0.75rem;
+  }
+
+  .amazonLogo {
+    height: 1.25rem;
+    max-width: 80px;
+  }
+
+  .flagIcon {
+    height: 1rem;
+  }
+}

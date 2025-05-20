@@ -1,86 +1,98 @@
-import React from "react";
-import amazon from "../../../assets/images/logo/amazonlogo.png";
-import cart from "../../../assets/images/logo/cart.png";
-import usa from "../../../assets/images/logo/usa.png";
-import { IoLocationOutline } from "react-icons/io5";
-import { MdArrowDropDown } from "react-icons/md";
-import { CiSearch } from "react-icons/ci";
-import classes from "./navbar.module.css";
-import { Link } from "react-router-dom";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import { IoLocationOutline } from 'react-icons/io5';
+import { MdArrowDropDown } from 'react-icons/md';
+import { CiSearch } from 'react-icons/ci';
+import { FiMenu } from 'react-icons/fi'; // For hamburger menu
+import { BsPerson } from 'react-icons/bs'; // For person icon
+
+import styles from './navbar.module.css';
+import amazonIcon from '../../../assets/images/logo/amazonlogo.png';
+import cartIcon from '../../../assets/images/logo/cart.png';
+import usaIcon from '../../../assets/images/logo/usa.png';
 
 const NavBar = () => {
   return (
-    <div className={classes.navbar}>
-      {/* Left Side */}
-      <div className={classes.leftNavBar}>
-        {/* Logo */}
-        <Link to={'/'} className={classes.leftNavBarLogo}>
-          <img
-            className={classes.amazonLogoNavbar}
-            src={amazon}
-            alt="Amazon Logo"
-          />
-        </Link>
-        {/* Location */}
-        <div className={classes.navbarLocation}>
-          <IoLocationOutline className={classes.navbarLocationImgIcon} />
-          <div className={classes.navbarLocationPlace}>
-            <div className={classes.navbarLocationTop}>Deliver to</div>
-            <div className={classes.navbarLocationBottom}>Update Location</div>
-          </div>
+    <nav className={styles.navbar}> 
+      {/* Hamburger Menu */}
+      <div className={`${styles.navbarHamburgerMenu} ${styles.navbarItemHoverable}`}>
+        <FiMenu />
+      </div>
+
+      {/* Logo - direct child of navbar for easier flex ordering if needed */}
+      <Link to="/" className={`${styles.leftNavBarLogo} ${styles.navbarItemHoverable}`}>
+        <img
+          className={styles.amazonLogoNavbar}
+          src={amazonIcon}
+          alt="Amazon Logo"
+        />
+      </Link>
+
+      {/* Location - direct child */}
+      <div className={`${styles.navbarLocation} ${styles.navbarItemHoverable}`}>
+        <IoLocationOutline className={styles.navbarLocationImgIcon} />
+        <div className={styles.navbarLocationPlace}>
+          <div className={styles.navbarLocationTop}>Deliver to</div>
+          <div className={styles.navbarLocationBottom}>Ethiopia</div> {/* Updated to match image */}
         </div>
       </div>
 
+
       {/* Search Box */}
-      <div className={classes.navbarSearchBox}>
-        <div className={classes.navbarSearchDiv}>
-          <div className={classes.navbarSearchBoxAll}>
-            <span className={classes.navbarSearchBoxAllText}>All</span>
-            <MdArrowDropDown className={classes.dropdownIcon} />
+      <div className={styles.navbarSearchBox}>
+        <div className={styles.navbarSearchDiv}>
+          <div className={styles.navbarSearchBoxAll}>
+            <span className={styles.navbarSearchBoxAllText}>All</span>
+            <MdArrowDropDown className={styles.dropdownIcon} />
           </div>
           <input
             type="text"
-            className={classes.navbarInputSearchBox}
+            className={styles.navbarInputSearchBox}
             placeholder="Search Amazon"
           />
-          <div className={classes.searchIconNavBar}>
-            <CiSearch className={classes.searchIconNavbarIcon} />
-          </div>
+          <button className={styles.searchIconNavBar} aria-label="Search"> {/* Changed to button for accessibility */}
+            <CiSearch className={styles.searchIconNavbarIcon} />
+          </button>
         </div>
       </div>
 
-      {/* Right Side */}
-      <div className={classes.rightsideNavbar}>
+      {/* Right Side Group */}
+      <div className={styles.rightsideNavbar}>
         {/* Flag/Language */}
-        <div className={classes.flag}>
-          <img src={usa} alt="USA Flag" className={classes.flagLogo} />
-          <div className={classes.flagNavbar}>
-            EN <MdArrowDropDown className={classes.usaNavbarDrop} />
+        <div className={`${styles.flag} ${styles.navbarItemHoverable}`}>
+          <img src={usaIcon} alt="USA Flag" className={styles.flagLogo} />
+          <div className={styles.flagNavbarTextContainer}> {/* Added container for text and dropdown */}
+            EN <MdArrowDropDown className={styles.dropdownIconLanguage} /> {/* Specific class for language dropdown */}
           </div>
         </div>
 
         {/* Sign In */}
-        <div className={classes.signInNavbar}>
-          <div className={classes.topNavbar}>Hello, Sign in</div>
-          <div className={classes.usaNavbarBelt}>Account & Lists</div>
+        <div className={`${styles.signInNavbar} ${styles.navbarItemHoverable}`}>
+          <BsPerson className={styles.personIcon} />
+          <div className={styles.signInTextContainer}> {/* Container for text lines */}
+            <div className={styles.topNavbar}>Hello, Sign in</div>
+            <div className={styles.bottomNavbarAccount}>Account & Lists <MdArrowDropDown className={styles.dropdownIconAccount} /></div>
+          </div>
         </div>
 
         {/* Returns & Orders */}
-        <div className={classes.signInNavbar}>
-          <div className={classes.topNavbar}>Returns</div>
-          <div className={classes.usaNavbar}>& Orders</div>
+        <div className={`${styles.returnsOrdersNavbar} ${styles.navbarItemHoverable}`}> {/* More specific class */}
+           <div className={styles.signInTextContainer}>
+            <div className={styles.topNavbar}>Returns</div>
+            <div className={styles.bottomNavbar}>& Orders</div>
+           </div>
         </div>
 
         {/* Cart */}
-        <div className={`${classes.signInNavbar} ${classes.cartContainerNavbar}`}>
-          <div className={classes.cartItemNumberNavbar}>2</div>
-          <div className={classes.cartContent}> 
-            <img src={cart} alt="Cart" className={classes.cartLogo} />
-            <span className={classes.cartTitle}>Cart</span>
+        <div className={`${styles.cartContainerNavbar} ${styles.navbarItemHoverable}`}>
+          <div className={styles.cartItemNumberNavbar}>0</div> {/* From your image */}
+          <div className={styles.cartContent}>
+            <img src={cartIcon} alt="Cart" className={styles.cartLogo} />
+            <span className={styles.cartTitle}>Cart</span>
           </div>
         </div>
       </div>
-    </div>
+    </nav>
   );
 };
 
