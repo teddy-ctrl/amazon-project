@@ -6,3 +6,7 @@
 body {
   background-color: #E3E6E6;
 }
+:root {
+  --primary-color: #f0c14b;
+  --primary-shade: #d49644;
+}
