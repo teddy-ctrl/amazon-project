@@ -67,30 +67,30 @@ const NavBar = () => {
         </div>
 
         {/* Sign In */}
-        <div className={`${styles.signInNavbar} ${styles.navbarItemHoverable}`}>
+        <Link to='/signin' className={`${styles.signInNavbar} ${styles.navbarItemHoverable}`}>
           <BsPerson className={styles.personIcon} />
           <div className={styles.signInTextContainer}> {/* Container for text lines */}
             <div className={styles.topNavbar}>Hello, Sign in</div>
             <div className={styles.bottomNavbarAccount}>Account & Lists <MdArrowDropDown className={styles.dropdownIconAccount} /></div>
           </div>
-        </div>
+        </Link>
 
         {/* Returns & Orders */}
-        <div className={`${styles.returnsOrdersNavbar} ${styles.navbarItemHoverable}`}> {/* More specific class */}
+        <Link to='/orders' className={`${styles.returnsOrdersNavbar} ${styles.navbarItemHoverable}`}> {/* More specific class */}
            <div className={styles.signInTextContainer}>
             <div className={styles.topNavbar}>Returns</div>
             <div className={styles.bottomNavbar}>& Orders</div>
            </div>
-        </div>
+        </Link>
 
         {/* Cart */}
-        <div className={`${styles.cartContainerNavbar} ${styles.navbarItemHoverable}`}>
+        <Link to='/cart' className={`${styles.cartContainerNavbar} ${styles.navbarItemHoverable}`}>
           <div className={styles.cartItemNumberNavbar}>0</div> {/* From your image */}
           <div className={styles.cartContent}>
             <img src={cartIcon} alt="Cart" className={styles.cartLogo} />
             <span className={styles.cartTitle}>Cart</span>
           </div>
-        </div>
+        </Link>
       </div>
     </nav>
   );
