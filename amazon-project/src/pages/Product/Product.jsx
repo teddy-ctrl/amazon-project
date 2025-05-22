@@ -1,29 +1,37 @@
 // import React, { useEffect, useState } from "react";
 // import ProductCard from "./ProductCard";
 // import axios from 'axios'
+// import Loader from "../../Components/Loder/Loder";
 
 // const Product = () => {
 //     const [products, setProducts] = useState()
+//     const [isLoading, setIsLoading] = useState(false)
 
 //     useEffect(() => {
+//         isLoading(true)
 //         axios.get('https://fakestoreapi.com/products')
 //         .then((res) => {
 //             // console.log(res)
 //             setProducts(res.data)
+//             isLoading(false)
 //         }).catch((err) => {
 //             console.log(err)
+//             setIsLoading(false)
 //         })
 //     }, [])
 
 //   return (
 //     <>
-//         <section>
+//     {
+//         isLoading ?  (<Loader />) :  <section>
 //             {
 //                 products.map((singleProduct) => {
 //                     return <ProductCard product={singleProduct} key={singleProduct.id} />
 //                 })
 //             }
 //         </section>
+//     }
+       
     
 //     </>
 //   );
@@ -34,50 +42,44 @@
 
 
 
-
 import React, { useEffect, useState } from "react";
 import ProductCard from "./ProductCard";
-import axios from 'axios';
-import styles from "./product.module.css"; // Note: Corrected to match case-sensitive filename
+import axios from "axios";
+import Loader from "../../Components/Loder/Loder";
 
 const Product = () => {
-    const [products, setProducts] = useState([]);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
+  const [products, setProducts] = useState([]);
+  const [isLoading, setIsLoading] = useState(false);
 
-    useEffect(() => {
-        const fetchProducts = async () => {
-            try {
-                const response = await axios.get('https://fakestoreapi.com/products');
-                setProducts(response.data);
-                setLoading(false);
-            } catch (err) {
-                setError('Failed to fetch products');
-                setLoading(false);
-                console.error(err);
-            }
-        };
+  useEffect(() => {
+    setIsLoading(true);
+    axios
+      .get("https://fakestoreapi.com/products")
+      .then((res) => {
+        setProducts(res.data);
+        setIsLoading(false);
+      })
+      .catch((err) => {
+        console.log(err);
+        setIsLoading(false);
+      });
+  }, []);
 
-        fetchProducts();
-    }, []);
-
-    if (loading) return <div>Loading...</div>;
-    if (error) return <div>{error}</div>;
-
-    return (
-        <section className={styles.productContainer}>
-            {products.length > 0 ? (
-                products.map((singleProduct) => (
-                    <ProductCard 
-                        product={singleProduct} 
-                        key={singleProduct.id} 
-                    />
-                ))
-            ) : (
-                <div>No products available</div>
-            )}
-        </section>
-    );
+  return isLoading ? (
+    <Loader />
+  ) : (
+    <section>
+      {products && products.map((singleProduct) => (
+        <ProductCard key={singleProduct.id} product={singleProduct} />
+      ))}
+    </section>
+  );
 };
 
 export default Product;
+
+
+
+
+
+

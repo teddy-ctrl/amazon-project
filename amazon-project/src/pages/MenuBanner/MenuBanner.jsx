@@ -4,6 +4,7 @@ import { img } from "./data";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import product from "./Category.js";
 import styles from "./menuBanner.module.css";
+import { Link } from "react-router-dom";
 
 // Note: This project is a learning exercise to practice web development concepts,
 // including React, CSS, and carousel functionality, inspired by Amazon's homepage.
@@ -33,7 +34,7 @@ const MenuBanner = () => {
 
       <div className={styles.homeProduct}>
         {product.map((item, index) => (
-          <div className={styles.itemCard} key={item.id}>
+          <Link to={`/category/${item.name}`} className={styles.itemCard} key={item.id}>
             <div className={styles.itemCardTitle}>{item.name}</div>
             <div className={styles.itemImage}>
               <img
@@ -47,7 +48,7 @@ const MenuBanner = () => {
               />
             </div>
             <div className={styles.seeMore}>See More</div>
-          </div>
+          </Link>
         ))}
       </div>
     </>
