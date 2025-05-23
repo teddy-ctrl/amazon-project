@@ -123,6 +123,9 @@ const NavBar = () => {
 
   const [{basket}, dispatch] = useContext(DataContext)
     // console.log(basket.length)
+    const totalItem = basket?.reduce((amount, item) => {
+      return item.amount + amount
+    }, 0)
   return (
     <nav className={styles.navbar}> 
       {/* Hamburger Menu */}
@@ -196,7 +199,8 @@ const NavBar = () => {
 
         {/* Cart */}
         <Link to='/cart' className={`${styles.cartContainerNavbar} ${styles.navbarItemHoverable}`}>
-          <div className={styles.cartItemNumberNavbar}>{basket.length}</div> {/* From your image */}
+          <div className={styles.cartItemNumberNavbar}>{totalItem}
+            </div> {/* From your image */}
           <div className={styles.cartContent}>
             <img src={cartIcon} alt="Cart" className={styles.cartLogo} />
             <span className={styles.cartTitle}>Cart</span>

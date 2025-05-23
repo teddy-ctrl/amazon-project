@@ -1,5 +1,5 @@
-import React from 'react'
-import LayOut from '../../Components/LayOut/LayOut'
+import React from "react";
+import LayOut from "../../Components/LayOut/LayOut";
 
 const Orders = () => {
   return (
@@ -8,7 +8,7 @@ const Orders = () => {
         <h1>Order</h1>
       </LayOut>
     </>
-  )
-}
+  );
+};
 
-export default Orders
+export default Orders;

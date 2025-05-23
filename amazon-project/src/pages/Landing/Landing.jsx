@@ -1,13 +1,15 @@
 import React from "react";
-import Header from "../../Components/Header/Header";
-import HomePage from "../HomePage";
-import Footer from "../../Components/Footer/Footer";
+import Carousel from '../../Components/Carousel/Carousel'
 import LayOut from "../../Components/LayOut/LayOut";
+import Category from "../../Components/Category/Category";
+import Product from "../../Components/Product/Product";
 
 const Landing = () => {
   return (
     <LayOut>
-      <HomePage />
+      <Carousel />
+      <Category /> 
+      <Product />
     </LayOut>
   );
 };

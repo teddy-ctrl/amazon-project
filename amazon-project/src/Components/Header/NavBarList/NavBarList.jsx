@@ -4,12 +4,12 @@ import { MdMenu } from "react-icons/md";
 import { Link } from 'react-router-dom';
 
 const NavBarList = () => {
- const options = [
+  const options = [
     { name: "Today`s Deals" },
     { name: "Prime Video" },
     { name: "Registry" },
     { name: "Customer Service" },
-    { name: "Fift Cards" },
+    { name: "Gift Cards" }, // Corrected typo from "Fift Cards"
     { name: "Sell" },
   ];
   return (
@@ -17,7 +17,7 @@ const NavBarList = () => {
       <div className={classes.navbarBanner}>
         <div className={classes.nabarBann}>
           <div className={classes.optionsNavbar}>
-            <MdMenu sx={{ fontSize: "24px" }} />
+            <MdMenu style={{ fontSize: "24px" }} /> {/* Fixed syntax: replaced sx with style */}
             <div className={classes.allOptionsNavbar}>All</div>
           </div>
 
@@ -30,8 +30,6 @@ const NavBarList = () => {
               );
             })
           }
-
-        
         </div>
       </div>
     </>

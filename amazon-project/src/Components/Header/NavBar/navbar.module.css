@@ -1,6 +1,6 @@
 /* --- Base Navbar Styles --- */
 .navbar {
-  background-color: #131921; /* User's specified color */
+  background-color: #131921; 
   display: flex;
   align-items: center;
   height: 60px;
@@ -16,12 +16,7 @@
   cursor: pointer;
   border: 1px solid transparent;
   transition: border-color 0.1s ease-in-out;
-  /* display: none; */ /* This is overridden by specific classes, which is fine */
-  /* If a component ONLY has this class, it would be hidden.
-     But components have their own classes like .leftNavBarLogo which set display: flex */
-  display: flex; /* Let's make it flex by default for items that might *only* have this.
-                     Specific component classes will still override if they also set display.
-                     The main benefit is consistency if a new item only gets this class. */
+  display: flex;
   align-items: center;
   height: calc(100% - 10px);
   margin: 5px 0;
@@ -35,10 +30,7 @@
 
 /* --- Hamburger Menu --- */
 .navbarHamburgerMenu {
-  /* inherits .navbarItemHoverable styles if also applied in JSX */
-  /* Base style will be display:none if only navbarItemHoverable is applied and it's none */
-  /* For clarity, setting its own display here and overriding in MQ */
-  display: none; /* Hidden by default, shown in media queries */
+  display: none; 
   padding: 5px 10px;
   font-size: 24px;
 }
@@ -49,8 +41,7 @@
 
 /* --- Logo --- */
 .leftNavBarLogo {
-  /* inherits .navbarItemHoverable if applied */
-  display: flex; /* Ensure it's displayed */
+  display: flex; 
   padding: 2px 6px;
   align-items: center;
   justify-content: center;
@@ -66,8 +57,7 @@
 
 /* --- Location Section --- */
 .navbarLocation {
-  /* inherits .navbarItemHoverable if applied */
-  display: flex; /* Ensure it's displayed */
+  display: flex;
   align-items: center;
   gap: 3px;
   flex-shrink: 0;
@@ -76,7 +66,7 @@
 .navbarLocationImgIcon {
   font-size: 22px;
   color: white;
-  margin-bottom: 10px; /* This will make the icon appear higher relative to the text block */
+  margin-bottom: 10px; 
   flex-shrink: 0;
 }
 .navbarLocationImgIcon svg { display: block; }
@@ -153,6 +143,8 @@
   color: #555;
   display: flex;
   align-items: center;
+  text-decoration: none;
+  
 }
 .dropdownIcon svg,
 .dropdownIconLanguage svg,
@@ -195,6 +187,7 @@
 .searchIconNavbarIcon {
   font-size: 24px;
   color: #131921;
+  text-decoration: none;
 }
 .searchIconNavbarIcon svg { display: block; }
 
@@ -255,6 +248,7 @@
   display: none; /* Hidden by default, shown in media query for 1024px */
   font-size: 20px;
   color: white;
+  text-decoration: none;
 }
 .personIcon svg { display: block; }
 
@@ -263,9 +257,11 @@
   font-size: 12px;
   font-weight: 400;
   color: #ffffff;
+  text-decoration: none;
 }
 /* For "Sign in" text specifically if needed */
 .signInText {
+  text-decoration: none;
     /* Add styles if you introduce a span for "Sign in" */
 }
 
@@ -276,11 +272,13 @@
   color: white;
   display: flex;
   align-items: center;
+  text-decoration: none;
 }
 .dropdownIconAccount {
   color: #a7acb2;
   font-size: 16px;
   margin-left: 1px;
+  text-decoration: none;
 }
 
 
@@ -308,6 +306,7 @@
   text-align: center;
   z-index: 1;
   padding: 0 3px;
+  text-decoration: none;
 }
 
 .cartLogo {
@@ -323,6 +322,7 @@
   line-height: 1;
   color: white;
   margin-bottom: 1px;
+  text-decoration: none;
 }
 
 
