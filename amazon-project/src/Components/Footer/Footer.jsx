@@ -2,6 +2,9 @@ import React from 'react';
 import styles from './footer.module.css';
 import amazonIcon from '../../assets/images/logo/amazonlogo.png';
 import usaIcon from '../../assets/images/logo/usa.png';
+import { TbWorld } from "react-icons/tb";
+import { Link } from 'react-router-dom';
+
 
 const Footer = () => {
   return (
@@ -74,26 +77,18 @@ const Footer = () => {
 
       {/* Footer Icons and Links */}
       <div className={styles.footerIconsContainer}>
-        <img
+        <Link to='/'><img
           src={amazonIcon}
           alt="Amazon Logo"
           className={styles.amazonLogo}
-        />
+        /></Link>
+        
         <div className={styles.footerIcons}>
           <div className={styles.iconItem}>
-            <img
-              src={usaIcon}
-              alt="USA Flag"
-              className={styles.flagIcon}
-            />
+            <TbWorld />
             <span>United States</span>
           </div>
           <div className={styles.iconItem}>
-            <img
-              src={usaIcon}
-              alt="USA Flag"
-              className={styles.flagIcon}
-            />
             <span>$ USD - U.S. Dollar</span>
           </div>
           <div className={styles.iconItem}>
@@ -105,6 +100,15 @@ const Footer = () => {
             <span>English</span>
           </div>
         </div>
+      </div>
+      <div className={styles.privacy}>
+        <div className={styles.notice}>
+          <a href="">Condition of Use</a>
+          <a href="">Privacy Notice</a>
+          <a href="">Consumer Health Data Privacy Disclosure </a>
+          <a href="">Your Ads Privacy Choices</a>
+        </div>
+        <p>$copy 1996-2025,Amazon-project,inc. or its affiliates</p>
       </div>
     </footer>
   );

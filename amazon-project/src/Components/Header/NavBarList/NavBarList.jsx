@@ -9,7 +9,7 @@ const NavBarList = () => {
     { name: "Prime Video" },
     { name: "Registry" },
     { name: "Customer Service" },
-    { name: "Gift Cards" }, // Corrected typo from "Fift Cards"
+    { name: "Gift Cards" }, 
     { name: "Sell" },
   ];
   return (
@@ -17,7 +17,7 @@ const NavBarList = () => {
       <div className={classes.navbarBanner}>
         <div className={classes.nabarBann}>
           <div className={classes.optionsNavbar}>
-            <MdMenu style={{ fontSize: "24px" }} /> {/* Fixed syntax: replaced sx with style */}
+            <MdMenu style={{ fontSize: "24px" }} /> 
             <div className={classes.allOptionsNavbar}>All</div>
           </div>
 

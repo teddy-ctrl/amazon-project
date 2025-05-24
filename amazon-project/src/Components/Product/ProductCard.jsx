@@ -59,14 +59,3 @@ const ProductCard = ({ product, flex, renderDesc, renderAdd }) => {
 };
 
 export default ProductCard;
-
-
-
-
-
-
-
-
-
-
-
