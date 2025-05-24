@@ -1,17 +1,3 @@
-// // import React from 'react'
-// // import {FadeLoader} from 'react-spinners'
-
-// // const Loder = () => {
-// //   return (
-// //     <div>
-// //       <FadeLoader />
-// //     </div>
-// //   )
-// // }
-
-// // export default Loder
-
-
 // import React from "react";
 // import { FadeLoader } from "react-spinners";
 
