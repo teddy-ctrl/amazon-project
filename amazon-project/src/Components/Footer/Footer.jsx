@@ -108,7 +108,7 @@ const Footer = () => {
           <a href="">Consumer Health Data Privacy Disclosure </a>
           <a href="">Your Ads Privacy Choices</a>
         </div>
-        <p>$copy 1996-2025,Amazon-project,inc. or its affiliates</p>
+        <p className={styles.copy}>$copy 1996-2025,Amazon-project,inc. or its affiliates</p>
       </div>
     </footer>
   );

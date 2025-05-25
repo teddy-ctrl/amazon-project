@@ -130,7 +130,7 @@
 .notice a:hover {
   text-decoration: underline;
 }
-p {
+.copy {
   font-size: 11px;
   text-align: center;
   padding-top: 3px;
