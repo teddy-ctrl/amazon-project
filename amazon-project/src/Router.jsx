@@ -4,15 +4,15 @@ import Payment from "./pages/Payment/Payment";
 import Orders from "./pages/Orders/Orders";
 import Cart from "./pages/Cart/Cart";
 import Landing from "./pages/Landing/Landing";
-import Signup from "./pages/Auth/Signup";
 import Results from "./pages/Results/Results";
 import ProductDetail from "./pages/ProductDetail/ProductDetail";
+import Auth from "./pages/Auth/Auth";
 
 const AppRouter = () => {
   return (
     <Routes>
       <Route path="/" element={<Landing />} />
-      <Route path="/auth" element={<Signup />} />
+      <Route path="/auth" element={<Auth />} />
       <Route path="/payments" element={<Payment />} />
       <Route path="/orders" element={<Orders />} />
       <Route path="/category/:categoryName" element={<Results />} />

@@ -1,0 +1,521 @@
+.authContainer {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.logo {
+  margin: 20px 0;
+}
+
+.formBox {
+  border: 1px solid #ddd;
+  padding: 20px 26px;
+  border-radius: 4px;
+  width: 300px;
+  max-width: 100%;
+  margin-bottom: 30px;
+}
+
+.signInText {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.label {
+  font-size: 13px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.input {
+  width: 100%;
+  padding: 7px;
+  margin-bottom: 10px;
+  border: 1px solid #a6a6a6;
+  border-radius: 3px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #414141;
+  box-shadow: 0 0 7px hsl(188, 76%, 69%);
+}
+
+.emailDisplay {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  font-size: 13px;
+}
+
+.changeLink {
+  color: #0066c0;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.changeLink:hover {
+  text-decoration: underline;
+  color: #00a0c4;
+}
+
+.passwordContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.forgetLink {
+  color: #0066c0;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.forgetLink:hover {
+  text-decoration: underline;
+  color: #00a0c4;
+}
+
+.continueBtn {
+  background-color: var( --primary-color);
+  border: none;
+  border-radius: 30px;
+  width: 100%;
+  padding: 8px;
+  font-size: 13px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+.continueBtn:hover {
+  background: var(--primary-shade);
+}
+
+.agreementText {
+  font-size: 13px;
+  line-height: 19px;
+}
+
+.link {
+  color: #0066c0;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: #0169c3;
+}
+
+.helpLink {
+  color: #0066c0;
+  text-decoration: none;
+  display: block;
+  margin-top: 10px;
+}
+
+.helpLink:hover {
+  text-decoration: underline;
+  color: #0169c3;
+}
+
+.divider {
+  border-top: .5px solid #ddd;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.businessText {
+  font-size: 13px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.businessBtn {
+  border: none;
+  background-color: white;
+  border-radius: 3px;
+  width: 100%;
+  padding: 8px;
+  font-size: 13px;
+  cursor: pointer;
+  color: #0066c0;
+}
+
+.businessBtn:hover {
+  color: #0169c3;
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  color: #555;
+}
+.footerLink a{
+    gap: 10px;
+}
+
+.copyright {
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.businessCreationContainer {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.businessForm {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.businessForm h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.businessForm input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.businessBenefits {
+  flex: 1;
+  background-color: #232f3e;
+  color: white;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.businessBenefits h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.businessBenefits ul {
+  list-style: none;
+  padding: 0;
+}
+
+.businessBenefits li {
+  margin-bottom: 15px;
+}
+
+.businessBenefits a {
+  color: #0073aa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.businessSignupContainer {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.businessSignupForm {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.businessSignupForm h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.businessSignupForm p {
+  margin: 10px 0;
+  color: #555;
+}
+
+.businessSignupForm .label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.businessSignupForm .input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.businessSignupForm .nextBtn {
+  background-color: #f5a623;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  width: 100%;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.businessSignupForm .nextBtn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.businessSignupForm .infoText {
+  font-size: 0.9em;
+  color: #0073aa;
+  margin-top: -10px;
+  margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.authContainer {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.logo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.formBox,
+.businessCreationContainer,
+.businessSignupContainer {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.signInText {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.continueBtn,
+.nextBtn {
+  background-color: #f5a623;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  width: 100%;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.continueBtn:hover,
+.nextBtn:hover {
+  background-color: #e59400;
+}
+
+.continueBtn:disabled,
+.nextBtn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.businessBtn {
+  background-color: #f0c14b;
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  width: 100%;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.businessBtn:hover {
+  background-color: #ddb347;
+}
+
+.businessBtn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.backBtn {
+  background: none;
+  border: none;
+  color: #0073aa;
+  cursor: pointer;
+  margin-bottom: 15px;
+  font-size: 1em;
+}
+
+.backBtn:hover {
+  text-decoration: underline;
+}
+
+.agreementText,
+.infoText {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 10px;
+}
+
+.link {
+  color: #0073aa;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.helpLink {
+  display: block;
+  text-align: center;
+  color: #0073aa;
+  margin: 10px 0;
+}
+
+.divider {
+  border: 0;
+  height: 1px;
+  background: #ddd;
+  margin: 20px 0;
+}
+
+.businessText {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.businessCreationContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.businessForm,
+.businessSignupForm {
+  flex: 1;
+  padding: 20px;
+}
+
+.businessBenefits {
+  flex: 1;
+  background-color: #232f3e;
+  color: white;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.businessBenefits ul {
+  list-style: none;
+  padding: 0;
+}
+
+.businessBenefits li {
+  margin-bottom: 15px;
+}
+
+.errorMessage {
+  color: red;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ffcccc;
+  border-radius: 4px;
+}
+
+.emailDisplay {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.changeLink,
+.forgetLink {
+  color: #0073aa;
+  text-decoration: none;
+}
+
+.changeLink:hover,
+.forgetLink:hover {
+  text-decoration: underline;
+}
+
+.passwordContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}

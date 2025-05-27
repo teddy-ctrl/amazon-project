@@ -11,10 +11,11 @@ import amazonIcon from '../../../assets/images/logo/amazonlogo.png';
 import cartIcon from '../../../assets/images/logo/cart.png';
 import usaIcon from '../../../assets/images/logo/usa.png';
 import { DataContext } from '../../DataProvider/DataProvider';
+import { auth } from '../../../Utility/firebase';
 
 const NavBar = () => {
 
-  const [{basket}, dispatch] = useContext(DataContext)
+  const [{user, basket}, dispatch] = useContext(DataContext)
     // console.log(basket.length)
     const totalItem = basket?.reduce((amount, item) => {
       return item.amount + amount
@@ -74,11 +75,26 @@ const NavBar = () => {
         </div>
 
         {/* Sign In */}
-        <Link to='/signin' className={`${styles.signInNavbar} ${styles.navbarItemHoverable}`}>
+        <Link to={!user && '/auth'} className={`${styles.signInNavbar} ${styles.navbarItemHoverable}`}>
           <BsPerson className={styles.personIcon} />
           <div className={styles.signInTextContainer}> 
-            <div className={styles.topNavbar}>Hello, Sign in</div>
-            <div className={styles.bottomNavbarAccount}>Account & Lists <MdArrowDropDown className={styles.dropdownIconAccount} /></div>
+            <div className={styles.topNavbar}>
+              {
+                user?(
+                  <>
+                 <p> Hello, {user?.email?.split('@')[0]}</p>
+                <div className={styles.bottomNavbarAccount} onClick={() => auth.signOut()}>Sign Out <MdArrowDropDown className={styles.dropdownIconAccount} /></div>
+
+                  </>
+                ):(
+                  <>
+                  <p> Hello, Sign in </p>
+                  <div className={styles.bottomNavbarAccount}>Account & Lists <MdArrowDropDown className={styles.dropdownIconAccount} /></div>
+
+                  </>
+                )
+              }
+              </div>
           </div>
         </Link>
 
