@@ -1,0 +1,112 @@
+.navbarBanner {
+    background-color: #232F3E;
+    padding: 0 0 0 11px;
+    display: flex;
+    height: 40px;
+    justify-content: space-between;
+    color: white;
+}
+
+.nabarBann {
+    display: flex;
+    align-items: center;
+}
+
+.optionsNavbar {
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    cursor: pointer;
+   
+}
+
+/* --- Common Hoverable Box Style --- */
+.hoverableBox {
+  padding: 5px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: border-color 0.1s ease-in-out;
+  display: flex; 
+  align-items: center; 
+}
+
+.hoverableBox:hover {
+  border-color: white;
+}
+
+.optionsNavbar{
+    composes: hoverableBox;
+  height: 32px; 
+  padding: 8px 6px;
+  gap: 10px;
+}
+
+.allOptionsNavbar {
+    font-size: 10px;
+    /* padding-left: 5px; */
+    font-weight: 300;
+}
+
+/* Responsive Design */
+@media (min-width: 1024px) {
+  .nabarBann {
+    padding: 0 20px;
+  }
+
+  .optionsNavbar {
+    padding: 0.5rem 1.5rem;
+  }
+
+  .allOptionsNavbar {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 1023px) {
+  .nabarBann {
+    padding: 0 15px;
+  }
+
+  .optionsNavbar {
+    padding: 0.5rem 1rem;
+  }
+
+  .allOptionsNavbar {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .nabarBann {
+    display: none;
+  }
+
+  /* .optionsNavbar {
+    width: 100%;
+    padding: 0.5rem;
+    justify-content: flex-start;
+  }
+
+  .allOptionsNavbar {
+    font-size: 0.9rem;
+    padding: 0 0.3rem;
+  } */
+}
+
+/* @media (max-width: 480px) {
+  .nabarBann {
+    padding: 0 5px;
+  }
+
+  .optionsNavbar {
+    padding: 0.4rem;
+  }
+
+  .allOptionsNavbar {
+    font-size: 0.85rem;
+    padding: 0 0.2rem;
+  }
+} */
