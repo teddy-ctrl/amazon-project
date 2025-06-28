@@ -1,18 +1,15 @@
-// --------------------------------
-
 import { useState, useContext, useEffect } from "react";
 import styles from "./auth.module.css";
-import { auth } from "../../Utility/firebase";
+import { auth, db } from "../../Utility/firebase";
 import {
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword,
 } from "firebase/auth";
 import { DataContext } from "../../Components/DataProvider/DataProvider";
 import { ClipLoader } from "react-spinners";
-import { getFirestore, doc, setDoc } from "firebase/firestore";
+import { doc, setDoc } from "firebase/firestore";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 
-// Assume Type is defined in DataProvider or elsewhere
 const Type = {
   SET_USER: "SET_USER",
 };
@@ -26,20 +23,16 @@ const Auth = () => {
   const [businessPassword, setBusinessPassword] = useState("");
   const [reenterPassword, setReenterPassword] = useState("");
   const [error, setError] = useState("");
-  const [loading, setLoading] = useState(false); // Simplified to single boolean
+  const [loading, setLoading] = useState(false);
   const [showBusinessForm, setShowBusinessForm] = useState(false);
   const [showBusinessSignupForm, setShowBusinessSignupForm] = useState(false);
 
   const [{ user }, dispatch] = useContext(DataContext);
   const navigate = useNavigate();
   const navStateData = useLocation();
-  console.log(navStateData);
-
-  const db = getFirestore();
 
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
-  // Map Firebase errors to user-friendly messages
   const getFriendlyErrorMessage = (errorCode) => {
     switch (errorCode) {
       case "auth/email-already-in-use":
@@ -51,6 +44,8 @@ const Auth = () => {
         return "Invalid email or password.";
       case "auth/weak-password":
         return "Password is too weak. It must be at least 6 characters and include letters and numbers.";
+      case "permission-denied":
+        return "Unable to save user data due to permission issues. Please contact support.";
       default:
         return "An error occurred. Please try again.";
     }
@@ -171,6 +166,11 @@ const Auth = () => {
       setError("Full name must be at least 2 characters");
       return;
     }
+    if (!db) {
+      setError("Firestore is not initialized. Please check Firebase configuration.");
+      console.error("Firestore instance is undefined");
+      return;
+    }
     setLoading(true);
     try {
       const userCredential = await createUserWithEmailAndPassword(
@@ -179,12 +179,25 @@ const Auth = () => {
         businessPassword
       );
       const user = userCredential.user;
+      console.log("User created with UID:", user.uid);
 
-      await setDoc(doc(db, "users", user.uid), {
-        fullName,
-        email: businessEmail,
+      // Sanitize data to ensure valid Firestore fields
+      const userData = {
+        fullName: fullName.trim(),
+        email: businessEmail.toLowerCase().trim(),
         createdAt: new Date().toISOString(),
-      });
+      };
+      console.log("Attempting to write to Firestore with data:", userData);
+
+      try {
+        await setDoc(doc(db, "users", user.uid), userData);
+        console.log("Firestore write successful for user:", user.uid);
+      } catch (firestoreError) {
+        console.error("Firestore write error:", firestoreError);
+        throw new Error(firestoreError.code === "permission-denied" 
+          ? "permission-denied" 
+          : `Failed to write to Firestore: ${firestoreError.message}`);
+      }
 
       dispatch({ type: Type.SET_USER, user });
       setShowBusinessSignupForm(false);
@@ -193,7 +206,8 @@ const Auth = () => {
       setTimeout(() => setError(""), 3000);
       navigate(navStateData?.state?.redirect || "/");
     } catch (err) {
-      setError(getFriendlyErrorMessage(err.code));
+      console.error("Account creation error:", err);
+      setError(getFriendlyErrorMessage(err.message || err.code));
     } finally {
       setLoading(false);
     }

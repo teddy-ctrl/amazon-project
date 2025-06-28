@@ -294,3 +294,77 @@ body { /* Added for basic page defaults */
   border-radius: 4px;
   font-size: 0.9em;
 }
+
+/* --- Responsive Adjustments --- */
+
+@media (max-width: 768px) { 
+  .authContainer {
+    padding: 20px 15px; 
+  }
+
+  .businessCreationContainer {
+    flex-direction: column;
+    align-items: center; 
+    max-width: 500px; 
+  }
+
+  .businessCreationContainer > .businessForm,
+  .businessCreationContainer > .businessBenefits {
+    width: 100%; 
+    flex-basis: auto; 
+  }
+
+  .signInText {
+    font-size: 24px; /* Slightly smaller for smaller screens */
+  }
+}
+
+@media (max-width: 480px) { /* Mobile phones */
+  .authContainer {
+    padding: 15px 0; /* Minimal padding on very small screens */
+  }
+
+  .formBox,
+  .businessSignupContainer .businessSignupForm,
+  .businessCreationContainer > .businessForm,
+  .errorMessage {
+    border-left: none;
+    border-right: none;
+    border-radius: 0; /* Full-width feel on mobile */
+    box-shadow: none;
+    margin-bottom: 0; /* Remove bottom margin if it's the only element */
+    border-bottom: 1px solid #ddd; /* Add bottom border if mb is 0 */
+  }
+  .authContainer > *:last-child { /* Remove bottom border from last element */
+      border-bottom: none;
+  }
+
+
+  .formBox,
+  .businessSignupContainer .businessSignupForm,
+  .businessCreationContainer > .businessForm {
+     padding: 20px 15px; 
+  }
+
+
+  .signInText {
+    font-size: 22px;
+  }
+
+  .logo {
+    margin: 15px auto 10px;
+    max-width: 90px;
+  }
+
+  .footer {
+    font-size: 10px;
+    padding: 15px 0;
+  }
+
+  .footerLinksContainer {
+    gap: 10px;
+  }
+  .agreementText, .infoText {
+    font-size: 11px;
+  }
+}

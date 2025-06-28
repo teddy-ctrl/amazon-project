@@ -1,15 +1,15 @@
 /* ./footer.module.css */
 
 .footer {
-  background-color: #232F3E; /* Amazon's main footer blue/gray */
+  background-color: #232F3E; 
   color: #DDD;
-  font-family: Arial, sans-serif; /* Amazon uses Amazon Ember, Arial is a good fallback */
+  font-family: Arial, sans-serif; 
   font-size: 14px;
   line-height: 1.5;
 }
 
 .backToTop {
-  background-color: #37475A; /* Slightly lighter blue/gray */
+  background-color: #37475A; 
   color: #FFFFFF;
   text-align: center;
   padding: 15px 0;
@@ -22,7 +22,7 @@
 }
 
 .footerLinksContainer {
-  max-width: 1000px; /* Constrain width on larger screens */
+  max-width: 1000px; 
   margin: 0 auto;
   padding: 40px 20px;
 }
@@ -30,14 +30,14 @@
 .footerLinks {
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap; /* Allow columns to wrap */
-  gap: 20px; /* Space between columns when they wrap */
+  flex-wrap: wrap; 
+  gap: 20px; 
 }
 
 .footerColumn {
-  flex-grow: 1; /* Allow columns to grow */
-  min-width: 180px; /* Minimum width before wrapping/stacking */
-  margin-bottom: 20px; /* Space below columns on mobile when stacked */
+  flex-grow: 1; 
+  min-width: 180px; 
+  margin-bottom: 20px; 
 }
 
 .columnTitle {
@@ -69,32 +69,32 @@
 
 .divider {
   border: none;
-  border-top: 1px solid #3a4553; /* Subtle divider line */
-  margin: 0; /* Reset margin, container will handle spacing */
+  border-top: 1px solid #3a4553; 
+  margin: 0; 
 }
 
 .footerIconsContainer {
   display: flex;
   align-items: center;
-  justify-content: center; /* Center items by default */
+  justify-content: center; 
   padding: 30px 20px;
   max-width: 1000px;
   margin: 0 auto;
-  flex-wrap: wrap; /* Allow wrapping on smaller screens */
+  flex-wrap: wrap; 
   gap: 20px;
 }
 
 .amazonLogo {
-  height: 25px; /* Adjust as needed */
-  margin-right: 40px; /* Space between logo and other icons */
+  height: 25px; 
+  margin-right: 40px; 
 }
 
 .footerIcons {
   display: flex;
   align-items: center;
-  gap: 10px; /* Space between individual icon items */
-  flex-wrap: wrap; /* Allow individual items to wrap */
-  justify-content: center; /* Center items if they wrap */
+  gap: 10px; 
+  flex-wrap: wrap; 
+  justify-content: center; 
 }
 
 .iconItem {
@@ -106,27 +106,27 @@
   font-size: 13px;
   color: #DDD;
   cursor: pointer;
-  white-space: nowrap; /* Prevent text from wrapping inside the item */
+  white-space: nowrap; 
 }
 
 .iconItem:hover {
   border-color: #DDD;
 }
 
-.iconItem svg { /* For TbWorld */
+.iconItem svg { 
   margin-right: 8px;
-  font-size: 16px; /* Adjust icon size */
+  font-size: 16px; 
 }
 
 .flagIcon {
-  height: 12px; /* Adjust flag size */
+  height: 12px; 
   margin-right: 8px;
-  border: 1px solid #555; /* Subtle border for the flag icon */
+  border: 1px solid #555; 
 }
 
 .privacy {
-  background-color: #131A22; /* Darker bottom bar */
-  padding: 20px 10px 30px; /* Extra bottom padding */
+  background-color: #131A22; 
+  padding: 20px 10px 30px; 
   text-align: center;
   font-size: 12px;
   color: #DDD;
@@ -139,7 +139,7 @@
 .notice a {
   color: #DDD;
   text-decoration: none;
-  margin: 0 7px; /* Space between links */
+  margin: 0 7px; 
   white-space: nowrap;
 }
 
@@ -158,57 +158,57 @@
 /* Tablet-like screens */
 @media (max-width: 992px) {
   .footerLinks {
-    justify-content: space-around; /* Better distribution for 2 columns */
+    justify-content: space-around; 
   }
   .footerColumn {
-    flex-basis: calc(50% - 20px); /* Roughly two columns, accounting for gap */
-    min-width: unset; /* Remove min-width to allow two columns */
+    flex-basis: calc(50% - 20px); 
+    min-width: unset; 
   }
 }
 
 /* Smaller tablets and large mobiles */
 @media (max-width: 768px) {
   .footerIconsContainer {
-    flex-direction: column; /* Stack logo and icons */
+    flex-direction: column; 
     gap: 20px;
   }
   .amazonLogo {
-    margin-right: 0; /* No right margin when stacked */
-    margin-bottom: 15px; /* Space below logo */
+    margin-right: 0; 
+    margin-bottom: 15px; 
   }
   .footerIcons {
-    justify-content: center; /* Center the icon items */
+    justify-content: center; 
   }
 }
 
 /* Mobile screens */
 @media (max-width: 576px) {
   .footerLinks {
-    flex-direction: column; /* Stack link columns */
-    align-items: flex-start; /* Align to left, or center if preferred */
+    flex-direction: column; 
+    align-items: flex-start; 
   }
   .footerColumn {
-    flex-basis: 100%; /* Full width for each column */
-    /* text-align: center; */ /* Optional: center text in columns */
+    flex-basis: 100%; 
+    /* text-align: center; */ 
   }
   .columnTitle {
-    /* text-align: center; */ /* Optional: center title if column text is centered */
+    /* text-align: center; */ 
   }
   .footerColumn ul {
-    /* text-align: center; */ /* Optional: center list items */
+    /* text-align: center; */ 
   }
 
   .footerIcons {
-    flex-direction: column; /* Stack icon items vertically */
-    align-items: stretch; /* Make items full width */
+    flex-direction: column; 
+    align-items: stretch; 
     gap: 8px;
   }
   .iconItem {
-    justify-content: center; /* Center content within each icon item */
+    justify-content: center; 
   }
   .notice {
     display: flex;
-    flex-direction: column; /* Stack privacy links */
+    flex-direction: column;
     gap: 8px;
   }
   .notice a {
@@ -219,7 +219,7 @@
 /* Extra small screens adjustments if needed */
 @media (max-width: 360px) {
     .footerLink, .iconItem, .notice a {
-        font-size: 13px; /* Slightly smaller font for very small screens */
+        font-size: 13px; 
     }
     .columnTitle {
         font-size: 15px;

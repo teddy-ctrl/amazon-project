@@ -5,7 +5,7 @@ import ProductCard from "../../Components/Product/ProductCard";
 import CurrencyFormat from "../../Components/Product/CurrencyFormat";
 import { Link } from "react-router-dom";
 import { Type } from "../../Utility/action.type";
-import styles from "./cart.module.css"; // Ensure this path is correct
+import styles from "./cart.module.css"; 
 
 const Cart = () => {
   const [state, dispatch] = useContext(DataContext);
