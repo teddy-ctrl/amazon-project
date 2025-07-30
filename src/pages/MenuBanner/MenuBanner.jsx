@@ -2,7 +2,7 @@ import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import { img } from "./data.js";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import styles from "./MenuBanner.module.css"; // Use the new CSS module
+import styles from "./menuBanner.module.css"; // Use the new CSS module
 import ProductGrid from "./ProductGrid.jsx";
 
 const MenuBanner = () => {
