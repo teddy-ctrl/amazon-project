@@ -1,0 +1,388 @@
+/* --- Global & Color Variables --- */
+:root {
+    --amazon-orange: #f0c14b;
+    --amazon-orange-dark: #e8b83a;
+    --amazon-yellow: #ffd814;
+    --amazon-yellow-dark: #f7ca00;
+    --amazon-blue-link: #007185;
+    --amazon-blue-link-hover: #C7511F;
+    --amazon-red: #B12704;
+    --text-color: #0F1111;
+    --border-color: #ddd;
+    --background-grey: #f0f2f2;
+    --stock-green: #007600;
+}
+
+/* --- Main Container --- */
+.productDetailContainer {
+    display: grid;
+    grid-template-columns: 2fr 2fr 1fr; /* Columns for: Gallery, Main Info, Buy Box */
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    color: var(--text-color);
+}
+
+/* --- 1. Left Column: Image Gallery --- */
+.leftColumn {
+    display: flex;
+    gap: 10px;
+}
+
+.thumbnailList {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.thumbnail {
+    width: 60px;
+    height: 60px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    overflow: hidden;
+    cursor: pointer;
+    padding: 2px;
+}
+
+.thumbnail:hover {
+    border-color: var(--amazon-orange);
+}
+
+.activeThumbnail {
+    border: 2px solid var(--amazon-orange);
+    box-shadow: 0 0 5px var(--amazon-orange);
+}
+
+.thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.mainImageContainer {
+    position: relative;
+    cursor: zoom-in;
+    flex-grow: 1;
+}
+
+.productDetailImage {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    object-fit: contain;
+}
+
+/* --- Image Zoom Effect --- */
+.zoomLens {
+    position: absolute;
+    border: 1px solid #000;
+    width: 600px; /* Size of the lens */
+    height: 600px;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.2s;
+    pointer-events: none; /* Allows mouse events to pass through */
+    right: -610px; /* Position the zoomed view to the right of the image */
+    top: 0;
+    background-color: white;
+    z-index: 10;
+}
+
+.zoomLens.visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+/* --- 2. Middle Column: Product Info --- */
+.middleColumn {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.productTitle {
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.brandLink {
+    color: var(--amazon-blue-link);
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.brandLink:hover {
+    color: var(--amazon-blue-link-hover);
+    text-decoration: underline;
+}
+
+.ratingRow {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+}
+
+.ratingRow > span:first-child {
+    color: var(--amazon-red);
+}
+
+.reviewCount {
+    color: var(--amazon-blue-link);
+    text-decoration: none;
+}
+
+.reviewCount:hover {
+    color: var(--amazon-blue-link-hover);
+    text-decoration: underline;
+}
+
+.middleColumn hr {
+    border: 0;
+    height: 1px;
+    background-color: #e7e7e7;
+    margin: 0;
+}
+
+.amazonChoice, .limitedTimeDeal {
+    padding: 4px 8px;
+    background-color: #232f3e;
+    color: white;
+    font-size: 12px;
+    border-radius: 3px;
+    display: inline-block;
+    width: max-content;
+}
+
+.limitedTimeDeal {
+    background-color: var(--amazon-red);
+}
+
+.salesVolume {
+    font-size: 14px;
+}
+
+.priceBlock {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.discountPercentage {
+    color: var(--amazon-red);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.priceCurrency, .priceFraction {
+    font-size: 14px;
+    color: var(--amazon-red);
+    position: relative;
+    top: -0.5em;
+}
+
+.priceWhole {
+    font-size: 28px;
+    font-weight: 400;
+    color: var(--amazon-red);
+}
+
+.listPrice {
+    font-size: 14px;
+    color: #565959;
+}
+
+.listPriceValue {
+    text-decoration: line-through;
+}
+
+/* --- Variants Section --- */
+.variantsSection {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.variantGroup strong {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.variantOptions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.variantButton {
+    padding: 8px 12px;
+    border: 1px solid #888c8c;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.variantButton:hover {
+    background-color: #f7fafa;
+    border-color: #7a7d7d;
+}
+
+.selectedVariant {
+    border: 2px solid var(--amazon-orange);
+    box-shadow: 0 0 3px var(--amazon-orange);
+}
+
+/* --- Product Info Table --- */
+.productInfoTable {
+    margin-top: 1rem;
+}
+.productInfoTable h2 {
+    font-size: 18px;
+    margin-bottom: 1rem;
+}
+.productInfoTable table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.productInfoTable th, .productInfoTable td {
+    padding: 8px;
+    border-top: 1px solid var(--border-color);
+    text-align: left;
+    font-size: 14px;
+}
+.productInfoTable th {
+    font-weight: bold;
+    background-color: #f3f3f3;
+    width: 30%;
+}
+
+
+/* --- 3. Right Column: Buy Box --- */
+.rightColumn {
+    padding-top: 5px; /* Align top with title */
+}
+
+.buyBox {
+    border: 1px solid #d5d9d9;
+    border-radius: 8px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.buyBoxPrice {
+    color: var(--amazon-red);
+}
+
+.buyBox .deliveryInfo {
+    font-size: 14px;
+}
+
+.stockStatus {
+    color: var(--stock-green);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.quantitySelector {
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #d5d9d9;
+    background-color: var(--background-grey);
+    box-shadow: 0 2px 5px rgba(213, 217, 217, .5);
+    cursor: pointer;
+}
+
+.actionButton {
+    width: 100%;
+    padding: 12px 0;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.cartButton {
+    background-color: var(--amazon-yellow);
+}
+.cartButton:hover {
+    background-color: var(--amazon-yellow-dark);
+}
+
+.buyNowButton {
+    background-color: var(--amazon-orange);
+}
+.buyNowButton:hover {
+    background-color: var(--amazon-orange-dark);
+}
+
+.sellerInfo {
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    text-align: left;
+}
+
+.sellerInfo span a {
+    color: var(--amazon-blue-link);
+    text-decoration: none;
+}
+.sellerInfo span a:hover {
+    color: var(--amazon-blue-link-hover);
+}
+
+.protectionPlan {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+}
+
+.protectionPlan input[type="checkbox"] {
+    margin: 0;
+}
+
+/* --- Responsive Design --- */
+@media (max-width: 1024px) {
+    .productDetailContainer {
+        grid-template-columns: 1fr 1.5fr; /* Gallery+Info, Buy Box */
+        grid-template-areas: 
+            "gallery info"
+            "buybox buybox";
+    }
+    .leftColumn { grid-area: gallery; }
+    .middleColumn { grid-area: info; }
+    .rightColumn { grid-area: buybox; }
+
+    .zoomLens {
+        display: none; /* Hide zoom on smaller screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .productDetailContainer {
+        grid-template-columns: 1fr; /* Single column */
+        grid-template-areas: 
+            "gallery"
+            "info"
+            "buybox";
+        padding: 1rem;
+    }
+    .leftColumn {
+        flex-direction: column-reverse; /* Put thumbnails below image */
+    }
+    .thumbnailList {
+        flex-direction: row;
+        justify-content: center;
+    }
+}

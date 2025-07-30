@@ -1,0 +1,185 @@
+{
+    "product": [
+        {
+            "itemTitle": "Revamp your home in style",
+            "imgs": [
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_furnishings_2._SY116_CB584596691_.jpg",
+                    "productName": "Home Furnishings Set",
+                    "category": "Home & Kitchen"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_decor_1._SY116_CB584596691_.jpg",
+                    "productName": "Decorative Wall Art",
+                    "category": "Home Decor"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_storage_1._SY116_CB584596691_.jpg",
+                    "productName": "Storage Organizer",
+                    "category": "Home & Kitchen"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_lighting_2._SY116_CB584596691_.jpg",
+                    "productName": "LED Table Lamp",
+                    "category": "Home Improvement"
+                }
+            ]
+        },
+        {
+            "itemTitle": "Appliances for your home | Up to 55% off",
+            "imgs": [
+               
+                {
+                    "url": "https://m.media-amazon.com/images/I/313wAT6Iy2L._SY160_.jpg",
+                    "productName": "Refrigerator",
+                    "category": "Appliances"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg",
+                    "productName": "Microwave Oven",
+                    "category": "Appliances"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg",
+                    "productName": "Washing Machine",
+                    "category": "Appliances"
+                }
+            ]
+        },
+        {
+            "itemTitle": "Automotive essentials | Up to 60% off",
+            "imgs": [
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Glasscare1X._SY116_CB410830553_.jpg",
+                    "productName": "Car Glass Cleaner",
+                    "category": "Automotive"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare1x._SY116_CB410830552_.jpg",
+                    "productName": "Tire and Rim Cleaner",
+                    "category": "Automotive"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_186x116._SY116_CB405090404_.jpg",
+                    "productName": "Vega Motorcycle Helmet",
+                    "category": "Automotive"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vaccum1x._SY116_CB410830552_.jpg",
+                    "productName": "Car Vacuum Cleaner",
+                    "category": "Automotive"
+                }
+            ]
+        },
+        {
+            "itemTitle": "Upgrade your tech | Deals on electronics",
+            "imgs": [
+                {
+                    "url": "https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_UL160_SR160,160_.jpg",
+                    "productName": "Smartwatch",
+                    "category": "Electronics"
+                },
+                {
+                    "url": "https://m.media-amazon.com/images/I/61GiuI-ebWL._AC_UY218_.jpg",
+                    "productName": "Wireless Headphones",
+                    "category": "Electronics"
+                },
+                {
+                    "url": "https://m.media-amazon.com/images/I/71kzInVwzgL._AC_UY218_.jpg",
+                    "productName": "Portable Speaker",
+                    "category": "Electronics"
+                },
+                {
+                    "url": "https://m.media-amazon.com/images/I/61AcT0ZuO3L._AC_UL320_.jpg",
+                    "productName": "Gaming Mouse",
+                    "category": "Computers & Accessories"
+                }
+            ]
+        },
+        {
+            "itemTitle": "Up to 60% off | Styles for women",
+            "imgs": [
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF1-186-116._SY116_CB636048992_.jpg",
+                    "productName": "Women's Casual Dress",
+                    "category": "Clothing"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF2-186-116._SY116_CB636048992_.jpg",
+                    "productName": "Women's Handbag",
+                    "category": "Clothing"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF4-186-116._SY116_CB636048992_.jpg",
+                    "productName": "Women's Sandals",
+                    "category": "Shoes"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF3-186-116._SY116_CB636048992_.jpg",
+                    "productName": "Women's Sunglasses",
+                    "category": "Accessories"
+                }
+            ]
+        },
+        {
+            "itemTitle": "Get your game on",
+            "imgs": [
+                {
+                    "url": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/Stores-Gaming/FinalGraphics/Fuji_Gaming_store_Dashboard_card_1x_EN._SY304_CB564799420_.jpg",
+                    "productName": "Fuji Gaming store Dashboard card",
+                    "category": "Computers & Accessories"
+                }
+            ]
+        },
+        {
+            "itemTitle": "Up to 60% off | Professional tools, testing & more",
+            "imgs": [
+                {
+                    "url": "https://m.media-amazon.com/images/I/51JMwxvDU7L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+                    "productName": "Cordless Power Drill",
+                    "category": "Tools & Home Improvement"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2021/BAU_GW_Graphics/PCQC/2._SY116_CB643952439_.jpg",
+                    "productName": "Multimeter Tester",
+                    "category": "Tools & Home Improvement"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2021/BAU_GW_Graphics/PCQC/1._SY116_CB643952439_.jpg",
+                    "productName": "Tool Kit Set",
+                    "category": "Tools & Home Improvement"
+                },
+                {
+                    "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2018/QC/med1x._SY116_CB424026091_.jpg",
+                    "productName": "Digital Caliper",
+                    "category": "Tools & Home Improvement"
+                }
+            ]
+        },
+        {
+            "itemTitle": "Best Sellers in Sports, Fitness & Outdoors",
+            "imgs": [
+                {
+                    "url": "https://m.media-amazon.com/images/I/51+b9IWWbjL._AC_SY200_.jpg",
+                    "productName": "Yoga Mat",
+                    "category": "Sports & Outdoors"
+                },
+                {
+                    "url": "https://m.media-amazon.com/images/I/71RvZs6LY+L._AC_SY200_.jpg",
+                    "productName": "Dumbbell Set",
+                    "category": "Sports & Outdoors"
+                },
+                {
+                    "url": "https://m.media-amazon.com/images/I/61Av1lptLkL._AC_SY200_.jpg",
+                    "productName": "Resistance Bands",
+                    "category": "Sports & Outdoors"
+                },
+                {
+                    "url": "https://m.media-amazon.com/images/I/61Mg9eVK0HL._AC_SY200_.jpg",
+                    "productName": "Fitness Tracker",
+                    "category": "Electronics"
+                }
+            ]
+        }
+    ]
+}

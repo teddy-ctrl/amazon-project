@@ -1,0 +1,190 @@
+/* --- Carousel Banner Styling --- */
+.homeBanner {
+  position: relative;
+  z-index: 1;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.homeBannerImg {
+  width: 100%;
+  mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+}
+
+.homeBanner :global(.carousel .control-arrow.control-prev),
+.homeBanner :global(.carousel .control-arrow.control-next) {
+  top: 0;
+  height: 250px;
+  background: none;
+}
+
+.productGridContainer {
+  position: relative;
+  z-index: 2;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 20px;
+
+  /* PULLS the grid up over the banner */
+  margin-top: -350px;
+
+  /* Creates a smooth transition from the faded banner to the page background */
+  background: linear-gradient(to bottom, transparent, #eaeded 20%);
+}
+
+/*
+============================================================
+  ADD THESE NEW STYLES TO THE END OF YOUR CSS FILE
+  This layout is ONLY used for cards with long titles.
+============================================================
+*/
+
+/* The container for the special multi-line title layout */
+.itemImage--longTitleLayout {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+/* The first image in this layout will be the main, full-width one */
+.itemImage--longTitleLayout .imgList:first-child {
+  grid-column: 1 / -1; /* This makes the first image span all 3 columns */
+}
+
+/* Make the main image taller than the sub-images */
+.itemImage--longTitleLayout .imgList:first-child .imgBanner {
+  height: 140px;
+  object-fit: contain;
+}
+
+/* Make the sub-images shorter */
+.itemImage--longTitleLayout .imgList:not(:first-child) .imgBanner {
+  height: 80px;
+}
+
+/* --- Responsive adjustments for the overlap --- */
+@media (max-width: 1200px) {
+  .productGridContainer {
+    margin-top: -250px;
+  }
+}
+@media (max-width: 992px) {
+  .productGridContainer {
+    margin-top: -200px;
+  }
+}
+@media (max-width: 576px) {
+  .productGridContainer {
+    margin-top: -150px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: linear-gradient(to bottom, transparent, #eaeded 15%);
+  }
+}
+
+/* --- Main Grid Container --- */
+.homeProduct {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding-top: 10px;
+}
+
+/* --- Individual Card Styling --- */
+.card {
+  text-decoration: none;
+  color: #0f1111;
+  background-color: white;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 20px 15px 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.itemCardTitle {
+  margin: 0 0 15px 0;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.seeMore {
+  margin-top: auto; /* Pushes this link to the bottom */
+  padding-top: 15px;
+  font-size: 13px;
+  color: #007185;
+}
+.seeMore:hover {
+  color: #c7511f;
+}
+
+/* --- DYNAMIC IMAGE LAYOUT STYLES --- */
+.itemImage {
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+.imgList {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.imgBanner {
+  width: 100%;
+  height: 115px;
+  object-fit: contain;
+}
+.imageName {
+  font-size: 12px;
+  line-height: 1.3;
+  color: #333;
+}
+
+/* 1. DEFAULT 2x2 GRID (For 2 or 4 images) */
+.itemImage--grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+
+/* 2. SINGLE, FULL-WIDTH IMAGE LAYOUT */
+.itemImage--single {
+  display: block;
+}
+.itemImage--single .imgBanner {
+  height: 350px;
+  object-fit: cover;
+}
+.itemImage--single .imageName {
+  display: none;
+}
+
+/* 3. FEATURED 3-IMAGE LAYOUT (1 big, 2 small) */
+.itemImage--featured3 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+.itemImage--featured3 .imgList--featured {
+  grid-column: 1 / -1;
+}
+.itemImage--featured3 .imgList--featured .imgBanner {
+  height: 140px;
+}
+
+/* --- Responsive Adjustments for the Grid --- */
+@media (max-width: 1200px) {
+  .homeProduct {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 992px) {
+  .homeProduct {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 576px) {
+  .homeProduct {
+    grid-template-columns: 1fr;
+  }
+}

@@ -8,14 +8,16 @@ import { Type } from "../../Utility/action.type";
 import styles from "./cart.module.css"; 
 
 const Cart = () => {
-  const [state, dispatch] = useContext(DataContext);
-  const { basket, user } = state || { basket: [], user: null };
+  // This line was destructured incorrectly. It should get the state object, not an array.
+  const [{ basket, user }, dispatch] = useContext(DataContext);
 
   const total = basket.reduce((amount, item) => {
+    // This calculation is correct
     return item.price * item.amount + amount;
   }, 0);
 
   const totalItemsInBasket = basket.reduce((count, item) => {
+    // This calculation is correct
     return item.amount + count;
   }, 0);
 
@@ -60,7 +62,6 @@ const Cart = () => {
               {basket?.map((item) => (
                 <section className={styles.productItem} key={item.id}>
                   <div className={styles.productDetailsArea}>
-                    {/* THIS IS THE ADDED WRAPPER for ProductCard scoping */}
                     <div className={styles.cartItemProductCardWrapper}>
                       <ProductCard
                         product={item}
@@ -71,15 +72,11 @@ const Cart = () => {
                     </div>
                     <div className={styles.itemActions}>
                       <div className={styles.quantityControls}>
+                        {/* FIX #1: Simplified the onClick logic. 
+                            The reducer already handles removing the item when amount is 1.
+                            This makes the component code cleaner and relies on the reducer's logic. */}
                         <button
-                          onClick={() =>
-                            item.amount <= 1
-                              ? dispatch({
-                                  type: Type.REMOVE_FROM_BASKET,
-                                  id: item.id,
-                                })
-                              : decrement(item.id)
-                          }
+                          onClick={() => decrement(item.id)}
                           className={`${styles.quantityButton} ${styles.decrementButton}`}
                           aria-label="Decrement quantity"
                         >
@@ -102,12 +99,7 @@ const Cart = () => {
                       </div>
                       <span
                         className={styles.actionLink}
-                        onClick={() =>
-                          dispatch({
-                            type: Type.REMOVE_FROM_BASKET,
-                            id: item.id,
-                          })
-                        }
+                        onClick={() => decrement(item.id)} // Pointing to decrement is more consistent
                       >
                         Delete
                       </span>
@@ -115,7 +107,9 @@ const Cart = () => {
                     </div>
                   </div>
                   <div className={styles.itemPrice}>
-                    <CurrencyFormat amount={item.price} />
+                    {/* FIX #2: Corrected the price display.
+                        It now shows the total for the line item (price * amount). */}
+                    <CurrencyFormat amount={item.price * item.amount} />
                   </div>
                 </section>
               ))}

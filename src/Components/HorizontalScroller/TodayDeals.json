@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Anker Portable Charger, 10000mAh Power Bank with High-Speed PowerIQ",
+        "image": "https://picsum.photos/seed/101/200/200",
+        "discount": 35
+    },
+    {
+        "id": 2,
+        "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+        "image": "https://picsum.photos/seed/102/200/200",
+        "discount": 20
+    },
+    {
+        "id": 3,
+        "title": "Nespresso VertuoPlus Coffee and Espresso Machine by De'Longhi",
+        "image": "https://picsum.photos/seed/103/200/200",
+        "discount": 40
+    },
+    {
+        "id": 4,
+        "title": "Samsonite Winfield 2 Hardside Expandable Luggage with Spinner Wheels",
+        "image": "https://picsum.photos/seed/104/200/200",
+        "discount": 50
+    },
+    {
+        "id": 5,
+        "title": "LEVOIT Air Purifier for Home Large Room with HEPA Filter",
+        "image": "https://picsum.photos/seed/105/200/200",
+        "discount": 15
+    },
+    {
+        "id": 6,
+        "title": "Crest 3D Whitestrips, Professional Effects, Teeth Whitening Kit",
+        "image": "https://picsum.photos/seed/106/200/200",
+        "discount": 33
+    },
+    {
+        "id": 7,
+        "title": "Ring Video Doorbell – 1080p HD Video, Improved Motion Detection",
+        "image": "https://picsum.photos/seed/107/200/200",
+        "discount": 25
+    },
+    {
+        "id": 8,
+        "title": "iRobot Roomba 694 Robot Vacuum-Wi-Fi Connectivity, Works with Alexa",
+        "image": "https://picsum.photos/seed/108/200/200",
+        "discount": 27
+    },
+    {
+        "id": 9,
+        "title": "Ninja AF101 Air Fryer that Crisps, Roasts, Reheats, 4 Quart",
+        "image": "https://picsum.photos/seed/109/200/200",
+        "discount": 30
+    },
+    {
+        "id": 10,
+        "title": "KitchenAid Artisan Series 5-Qt. Stand Mixer with Pouring Shield",
+        "image": "https://picsum.photos/seed/110/200/200",
+        "discount": 18
+    }
+]

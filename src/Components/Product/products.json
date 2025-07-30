@@ -1,0 +1,4756 @@
+[
+  {
+    "id": 1,
+    "title": "Heavy-Duty Jumper Cables - 25-Foot, 4 Gauge",
+    "price": 34.99,
+    "category": "Automotive",
+    "image": "https://m.media-amazon.com/images/I/61ivKqZIX0L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": 4.7,
+    "reviews": 3200,
+    "oldPrice": 44.99,
+    "brandStore": {
+      "name": "Visit the AutoPro Store",
+      "url": "/autopro-store"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "3K+ bought in past month",
+    "description": [
+      "25-foot length allows for easy reach from one car battery to another, even in tight spaces.",
+      "Heavy-duty 4-gauge copper-clad aluminum wire provides excellent conductivity and power transfer.",
+      "Tangle-free design with PVC insulation ensures flexibility and durability in temperatures as low as -40°F.",
+      "Ergonomic, color-coded clamps fit both top and side-post batteries securely.",
+      "Includes a convenient carrying bag for compact storage in your trunk or garage."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/61B2MdfCk9L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/710QgyweB1L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71pFfuInWJL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71pFfuInWJL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61xbNFAaAyL._AC_SX466_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "12 x 12 x 3.5 inches" },
+      { "key": "Weight", "value": "7.5 pounds" },
+      { "key": "Voltage", "value": "12/24 Volts" },
+      { "key": "Manufacturer", "value": "AutoPro" }
+    ],
+    "variants": [
+      {
+        "type": "Gauge",
+        "options": [
+          { "name": "4 Gauge", "price": 34.99, "oldPrice": 44.99 },
+          { "name": "2 Gauge", "price": 49.99, "oldPrice": 59.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 34.99,
+      "oldPrice": 44.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": [
+      "Get a $50 Amazon Gift Card instantly upon approval for the Amazon Rewards Visa Card."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Vitamin C Serum with Hyaluronic Acid",
+    "price": 19.95,
+    "category": "Beauty & Personal Care",
+    "image": "https://m.media-amazon.com/images/I/41JJN-jkghL._SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": 4.6,
+    "reviews": 18500,
+    "oldPrice": 24.95,
+    "brandStore": {
+      "name": "Visit the Glow Naturals Store",
+      "url": "/glow-naturals-store"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "salesVolume": "15K+ bought in past month",
+    "description": [
+      "Brightens and evens skin tone with a potent 20% concentration of Vitamin C.",
+      "Deeply hydrates and plumps skin with pure Hyaluronic Acid to reduce the appearance of fine lines.",
+      "Formulated with Vitamin E and Ferulic Acid to protect against environmental damage.",
+      "Lightweight, non-greasy formula absorbs quickly and is suitable for all skin types.",
+      "Cruelty-free, vegan, and made without parabens or sulfates."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/71ulanksQxL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71ReB+x2ziL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71efBt5qRBL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71efBt5qRBL._SX466_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Product Dimensions", "value": "1.2 x 1.2 x 4 inches" },
+      { "key": "Net Volume", "value": "1 fl oz (30 ml)" },
+      { "key": "Skin Type", "value": "All, Oily, Combination, Sensitive, Dry" },
+      { "key": "Manufacturer", "value": "Glow Naturals" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 19.95,
+      "oldPrice": 24.95,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 3,
+    "title": "'The Midnight Library' by Matt Haig",
+    "price": 13.49,
+    "category": "Books",
+    "image": "https://m.media-amazon.com/images/I/61VDXC8Rj-L._SY466_.jpg",
+    "rating": 4.8,
+    "reviews": 95000,
+    "oldPrice": 26.0,
+    "brandStore": {
+      "name": "Visit the Penguin Books Store",
+      "url": "/penguin-books"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "50K+ bought in past month",
+    "description": [
+      "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived.",
+      "Nora Seed finds herself faced with this decision. As she travels through the Midnight Library, she must search within herself as she decides what is truly fulfilling in life, and what makes it worth living in the first place."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/310nnhnQOmL._SX38_SY50_CR,0,0,38,50_.jpg"
+      
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Publisher", "value": "Viking" },
+      { "key": "Publication date", "value": "September 29, 2020" },
+      { "key": "Language", "value": "English" },
+      { "key": "Print length", "value": "304 pages" }
+    ],
+    "variants": [
+      {
+        "type": "Format",
+        "options": [
+          { "name": "Hardcover", "price": 13.49, "oldPrice": 26.0 },
+          { "name": "Paperback", "price": 9.99, "oldPrice": 17.0 },
+          { "name": "Kindle", "price": 11.99, "oldPrice": null }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 13.49,
+      "oldPrice": 26.0,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 4,
+    "title": "Men's Classic-Fit Crewneck T-Shirt - 2-Pack",
+    "price": 18.5,
+    "category": "Clothing",
+    "image": "https://m.media-amazon.com/images/I/61C-skMeafL._AC_SX522_.jpg",
+    "rating": 4.5,
+    "reviews": 42000,
+    "oldPrice": null,
+    "brandStore": {
+      "name": "Visit the Amazon Essentials Store",
+      "url": "/amazon-essentials"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "30K+ bought in past month",
+    "description": [
+      "Crafted from 100% premium cotton for a soft, breathable feel.",
+      "Classic fit for a comfortable, relaxed silhouette.",
+      "Durable construction with a ribbed collar and reinforced seams.",
+      "Tag-free design for itch-free comfort.",
+      "Machine washable for easy care."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/61Q5js47DgL._AC_SX569_.jpg",
+      "https://m.media-amazon.com/images/I/61xphGffM-L._AC_SX569_.jpg",
+      "https://m.media-amazon.com/images/I/61B7dWfVXpL._AC_SX569_.jpg",
+      "https://m.media-amazon.com/images/I/51voDjUvH8L._AC_SX569_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Material", "value": "100% Cotton" },
+      { "key": "Fit Type", "value": "Classic Fit" },
+      { "key": "Care Instructions", "value": "Machine Wash" },
+      { "key": "Country of Origin", "value": "Vietnam" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          {
+            "name": "Black/White",
+            "swatch": "linear-gradient(to right, black 50%, white 50%)"
+          },
+          {
+            "name": "Navy/Grey",
+            "swatch": "linear-gradient(to right, navy 50%, grey 50%)"
+          },
+          {
+            "name": "Red/Blue",
+            "swatch": "linear-gradient(to right, red 50%, blue 50%)"
+          }
+        ]
+      },
+      {
+        "type": "Size",
+        "options": [
+          { "name": "Small", "price": 18.5, "oldPrice": null },
+          { "name": "Medium", "price": 18.5, "oldPrice": null },
+          { "name": "Large", "price": 18.5, "oldPrice": null },
+          { "name": "X-Large", "price": 19.5, "oldPrice": null }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 18.5,
+      "oldPrice": null,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 5,
+    "title": "1080p HD Webcam with Microphone & Privacy Cover",
+    "price": 25.99,
+    "category": "Computers & Accessories",
+    "image": "https://m.media-amazon.com/images/I/714pdREnqjL._AC_SX466_.jpg",
+    "rating": 4.4,
+    "reviews": 11200,
+    "oldPrice": 39.99,
+    "brandStore": { "name": "Visit the TechPro Store", "url": "/techpro" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "salesVolume": "9K+ bought in past month",
+    "description": [
+      "Full HD 1080p video calling and recording at 30 fps.",
+      "Built-in noise-reducing microphone for clear audio.",
+      "Automatic low-light correction for sharp video even in dim lighting.",
+      "Plug and play USB connectivity for easy setup.",
+      "Integrated privacy shutter to control what you show."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/61--NVjPf2L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61jy-WUSrSL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61-UyFRDbhL._AC_SY606_.jpg",
+      "https://m.media-amazon.com/images/I/6108ayhjmAL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61Z7ZIuoimL._AC_SX466_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "TechPro" },
+      { "key": "Connectivity", "value": "USB" },
+      { "key": "Resolution", "value": "1080p" },
+      {
+        "key": "Special Feature",
+        "value": "Low Light Correction, Privacy Cover"
+      }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 25.99,
+      "oldPrice": 39.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "2-Year Electronics Protection Plan",
+        "price": 5.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 6,
+    "title": "Portable Bluetooth Speaker - Waterproof, 24H Playtime",
+    "price": 32.99,
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71grlV5nC6L.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "rating": 4.7,
+    "reviews": 65000,
+    "oldPrice": 39.99,
+    "brandStore": { "name": "Visit the SoundCore Store", "url": "/soundcore" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "40K+ bought in past month",
+    "description": [
+      "IPX7 waterproof rating for worry-free listening by the beach or pool.",
+      "24-hour playtime from a single charge.",
+      "Superior sound quality with deep bass and clear treble.",
+      "Stable Bluetooth 5.0 connection up to 66 feet.",
+      "Compact and lightweight design for ultimate portability."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/81PiKsgSNoL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81AHVqwGNfL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81wwpgqxUfL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81tduFW2VbL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81Hb7RE4hCL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81rTDF2BxhL._AC_SX466_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "SoundCore" },
+      { "key": "Model Name", "value": "Flare Mini" },
+      { "key": "Connectivity", "value": "Bluetooth" },
+      { "key": "Battery Life", "value": "24 Hours" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Black", "swatch": "#000000" },
+          { "name": "Blue", "swatch": "#0000FF" },
+          { "name": "Red", "swatch": "#FF0000" }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 32.99,
+      "oldPrice": 39.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "2-Year Electronics Protection Plan",
+        "price": 6.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 7,
+    "title": "Organic Extra Virgin Olive Oil - 1L Bottle",
+    "price": 17.99,
+    "category": "Grocery",
+    "image": "https://m.media-amazon.com/images/I/41+-bfAzE0L._PIbundle-2,TopRight,0,0_SX326SY477SH20_.jpg",
+    "rating": 4.8,
+    "reviews": 3200,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Colavita Store", "url": "/colavita" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "2K+ bought in past month",
+    "description": [
+      "USDA Certified Organic and 100% Extra Virgin.",
+      "Cold-pressed to preserve its rich flavor and health benefits.",
+      "Fruity aroma with a light peppery finish.",
+      "Perfect for dressings, marinades, and everyday cooking.",
+      "Packaged in a dark glass bottle to protect from UV rays."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/818-dh6mYxL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71ijFyQ1JAL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81j0Nbk4BXL._SX679_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Colavita" },
+      { "key": "Volume", "value": "1 Liter" },
+      { "key": "Origin", "value": "Italy" },
+      { "key": "Specialty", "value": "Organic" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 17.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "Eligible for Return, Refund or Replacement",
+      "isGiftable": false,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 8,
+    "title": "Air Fryer XL, 5.8 Quart - 8-in-1 Functions",
+    "price": 99.99,
+    "category": "Home & Kitchen",
+    "image": "https://m.media-amazon.com/images/I/71sjKoGdSEL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": 4.7,
+    "reviews": 45000,
+    "oldPrice": 119.99,
+    "brandStore": { "name": "Visit the COSORI Store", "url": "/cosori" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "35K+ bought in past month",
+    "description": [
+      "Enjoy guilt-free fried food with up to 85% less fat.",
+      "8-in-1 functionality: Air Fry, Roast, Bake, Grill, and more.",
+      "5.8-quart capacity can fit a whole 5lb chicken.",
+      "Dishwasher-safe, non-stick basket for easy cleanup.",
+      "Includes a cookbook with 100 recipes."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/9173jmXJuvL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81i+WSSU0sL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/810Q1eZv42L._AC_SX679_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "COSORI" },
+      { "key": "Capacity", "value": "5.8 Quarts" },
+      { "key": "Material", "value": "Stainless Steel, Plastic" },
+      { "key": "Color", "value": "Black" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 99.99,
+      "oldPrice": 119.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "3-Year Home & Kitchen Protection",
+        "price": 12.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 9,
+    "title": "Velvet Throw Pillow Covers - Set of 2, 18x18 Inch",
+    "price": 15.99,
+    "category": "Home Decor",
+    "image": "https://m.media-amazon.com/images/I/81lpjqAXc2L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": 4.6,
+    "reviews": 9800,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the MIULEE Store", "url": "/miulee" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "7K+ bought in past month",
+    "description": [
+      "Made of high-quality, durable velvet for a luxurious feel.",
+      "Invisible zipper design for an elegant look and easy insertion.",
+      "Machine washable for easy care and maintenance.",
+      "Perfect for decorating your sofa, bed, or chairs.",
+      "Set of 2 covers, inserts not included."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/81ARLxQbziL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81JWH6cschL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81l0ZIPl9UL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71z2vZyELBL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71TTQJZha9L._AC_SX679_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "MIULEE" },
+      { "key": "Size", "value": "18 x 18 inches" },
+      { "key": "Material", "value": "Velvet" },
+      { "key": "Care Instructions", "value": "Machine Wash" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Navy Blue", "swatch": "#000080" },
+          { "name": "Emerald Green", "swatch": "#50C878" },
+          { "name": "Mustard Yellow", "swatch": "#FFDB58" },
+          { "name": "Dusty Rose", "swatch": "#DCAE96" }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 15.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 10,
+    "title": "Fine Point Gel Pens - 24 Pack, Assorted Colors",
+    "price": 12.99,
+    "category": "Office Supplies",
+    "image": "https://m.media-amazon.com/images/I/81ooWXgkmML.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": 4.8,
+    "reviews": 14000,
+    "oldPrice": 16.99,
+    "brandStore": {
+      "name": "Visit the Paper Mate Store",
+      "url": "/paper-mate"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "10K+ bought in past month",
+    "description": [
+      "24 vibrant colors for all your writing and drawing needs.",
+      "0.5mm fine point for precise, clean lines.",
+      "Smooth, skip-free ink flow for an effortless writing experience.",
+      "Comfortable grip for extended use.",
+      "Acid-free, archival-quality ink."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/71zEwXWun8L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71rMsMU9ChL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71Jj541Q4UL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/7146d6kzfwS._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81YyZH9Hy5L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81vSOqm0qeL._AC_SX466_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Paper Mate" },
+      { "key": "Point Type", "value": "Fine" },
+      { "key": "Ink Color", "value": "Assorted" },
+      { "key": "Number of Items", "value": "24" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 12.99,
+      "oldPrice": 16.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 11,
+    "title": "Pet Grooming Glove - Gentle Deshedding Brush",
+    "price": 13.99,
+    "category": "Pet Supplies",
+    "image": "https://m.media-amazon.com/images/I/71NlnieBXzL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": 4.4,
+    "reviews": 52000,
+    "oldPrice": 17.99,
+    "brandStore": { "name": "Visit the Delomo Store", "url": "/delomo" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "25K+ bought in past month",
+    "description": [
+      "Mimics the touch of your hand for a soft and relaxing massage.",
+      "With enhanced 255 silicone grooming tips, it effectively removes loose hair.",
+      "Adjustable wrist strap ensures a comfortable fit for all sizes.",
+      "Perfect for all coat types: long, short, and curly-haired dogs and cats.",
+      "Hair sticks to the glove, making it easy to peel and throw away."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/71IyTsSA3FL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/710Ua3P9YtL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71kcCPaXYGL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71vr75s3D3L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61MFGn5nuPL._AC_SX679_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Delomo" },
+      { "key": "Material", "value": "Silicone, Rubber" },
+      { "key": "Hair Type", "value": "All" },
+      { "key": "Product Benefits", "value": "Deshedding, Massaging" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 13.99,
+      "oldPrice": 17.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 12,
+    "title": "Resistance Bands Set - 5 Exercise Loop Bands",
+    "price": 12.95,
+    "category": "Sports & Outdoors",
+    "image": "https://m.media-amazon.com/images/I/717eh+UCHpL._AC_SY300_SX300_.jpg",
+    "rating": 4.6,
+    "reviews": 33000,
+    "oldPrice": 16.95,
+    "brandStore": {
+      "name": "Visit the Fit Simplify Store",
+      "url": "/fit-simplify"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "salesVolume": "20K+ bought in past month",
+    "description": [
+      "Set of 5 bands with varying resistance levels from X-Light to X-Heavy.",
+      "Made of 100% natural latex, ensuring they are durable and skin-friendly.",
+      "Great for a variety of workouts, including yoga, pilates, and physical therapy.",
+      "Includes a convenient travel pouch for workouts on the go.",
+      "Integrates seamlessly with every popular workout program."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/71n2LKN0CTL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71kB92JsUeL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71r-QiF29yL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71dmlOwUK8L._AC_SX679_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Fit Simplify" },
+      { "key": "Material", "value": "Natural Rubber" },
+      { "key": "Number of Resistance Levels", "value": "5" },
+      { "key": "Recommended Uses", "value": "Workout, Physical Therapy" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 12.95,
+      "oldPrice": 16.95,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 13,
+    "title": "Cordless Drill Power Tool Kit - 20V, 2 Batteries",
+    "price": 89.0,
+    "category": "Tools & Home Improvement",
+    "image": "https://m.media-amazon.com/images/I/61VI1VcvevL._AC_SX679_.jpg",
+    "rating": 4.7,
+    "reviews": 11500,
+    "oldPrice": 119.0,
+    "brandStore": {
+      "name": "Visit the BLACK+DECKER Store",
+      "url": "/black-decker"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "8K+ bought in past month",
+    "description": [
+      "20V MAX* Lithium Ion Battery holds a charge for up to 18 months.",
+      "11 position clutch prevents stripping and overdriving screws.",
+      "Includes drill, one 20V MAX* battery, charger, and a variety of bits.",
+      "LED work light illuminates the surface for easier drilling in dark places.",
+      "Lightweight and compact design for easy handling in tight spaces."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/51OWqy3x+jL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/514ZWv4MnaL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61unuBFyS7L._AC_SX679_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "BLACK+DECKER" },
+      { "key": "Voltage", "value": "20 Volts" },
+      { "key": "Power Source", "value": "Battery Powered" },
+      { "key": "Maximum Chuck Size", "value": "10 Millimeters" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 89.0,
+      "oldPrice": 119.0,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "3-Year Tool Protection Plan",
+        "price": 10.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 14,
+    "title": "LEGO Star Wars: The Mandalorian's N-1 Starfighter",
+    "price": 47.99,
+    "category": "Toys & Games",
+    "image": "LEGO Star Wars: The Mandalorian's N-1 Starfighter",
+    "rating": 4.9,
+    "reviews": 8500,
+    "oldPrice": 59.99,
+    "brandStore": { "name": "Visit the LEGO Store", "url": "/lego" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "6K+ bought in past month",
+    "description": [
+      "Includes LEGO minifigures of The Mandalorian and Peli Motto, plus Grogu and a BD Droid.",
+      "Features a minifigure cockpit, passenger space for Grogu, and a spring-loaded shooter.",
+      "Build this iconic starfighter from Star Wars: The Book of Boba Fett.",
+      "A great gift idea for creative kids and Star Wars fans aged 9 and up.",
+      "The set comprises 412 pieces."
+    ],
+    "subImages": [
+      "https://m.media-amazon.com/images/I/61rwgNi85vL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61crnq9KINL._AC_SX679_.jpg"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "LEGO" },
+      { "key": "Material", "value": "Plastic" },
+      { "key": "Number of Pieces", "value": "412" },
+      { "key": "Educational Objective", "value": "Creative Thinking" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 47.99,
+      "oldPrice": 59.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 15,
+    "title": "Fitness Tracker with Heart Rate Monitor",
+    "price": 29.99,
+    "category": "Wearable Technology",
+    "image": "https://picsum.photos/seed/15/500/500",
+    "rating": 4.3,
+    "reviews": 21000,
+    "oldPrice": 39.99,
+    "brandStore": { "name": "Visit the Fitbit Store", "url": "/fitbit" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "salesVolume": "12K+ bought in past month",
+    "description": [
+      "Track all-day activity, including steps, distance, calories burned, and active minutes.",
+      "24/7 heart rate tracking to better measure calorie burn.",
+      "Automatically track your sleep and set silent alarms.",
+      "Receive call, text, and calendar notifications on the go.",
+      "Up to 5 days of battery life."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/15a/500/500",
+      "https://picsum.photos/seed/15b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Fitbit" },
+      { "key": "Model Name", "value": "Inspire 2" },
+      { "key": "Screen Size", "value": "0.72 Inches" },
+      { "key": "Special Feature", "value": "Heart Rate Monitor, Sleep Monitor" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Black", "swatch": "#000000" },
+          { "name": "Lunar White", "swatch": "#F4F6F0" },
+          { "name": "Desert Rose", "swatch": "#E5B09A" }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "2-Year Wearable Tech Protection",
+        "price": 4.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 16,
+    "title": "Car Vacuum Cleaner - High Power, Handheld",
+    "price": 29.99,
+    "category": "Automotive",
+    "image": "https://picsum.photos/seed/16/500/500",
+    "rating": 4.3,
+    "reviews": 9800,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the ThisWorx Store", "url": "/thisworx" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "8K+ bought in past month",
+    "description": [
+      "Powerful suction to clean up wet and dry debris.",
+      "16-foot power cord for easy reach to all areas of your car.",
+      "Includes 3 attachments for detailing, plus a carry bag.",
+      "Washable HEPA filter for improved air quality.",
+      "Lightweight and portable design."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/16a/500/500",
+      "https://picsum.photos/seed/16b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "ThisWorx" },
+      { "key": "Form Factor", "value": "Handheld" },
+      { "key": "Power Source", "value": "Corded Electric" },
+      {
+        "key": "Special Feature",
+        "value": "Portable, Lightweight, Washable Filter"
+      }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 29.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 17,
+    "title": "Electric Toothbrush with 5 Modes & 8 Brush Heads",
+    "price": 39.99,
+    "category": "Beauty & Personal Care",
+    "image": "https://picsum.photos/seed/17/500/500",
+    "rating": 4.7,
+    "reviews": 12000,
+    "oldPrice": 59.99,
+    "brandStore": {
+      "name": "Visit the Philips Sonicare Store",
+      "url": "/sonicare"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "10K+ bought in past month",
+    "description": [
+      "Removes up to 7x more plaque than a manual toothbrush.",
+      "5 brushing modes: Clean, White, Sensitive, Gum Care, and Deep Clean.",
+      "2-minute timer with 30-second interval alerts.",
+      "Long-lasting battery life, up to 4 weeks on a single charge.",
+      "Includes 8 brush heads and a travel case."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/17a/500/500",
+      "https://picsum.photos/seed/17b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Philips Sonicare" },
+      { "key": "Model", "value": "ProtectiveClean 4100" },
+      { "key": "Power Source", "value": "Battery Powered" },
+      { "key": "Number of Settings", "value": "5" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 39.99,
+      "oldPrice": 59.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 18,
+    "title": "'Atomic Habits' by James Clear",
+    "price": 11.98,
+    "category": "Books",
+    "image": "https://picsum.photos/seed/18/500/500",
+    "rating": 4.9,
+    "reviews": 125000,
+    "oldPrice": 27.0,
+    "brandStore": {
+      "name": "Visit the Penguin Random House Store",
+      "url": "/penguin-random-house"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "100K+ bought in past month",
+    "description": [
+      "A proven framework for improving every day.",
+      "Learn how to build good habits and break bad ones.",
+      "Master the tiny behaviors that lead to remarkable results.",
+      "Written by one of the world's leading experts on habit formation."
+    ],
+    "subImages": ["https://picsum.photos/seed/18a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Publisher", "value": "Avery" },
+      { "key": "Publication date", "value": "October 16, 2018" },
+      { "key": "Language", "value": "English" },
+      { "key": "Print length", "value": "320 pages" }
+    ],
+    "variants": [
+      {
+        "type": "Format",
+        "options": [
+          { "name": "Paperback", "price": 11.98, "oldPrice": 27.0 },
+          { "name": "Hardcover", "price": 17.5, "oldPrice": 27.0 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 11.98,
+      "oldPrice": 27.0,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 19,
+    "title": "Women's High-Waisted Leggings - 3 Pack",
+    "price": 29.99,
+    "category": "Clothing",
+    "image": "https://picsum.photos/seed/19/500/500",
+    "rating": 4.5,
+    "reviews": 88000,
+    "oldPrice": 39.99,
+    "brandStore": { "name": "Visit the SATINA Store", "url": "/satina" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "50K+ bought in past month",
+    "description": [
+      "Buttery soft fabric that feels like a second skin.",
+      "High-waisted design for tummy control and a flattering fit.",
+      "Opaque, non-see-through material for confident wear.",
+      "Perfect for yoga, exercise, or everyday casual wear.",
+      "Comes in a convenient 3-pack."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/19a/500/500",
+      "https://picsum.photos/seed/19b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Material", "value": "92% Polyester, 8% Spandex" },
+      { "key": "Fit Type", "value": "Skinny" },
+      { "key": "Inseam", "value": "28 Inches" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Black (3-Pack)", "swatch": "#000000" },
+          {
+            "name": "Assorted (Black, Navy, Grey)",
+            "swatch": "linear-gradient(to right, #000 33%, navy 33%, navy 66%, grey 66%)"
+          }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 20,
+    "title": "Ergonomic Office Chair with Lumbar Support",
+    "price": 159.99,
+    "category": "Computers & Accessories",
+    "image": "https://picsum.photos/seed/20/500/500",
+    "rating": 4.5,
+    "reviews": 8500,
+    "oldPrice": 199.99,
+    "brandStore": { "name": "Visit the SIHOO Store", "url": "/sihoo" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "5K+ bought in past month",
+    "description": [
+      "Ergonomic design with adjustable lumbar support, headrest, and armrests.",
+      "Breathable mesh back to keep you cool and comfortable.",
+      "High-density foam seat cushion for all-day support.",
+      "Smooth-rolling casters and 360-degree swivel.",
+      "Easy to assemble with included tools and instructions."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/20a/500/500",
+      "https://picsum.photos/seed/20b/500/500",
+      "https://picsum.photos/seed/20c/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "SIHOO" },
+      { "key": "Material", "value": "Mesh, Foam, Nylon" },
+      { "key": "Recommended Weight", "value": "Up to 330 lbs" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 159.99,
+      "oldPrice": 199.99,
+      "delivery": "FREE delivery Monday, August 4",
+      "primeDelivery": null,
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": false,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 21,
+    "title": "Power Bank 20000mAh - Fast Charging, USB-C",
+    "price": 29.99,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/21/500/500",
+    "rating": 4.6,
+    "reviews": 22000,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Anker Store", "url": "/anker" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "18K+ bought in past month",
+    "description": [
+      "Ultra-high capacity 20,000mAh provides more than 5 charges for iPhone 12.",
+      "Advanced charging technology with PowerIQ and VoltageBoost.",
+      "Simultaneous charging for two devices with dual USB ports.",
+      "MultiProtect safety system ensures complete protection for you and your devices.",
+      "Compact and portable design."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/21a/500/500",
+      "https://picsum.photos/seed/21b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Anker" },
+      { "key": "Capacity", "value": "20000 Milliamp Hours" },
+      { "key": "Connector Type", "value": "USB Type C, Micro USB" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 29.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 22,
+    "title": "Organic Almond Flour - 2lb Bag, Gluten-Free",
+    "price": 14.95,
+    "category": "Grocery",
+    "image": "https://picsum.photos/seed/22/500/500",
+    "rating": 4.8,
+    "reviews": 4500,
+    "oldPrice": 18.95,
+    "brandStore": {
+      "name": "Visit the Anthony's Goods Store",
+      "url": "/anthonys-goods"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "3K+ bought in past month",
+    "description": [
+      "Made from 100% blanched almonds, ground into a fine flour.",
+      "USDA Certified Organic, Gluten-Free, and Non-GMO.",
+      "Perfect for keto and paleo baking.",
+      "Low in carbs and high in protein and fiber.",
+      "Resealable bag for freshness."
+    ],
+    "subImages": ["https://picsum.photos/seed/22a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Anthony's" },
+      { "key": "Weight", "value": "2 Pounds" },
+      { "key": "Allergen Information", "value": "Tree Nuts" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 14.95,
+      "oldPrice": 18.95,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "Eligible for Return, Refund or Replacement",
+      "isGiftable": false,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 23,
+    "title": "Electric Gooseneck Kettle for Pour Over Coffee",
+    "price": 59.95,
+    "category": "Home & Kitchen",
+    "image": "https://picsum.photos/seed/23/500/500",
+    "rating": 4.8,
+    "reviews": 7500,
+    "oldPrice": 79.95,
+    "brandStore": { "name": "Visit the Fellow Store", "url": "/fellow" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "4K+ bought in past month",
+    "description": [
+      "Variable temperature control for the perfect brew.",
+      "Precision pour spout for an optimal pour-over flow rate.",
+      "1200W quick heat time.",
+      "Keep warm function maintains temperature for up to 60 minutes.",
+      "Sleek and minimalist design."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/23a/500/500",
+      "https://picsum.photos/seed/23b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Fellow" },
+      { "key": "Model", "value": "Stagg EKG" },
+      { "key": "Capacity", "value": "0.9 Liters" },
+      { "key": "Material", "value": "Stainless Steel" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 59.95,
+      "oldPrice": 79.95,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "3-Year Home & Kitchen Protection",
+        "price": 8.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 24,
+    "title": "Blackout Curtains for Bedroom - 2 Panels",
+    "price": 29.99,
+    "category": "Home Decor",
+    "image": "https://picsum.photos/seed/24/500/500",
+    "rating": 4.7,
+    "reviews": 28000,
+    "oldPrice": 39.99,
+    "brandStore": { "name": "Visit the NICETOWN Store", "url": "/nicetown" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "15K+ bought in past month",
+    "description": [
+      "Blocks out 85%-99% of sunlight and UV rays.",
+      "Thermal insulated to reduce heating and cooling costs.",
+      "Noise reducing for a quieter, more peaceful environment.",
+      "Made of high-quality, durable polyester fabric.",
+      "Includes 2 panels, each measuring 52\" wide."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/24a/500/500",
+      "https://picsum.photos/seed/24b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "NICETOWN" },
+      { "key": "Material", "value": "Polyester" },
+      { "key": "Opacity", "value": "Blackout" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Grey", "swatch": "#808080" },
+          { "name": "Navy", "swatch": "#000080" },
+          { "name": "Beige", "swatch": "#F5F5DC" }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 25,
+    "title": "Thermal Laminator Machine with 20 Sheets",
+    "price": 34.99,
+    "category": "Office Supplies",
+    "image": "https://picsum.photos/seed/25/500/500",
+    "rating": 4.6,
+    "reviews": 12500,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Scotch Store", "url": "/scotch" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "8K+ bought in past month",
+    "description": [
+      "Laminates items up to 9 inches wide.",
+      "Two roller system with two temperature settings.",
+      "Warms up in 3-4 minutes.",
+      "Jam release lever for easy clearing.",
+      "Includes 20 laminating pouches."
+    ],
+    "subImages": ["https://picsum.photos/seed/25a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Scotch" },
+      { "key": "Model", "value": "TL901X" },
+      { "key": "Sheet Size", "value": "9 Inches" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 34.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 26,
+    "title": "Orthopedic Dog Bed - Large, Memory Foam",
+    "price": 59.99,
+    "category": "Pet Supplies",
+    "image": "https://picsum.photos/seed/26/500/500",
+    "rating": 4.8,
+    "reviews": 11000,
+    "oldPrice": 79.99,
+    "brandStore": { "name": "Visit the Bedsure Store", "url": "/bedsure" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "6K+ bought in past month",
+    "description": [
+      "High-density egg-crate foam for orthopedic support.",
+      "Plush flannel top for ultimate comfort.",
+      "Removable, machine-washable cover.",
+      "Non-slip bottom to keep the bed in place.",
+      "Ideal for large dogs or multiple smaller pets."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/26a/500/500",
+      "https://picsum.photos/seed/26b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Bedsure" },
+      { "key": "Size", "value": "Large (36\"x27\"x3\")" },
+      { "key": "Fill Material", "value": "Memory Foam" }
+    ],
+    "variants": [
+      {
+        "type": "Size",
+        "options": [
+          { "name": "Medium", "price": 45.99, "oldPrice": 59.99 },
+          { "name": "Large", "price": 59.99, "oldPrice": 79.99 },
+          { "name": "Jumbo", "price": 75.99, "oldPrice": 99.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 59.99,
+      "oldPrice": 79.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 27,
+    "title": "Yoga Mat - Extra Thick, Non-Slip with Carrying Strap",
+    "price": 29.95,
+    "category": "Sports & Outdoors",
+    "image": "https://picsum.photos/seed/27/500/500",
+    "rating": 4.8,
+    "reviews": 21000,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Gaiam Store", "url": "/gaiam" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "14K+ bought in past month",
+    "description": [
+      "6mm thickness for extra cushioning and support.",
+      "Non-slip textured surface for excellent traction.",
+      "Durable and lightweight PVC material.",
+      "Includes a carrying strap for easy transport.",
+      "Available in a variety of colors and prints."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/27a/500/500",
+      "https://picsum.photos/seed/27b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Gaiam" },
+      { "key": "Material", "value": "Polyvinyl Chloride (PVC)" },
+      { "key": "Item Dimensions", "value": "68\"L x 24\"W x 0.24\"Th" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 29.95,
+      "oldPrice": null,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 28,
+    "title": "Magnetic Wristband for Holding Screws and Nails",
+    "price": 12.99,
+    "category": "Tools & Home Improvement",
+    "image": "https://picsum.photos/seed/28/500/500",
+    "rating": 4.7,
+    "reviews": 19500,
+    "oldPrice": 15.99,
+    "brandStore": { "name": "Visit the RAK Store", "url": "/rak" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "11K+ bought in past month",
+    "description": [
+      "Embedded with 10 strong magnets for holding screws, nails, bolts, and drill bits.",
+      "Made of durable ballistic polyester.",
+      "Adjustable fit for all wrist sizes.",
+      "A great time-saver for DIY projects and professional work.",
+      "Perfect gift for men, husbands, fathers, and DIYers."
+    ],
+    "subImages": ["https://picsum.photos/seed/28a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "RAK" },
+      { "key": "Material", "value": "Polyester" },
+      { "key": "Number of Magnets", "value": "10" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 12.99,
+      "oldPrice": 15.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 29,
+    "title": "Cards Against Humanity - Party Game",
+    "price": 25.0,
+    "category": "Toys & Games",
+    "image": "https://picsum.photos/seed/29/500/500",
+    "rating": 4.8,
+    "reviews": 95000,
+    "oldPrice": null,
+    "brandStore": {
+      "name": "Visit the Cards Against Humanity Store",
+      "url": "/cah"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "40K+ bought in past month",
+    "description": [
+      "A party game for horrible people.",
+      "Includes 500 white cards and 100 black cards for maximum replayability.",
+      "The player with the most awkward and offensive combination wins.",
+      "Not for the faint of heart."
+    ],
+    "subImages": [],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Cards Against Humanity LLC" },
+      { "key": "Number of Players", "value": "4-20+" },
+      { "key": "Age Range", "value": "17+" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 25.0,
+      "oldPrice": null,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 30,
+    "title": "Smart Scale for Body Weight - with BMI & Heart Rate",
+    "price": 27.99,
+    "category": "Wearable Technology",
+    "image": "https://picsum.photos/seed/30/500/500",
+    "rating": 4.6,
+    "reviews": 32000,
+    "oldPrice": 34.99,
+    "brandStore": { "name": "Visit the RENPHO Store", "url": "/renpho" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "salesVolume": "22K+ bought in past month",
+    "description": [
+      "Tracks 13 essential body composition metrics, including weight, BMI, and body fat.",
+      "Syncs with popular fitness apps like Samsung Health, Fitbit, and Google Fit.",
+      "High-precision sensors measure in increments of 0.2 lb.",
+      "Supports unlimited users for the whole family.",
+      "Sleek design with a tempered glass platform."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/30a/500/500",
+      "https://picsum.photos/seed/30b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "RENPHO" },
+      { "key": "Material", "value": "Tempered Glass" },
+      { "key": "Weight Limit", "value": "396 Pounds" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 27.99,
+      "oldPrice": 34.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 31,
+    "title": "4K Dash Cam Front and Rear with GPS",
+    "price": 99.99,
+    "category": "Automotive",
+    "image": "https://picsum.photos/seed/31/500/500",
+    "rating": 4.4,
+    "reviews": 4500,
+    "oldPrice": 129.99,
+    "brandStore": { "name": "Visit the Rove Store", "url": "/rove" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Records in stunning 4K resolution for crystal clear footage.",
+      "Built-in Wi-Fi and GPS to track your location and speed.",
+      "Advanced night vision for clear recording in low-light conditions.",
+      "G-sensor automatically detects and locks footage during a collision.",
+      "Supports up to a 512GB MicroSD card."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/31a/500/500",
+      "https://picsum.photos/seed/31b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Rove" },
+      { "key": "Model", "value": "R2-4K" },
+      { "key": "Video Capture Resolution", "value": "2160p" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 99.99,
+      "oldPrice": 129.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "3-Year Automotive Protection",
+        "price": 11.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 32,
+    "title": "Professional Salon Hair Dryer - 1875W, Ionic",
+    "price": 35.99,
+    "category": "Beauty & Personal Care",
+    "image": "https://picsum.photos/seed/32/500/500",
+    "rating": 4.5,
+    "reviews": 7800,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Remington Store", "url": "/remington" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "1875-watt motor for fast drying times.",
+      "Ionic technology helps reduce frizz and enhance shine.",
+      "3 heat and 2 speed settings for versatile styling.",
+      "Cool shot button to lock in your style.",
+      "Includes concentrator and diffuser attachments."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/32a/500/500",
+      "https://picsum.photos/seed/32b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Remington" },
+      { "key": "Wattage", "value": "1875 watts" },
+      { "key": "Special Feature", "value": "Ionic Technology" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 35.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 33,
+    "title": "'Where the Crawdads Sing' by Delia Owens",
+    "price": 9.98,
+    "category": "Books",
+    "image": "https://picsum.photos/seed/33/500/500",
+    "rating": 4.8,
+    "reviews": 250000,
+    "oldPrice": 18.0,
+    "brandStore": {
+      "name": "Visit the Putnam Publishing Store",
+      "url": "/putnam"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "A heartbreaking coming-of-age story and a surprising tale of possible murder.",
+      "For years, rumors of the “Marsh Girl” have haunted Barkley Cove, a quiet town on the North Carolina coast.",
+      "A #1 New York Times Bestseller for over two years."
+    ],
+    "subImages": [],
+    "videos": [],
+    "productInformation": [
+      { "key": "Publisher", "value": "G.P. Putnam's Sons" },
+      { "key": "Publication date", "value": "August 14, 2018" },
+      { "key": "Language", "value": "English" }
+    ],
+    "variants": [
+      {
+        "type": "Format",
+        "options": [
+          { "name": "Paperback", "price": 9.98, "oldPrice": 18.0 },
+          { "name": "Hardcover", "price": 15.99, "oldPrice": 28.0 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 9.98,
+      "oldPrice": 18.0,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 34,
+    "title": "Unisex Fleece Pullover Hoodie",
+    "price": 28.99,
+    "category": "Clothing",
+    "image": "https://picsum.photos/seed/34/500/500",
+    "rating": 4.7,
+    "reviews": 21000,
+    "oldPrice": 35.0,
+    "brandStore": { "name": "Visit the Hanes Store", "url": "/hanes" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Made with a blend of cotton and polyester for softness and durability.",
+      "Pill-resistant fleece to keep it looking great wash after wash.",
+      "Front kangaroo pocket for convenient storage.",
+      "Ribbed cuffs and waistband for a snug fit.",
+      "Tag-free for ultimate comfort."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/34a/500/500",
+      "https://picsum.photos/seed/34b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Hanes" },
+      { "key": "Material", "value": "50% Cotton, 50% Polyester" },
+      { "key": "Fit Type", "value": "Classic" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Black", "swatch": "#000000" },
+          { "name": "Grey Heather", "swatch": "#C0C0C0" },
+          { "name": "Navy", "swatch": "#000080" }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 28.99,
+      "oldPrice": 35.0,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 35,
+    "title": "Curved Gaming Monitor - 32-Inch, 144Hz, 1ms",
+    "price": 329.99,
+    "category": "Computers & Accessories",
+    "image": "https://picsum.photos/seed/35/500/500",
+    "rating": 4.7,
+    "reviews": 7500,
+    "oldPrice": 379.99,
+    "brandStore": { "name": "Visit the Samsung Store", "url": "/samsung" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": true },
+    "description": [
+      "Immersive viewing experience with a 1500R curved screen.",
+      "144Hz refresh rate for smooth, fluid gameplay.",
+      "1ms response time to eliminate motion blur.",
+      "AMD FreeSync Premium for tear-free gaming.",
+      "QHD resolution for stunningly sharp visuals."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/35a/500/500",
+      "https://picsum.photos/seed/35b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Samsung" },
+      { "key": "Model", "value": "Odyssey G5" },
+      { "key": "Screen Size", "value": "32 Inches" },
+      { "key": "Resolution", "value": "2560 x 1440" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 329.99,
+      "oldPrice": 379.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": false,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "3-Year Monitor Protection",
+        "price": 29.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 36,
+    "title": "Gaming Headset with Mic - PS5, PS4, Xbox, PC",
+    "price": 39.99,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/36/500/500",
+    "rating": 4.4,
+    "reviews": 18000,
+    "oldPrice": 49.99,
+    "brandStore": {
+      "name": "Visit the Logitech G Store",
+      "url": "/logitech-g"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "50mm audio drivers for an immersive sound experience.",
+      "Noise-cancelling microphone for crystal-clear communication.",
+      "Multi-platform compatibility with PC, Mac, PlayStation, Xbox, and more.",
+      "Lightweight design with comfortable memory foam earcups.",
+      "On-ear volume and mute controls for quick adjustments."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/36a/500/500",
+      "https://picsum.photos/seed/36b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Logitech G" },
+      { "key": "Model", "value": "G332" },
+      { "key": "Connectivity", "value": "Wired" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 39.99,
+      "oldPrice": 49.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 37,
+    "title": "Organic Chia Seeds - 2lb Bag, Non-GMO",
+    "price": 11.99,
+    "category": "Grocery",
+    "image": "https://picsum.photos/seed/37/500/500",
+    "rating": 4.7,
+    "reviews": 5500,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Nutiva Store", "url": "/nutiva" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Packed with Omega-3 fatty acids, fiber, and protein.",
+      "USDA Certified Organic, Non-GMO, and vegan.",
+      "Perfect for adding to smoothies, yogurt, and oatmeal.",
+      "Forms a gel when mixed with liquid, great for puddings.",
+      "Resealable bag to maintain freshness."
+    ],
+    "subImages": ["https://picsum.photos/seed/37a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Nutiva" },
+      { "key": "Weight", "value": "2 Pounds" },
+      { "key": "Specialty", "value": "Organic, Vegan" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 11.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "Eligible for Return, Refund or Replacement",
+      "isGiftable": false,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 38,
+    "title": "Robot Vacuum and Mop Combo - Wi-Fi Connected",
+    "price": 279.99,
+    "category": "Home & Kitchen",
+    "image": "https://picsum.photos/seed/38/500/500",
+    "rating": 4.4,
+    "reviews": 9800,
+    "oldPrice": 349.99,
+    "brandStore": { "name": "Visit the eufy Store", "url": "/eufy" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "2-in-1 vacuum and mop for a complete clean.",
+      "Powerful suction to pick up dirt and pet hair.",
+      "Smart dynamic navigation for efficient cleaning paths.",
+      "Control with the EufyHome app, Alexa, or the Google Assistant.",
+      "Ultra-slim design to clean under furniture."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/38a/500/500",
+      "https://picsum.photos/seed/38b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "eufy" },
+      { "key": "Model", "value": "RoboVac G30 Hybrid" },
+      { "key": "Controller Type", "value": "App Control, Voice Control" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 279.99,
+      "oldPrice": 349.99,
+      "delivery": "FREE delivery Monday, August 4",
+      "primeDelivery": null,
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "3-Year Home & Kitchen Protection",
+        "price": 24.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 39,
+    "title": "Bohemian Wall Hanging Macrame Decor",
+    "price": 21.99,
+    "category": "Home Decor",
+    "image": "https://picsum.photos/seed/39/500/500",
+    "rating": 4.7,
+    "reviews": 3200,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Mkono Store", "url": "/mkono" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Handcrafted with 100% natural cotton rope.",
+      "Adds a touch of bohemian charm to any room.",
+      "Perfect for living rooms, bedrooms, or nurseries.",
+      "Easy to hang with a single nail or hook.",
+      "Measures approximately 12\" W x 28\" L."
+    ],
+    "subImages": ["https://picsum.photos/seed/39a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Mkono" },
+      { "key": "Material", "value": "Cotton" },
+      { "key": "Style", "value": "Bohemian" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 21.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 40,
+    "title": "Electric Pencil Sharpener - Heavy Duty",
+    "price": 21.99,
+    "category": "Office Supplies",
+    "image": "https://picsum.photos/seed/40/500/500",
+    "rating": 4.7,
+    "reviews": 9500,
+    "oldPrice": 29.99,
+    "brandStore": { "name": "Visit the X-ACTO Store", "url": "/x-acto" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Heavy-duty steel helical cutter for precise sharpening.",
+      "Auto-stop technology prevents over-sharpening.",
+      "Large, easy-to-empty shavings receptacle.",
+      "Safe for classroom use with a safety switch.",
+      "Suction cup feet for stability."
+    ],
+    "subImages": ["https://picsum.photos/seed/40a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "X-ACTO" },
+      { "key": "Model", "value": "School Pro" },
+      { "key": "Power Source", "value": "Corded Electric" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 21.99,
+      "oldPrice": 29.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 41,
+    "title": "Interactive Dog Toy Ball - Wobble Wag Giggle Ball",
+    "price": 14.99,
+    "category": "Pet Supplies",
+    "image": "https://picsum.photos/seed/41/500/500",
+    "rating": 4.2,
+    "reviews": 25000,
+    "oldPrice": 19.99,
+    "brandStore": {
+      "name": "Visit the Wobble Wag Giggle Store",
+      "url": "/wobble-wag-giggle"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Makes fun giggling sounds when pushed or shaken.",
+      "Keeps dogs entertained and active.",
+      "Made of durable, pet-safe vinyl.",
+      "No batteries required.",
+      "Suitable for dogs of all sizes."
+    ],
+    "subImages": ["https://picsum.photos/seed/41a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Wobble Wag Giggle" },
+      { "key": "Material", "value": "Vinyl" },
+      { "key": "Target Species", "value": "Dog" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 14.99,
+      "oldPrice": 19.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 42,
+    "title": "Pickleball Paddles Set of 2 with 4 Balls",
+    "price": 59.99,
+    "category": "Sports & Outdoors",
+    "image": "https://picsum.photos/seed/42/500/500",
+    "rating": 4.8,
+    "reviews": 4500,
+    "oldPrice": 79.99,
+    "brandStore": { "name": "Visit the JOOLA Store", "url": "/joola" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Graphite face for excellent control and power.",
+      "Polymer honeycomb core for a balance of power and feel.",
+      "Comfortable grip with a cushioned handle.",
+      "Includes 2 paddles, 4 balls, and a carrying case.",
+      "USAPA approved for tournament play."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/42a/500/500",
+      "https://picsum.photos/seed/42b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "JOOLA" },
+      { "key": "Skill Level", "value": "Beginner to Intermediate" },
+      { "key": "Frame Material", "value": "Graphite" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 59.99,
+      "oldPrice": 79.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 43,
+    "title": "Digital Tape Measure - 2-in-1 Laser Measurement",
+    "price": 39.97,
+    "category": "Tools & Home Improvement",
+    "image": "https://picsum.photos/seed/43/500/500",
+    "rating": 4.6,
+    "reviews": 3800,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the TACKLIFE Store", "url": "/tacklife" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Combines a 135ft laser measure with a 16ft tape measure.",
+      "Backlit LCD screen for easy reading in dark areas.",
+      "USB rechargeable for convenience.",
+      "Multiple measurement modes: distance, area, volume.",
+      "Compact and portable design."
+    ],
+    "subImages": ["https://picsum.photos/seed/43a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "TACKLIFE" },
+      { "key": "Battery Life", "value": "5 hours" },
+      { "key": "Measurement Accuracy", "value": "±1/16 inch" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 39.97,
+      "oldPrice": null,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "3-Year Tool Protection",
+        "price": 5.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 44,
+    "title": "The Settlers of Catan - Strategy Board Game",
+    "price": 44.99,
+    "category": "Toys & Games",
+    "image": "https://picsum.photos/seed/44/500/500",
+    "rating": 4.9,
+    "reviews": 28000,
+    "oldPrice": 55.0,
+    "brandStore": { "name": "Visit the Catan Studio Store", "url": "/catan" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "The classic game of trading, building, and settling.",
+      "Endlessly replayable with a modular game board.",
+      "For 3-4 players, with expansions available for more.",
+      "Winner of numerous awards, including the Spiel des Jahres.",
+      "A great game for family game night."
+    ],
+    "subImages": ["https://picsum.photos/seed/44a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Catan Studio" },
+      { "key": "Number of Players", "value": "3-4" },
+      { "key": "Play Time", "value": "60-90 minutes" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 44.99,
+      "oldPrice": 55.0,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 45,
+    "title": "GPS Running Watch with Advanced Dynamics",
+    "price": 249.99,
+    "category": "Wearable Technology",
+    "image": "https://picsum.photos/seed/45/500/500",
+    "rating": 4.7,
+    "reviews": 3500,
+    "oldPrice": 299.99,
+    "brandStore": { "name": "Visit the Garmin Store", "url": "/garmin" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Advanced running dynamics, including ground contact time balance and stride length.",
+      "Wrist-based heart rate monitoring.",
+      "Smart notifications and music controls.",
+      "Up to 2 weeks of battery life in smartwatch mode.",
+      "GPS and GLONASS for accurate tracking."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/45a/500/500",
+      "https://picsum.photos/seed/45b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Garmin" },
+      { "key": "Model", "value": "Forerunner 645 Music" },
+      { "key": "Screen Size", "value": "1.2 Inches" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 249.99,
+      "oldPrice": 299.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "3-Year Wearable Tech Protection",
+        "price": 29.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 46,
+    "title": "Portable Tire Inflator Air Compressor - 12V DC",
+    "price": 34.95,
+    "category": "Automotive",
+    "image": "https://picsum.photos/seed/46/500/500",
+    "rating": 4.5,
+    "reviews": 7200,
+    "oldPrice": 44.95,
+    "brandStore": { "name": "Visit the EPAuto Store", "url": "/epauto" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "description": [
+      "Inflates tires on cars, bikes, and sedans.",
+      "Auto shut-off feature prevents over-inflation.",
+      "Digital display for easy pressure reading.",
+      "Bright LED flashlight for nighttime emergencies.",
+      "Plugs directly into your car's 12V cigarette lighter socket."
+    ],
+    "subImages": ["https://picsum.photos/seed/46a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "EPAuto" },
+      { "key": "Voltage", "value": "12 Volts" },
+      { "key": "Maximum Pressure", "value": "70 PSI" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 34.95,
+      "oldPrice": 44.95,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 47,
+    "title": "CeraVe Moisturizing Cream - Body and Face, 19 Ounce",
+    "price": 17.78,
+    "category": "Beauty & Personal Care",
+    "image": "https://picsum.photos/seed/47/500/500",
+    "rating": 4.8,
+    "reviews": 188000,
+    "oldPrice": 19.99,
+    "brandStore": { "name": "Visit the CeraVe Store", "url": "/cerave" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Provides 24-hour hydration and helps restore the protective skin barrier.",
+      "With ceramides and hyaluronic acid.",
+      "Non-comedogenic, fragrance-free, and oil-free.",
+      "Accepted by the National Eczema Association.",
+      "Suitable for dry to very dry skin on the face and body."
+    ],
+    "subImages": ["https://picsum.photos/seed/47a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "CeraVe" },
+      { "key": "Item Form", "value": "Cream" },
+      { "key": "Unit Count", "value": "19 Ounce" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 17.78,
+      "oldPrice": 19.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 48,
+    "title": "'The Psychology of Money' by Morgan Housel",
+    "price": 11.99,
+    "category": "Books",
+    "image": "https://picsum.photos/seed/48/500/500",
+    "rating": 4.8,
+    "reviews": 42000,
+    "oldPrice": 19.99,
+    "brandStore": {
+      "name": "Visit the Harriman House Store",
+      "url": "/harriman-house"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Timeless lessons on wealth, greed, and happiness.",
+      "Doing well with money isn’t necessarily about what you know. It’s about how you behave.",
+      "A look at the strange ways people think about money."
+    ],
+    "subImages": [],
+    "videos": [],
+    "productInformation": [
+      { "key": "Publisher", "value": "Harriman House" },
+      { "key": "Publication date", "value": "September 8, 2020" },
+      { "key": "Language", "value": "English" }
+    ],
+    "variants": [
+      {
+        "type": "Format",
+        "options": [
+          { "name": "Paperback", "price": 11.99, "oldPrice": 19.99 },
+          { "name": "Hardcover", "price": 18.99, "oldPrice": 24.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 11.99,
+      "oldPrice": 19.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 49,
+    "title": "Men's Waterproof Ski Jacket",
+    "price": 89.95,
+    "category": "Clothing",
+    "image": "https://picsum.photos/seed/49/500/500",
+    "rating": 4.6,
+    "reviews": 4300,
+    "oldPrice": 119.95,
+    "brandStore": { "name": "Visit the Columbia Store", "url": "/columbia" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Waterproof, breathable fabric to keep you dry and comfortable.",
+      "Adjustable hood, cuffs, and hem for a custom fit.",
+      "Multiple zippered pockets for secure storage.",
+      "Fleece-lined collar for added warmth.",
+      "Perfect for skiing, snowboarding, and other winter sports."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/49a/500/500",
+      "https://picsum.photos/seed/49b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Columbia" },
+      { "key": "Material", "value": "Nylon, Polyester" },
+      { "key": "Fit Type", "value": "Modern Classic" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 89.95,
+      "oldPrice": 119.95,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 50,
+    "title": "Vertical Laptop Stand - Adjustable Size",
+    "price": 22.99,
+    "category": "Computers & Accessories",
+    "image": "https://picsum.photos/seed/50/500/500",
+    "rating": 4.7,
+    "reviews": 8200,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the OMOTON Store", "url": "/omoton" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Adjustable width to fit laptops from 0.55in to 2.8in thick.",
+      "Saves desk space and creates a neat and organized workspace.",
+      "Made of high-quality aluminum alloy for durability.",
+      "Non-slip silicone pads protect your laptop from scratches.",
+      "Sleek and minimalist design."
+    ],
+    "subImages": ["https://picsum.photos/seed/50a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "OMOTON" },
+      { "key": "Material", "value": "Aluminum" },
+      { "key": "Compatible Devices", "value": "Laptops" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 22.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 51,
+    "title": "Smart Light Bulbs - Works with Alexa, 4 Pack",
+    "price": 34.99,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/51/500/500",
+    "rating": 4.6,
+    "reviews": 49000,
+    "oldPrice": null,
+    "brandStore": {
+      "name": "Visit the Philips Hue Store",
+      "url": "/philips-hue"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Control your lights with your voice using Alexa or Google Assistant.",
+      "Choose from millions of colors and shades of white light.",
+      "Set schedules and routines to automate your lighting.",
+      "Easy to install, just screw in the bulb and download the app.",
+      "Energy-efficient LED technology."
+    ],
+    "subImages": ["https://picsum.photos/seed/51a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Philips Hue" },
+      { "key": "Light Type", "value": "LED" },
+      { "key": "Wattage", "value": "9.5 watts" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 34.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 52,
+    "title": "Himalayan Pink Salt - Fine Grain, 2lb Bag",
+    "price": 7.99,
+    "category": "Grocery",
+    "image": "https://picsum.photos/seed/52/500/500",
+    "rating": 4.8,
+    "reviews": 12500,
+    "oldPrice": 9.99,
+    "brandStore": {
+      "name": "Visit the Sherpa Pink Store",
+      "url": "/sherpa-pink"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "100% pure Himalayan pink salt, harvested from the Himalayan Mountains.",
+      "Rich in minerals, including calcium, magnesium, and potassium.",
+      "Fine grain for easy use in cooking and baking.",
+      "Adds a delicate, complex flavor to any dish.",
+      "Comes in a resealable bag."
+    ],
+    "subImages": ["https://picsum.photos/seed/52a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Sherpa Pink" },
+      { "key": "Weight", "value": "2 Pounds" },
+      { "key": "Specialty", "value": "Gluten Free, Kosher" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 7.99,
+      "oldPrice": 9.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "Eligible for Return, Refund or Replacement",
+      "isGiftable": false,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 53,
+    "title": "12-Piece Ceramic Cookware Set - Nonstick, Toxin-Free",
+    "price": 119.99,
+    "category": "Home & Kitchen",
+    "image": "https://picsum.photos/seed/53/500/500",
+    "rating": 4.4,
+    "reviews": 4200,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the GreenLife Store", "url": "/greenlife" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Healthy ceramic nonstick coating is free of PFAS, PFOA, lead, and cadmium.",
+      "Heats quickly and evenly for consistent cooking results.",
+      "Stay-cool handles for a comfortable grip.",
+      "Dishwasher safe for easy cleanup.",
+      "Set includes frying pans, saucepans, and utensils."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/53a/500/500",
+      "https://picsum.photos/seed/53b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "GreenLife" },
+      { "key": "Material", "value": "Ceramic" },
+      { "key": "Is Dishwasher Safe", "value": "Yes" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 119.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Monday, August 4",
+      "primeDelivery": null,
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 54,
+    "title": "Industrial Floor Lamp with Shelves",
+    "price": 79.99,
+    "category": "Home Decor",
+    "image": "https://picsum.photos/seed/54/500/500",
+    "rating": 4.5,
+    "reviews": 4500,
+    "oldPrice": 99.99,
+    "brandStore": { "name": "Visit the Brightech Store", "url": "/brightech" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Combines lighting and storage in one stylish unit.",
+      "Three shelves for displaying books, plants, and other decor.",
+      "Sturdy wood construction with a modern industrial design.",
+      "Includes a long-lasting, energy-efficient LED bulb.",
+      "Easy to assemble with no tools required."
+    ],
+    "subImages": ["https://picsum.photos/seed/54a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Brightech" },
+      { "key": "Style", "value": "Industrial" },
+      { "key": "Material", "value": "Wood" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 79.99,
+      "oldPrice": 99.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": false,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 55,
+    "title": "Paper Shredder - 8-Sheet Cross-Cut",
+    "price": 49.99,
+    "category": "Office Supplies",
+    "image": "https://picsum.photos/seed/55/500/500",
+    "rating": 4.5,
+    "reviews": 9500,
+    "oldPrice": 59.99,
+    "brandStore": {
+      "name": "Visit the AmazonBasics Store",
+      "url": "/amazonbasics"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Cross-cut shredder turns paper into small, unreadable pieces.",
+      "Shreds up to 8 sheets at a time.",
+      "Also shreds credit cards, staples, and small paper clips.",
+      "Auto start and manual reverse to clear jams.",
+      "4.1-gallon wastebasket."
+    ],
+    "subImages": ["https://picsum.photos/seed/55a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "AmazonBasics" },
+      { "key": "Capacity", "value": "8 Sheets" },
+      { "key": "Shred Type", "value": "Cross Cut" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 49.99,
+      "oldPrice": 59.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 56,
+    "title": "Automatic Pet Feeder - 4L, Wi-Fi Enabled",
+    "price": 69.95,
+    "category": "Pet Supplies",
+    "image": "https://picsum.photos/seed/56/500/500",
+    "rating": 4.3,
+    "reviews": 6800,
+    "oldPrice": 89.95,
+    "brandStore": { "name": "Visit the Petlibro Store", "url": "/petlibro" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Schedule up to 4 meals a day with customizable portion sizes.",
+      "Control feeding from anywhere with the smartphone app.",
+      "Record a 10-second voice message to call your pet to eat.",
+      "Dual power supply: use the DC adapter or 3 D-cell batteries.",
+      "Keeps food fresh with a desiccant bag."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/56a/500/500",
+      "https://picsum.photos/seed/56b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Petlibro" },
+      { "key": "Capacity", "value": "4 Liters" },
+      { "key": "Control Method", "value": "App" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 69.95,
+      "oldPrice": 89.95,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 57,
+    "title": "Adjustable Dumbbell Set - 5 to 52.5 lbs",
+    "price": 349.0,
+    "category": "Sports & Outdoors",
+    "image": "https://picsum.photos/seed/57/500/500",
+    "rating": 4.7,
+    "reviews": 7200,
+    "oldPrice": 429.0,
+    "brandStore": { "name": "Visit the Bowflex Store", "url": "/bowflex" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Replaces 15 sets of weights with a single dumbbell.",
+      "Adjusts from 5 to 52.5 lbs in 2.5-lb increments.",
+      "Easy-to-use selection dials for quick weight changes.",
+      "Durable molding around metal plates for quiet workouts.",
+      "Includes a 1-year JRNY membership."
+    ],
+    "subImages": ["https://picsum.photos/seed/57a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Bowflex" },
+      { "key": "Model", "value": "SelectTech 552" },
+      { "key": "Weight Range", "value": "5 to 52.5 lbs" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 349.0,
+      "oldPrice": 429.0,
+      "delivery": "FREE delivery Monday, August 4",
+      "primeDelivery": null,
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": false,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 58,
+    "title": "100-Piece Home Repair Tool Set",
+    "price": 49.99,
+    "category": "Tools & Home Improvement",
+    "image": "https://picsum.photos/seed/58/500/500",
+    "rating": 4.8,
+    "reviews": 14800,
+    "oldPrice": 69.99,
+    "brandStore": { "name": "Visit the CARTMAN Store", "url": "/cartman" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Contains all the essential tools for basic home repairs.",
+      "Includes hammer, screwdrivers, pliers, tape measure, and more.",
+      "Tools are heat-treated and chrome-plated to resist corrosion.",
+      "Comes in a durable carrying case for easy storage and transport.",
+      "Perfect for DIY projects and everyday maintenance."
+    ],
+    "subImages": ["https://picsum.photos/seed/58a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "CARTMAN" },
+      { "key": "Number of Pieces", "value": "100" },
+      { "key": "Material", "value": "Steel" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 49.99,
+      "oldPrice": 69.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 59,
+    "title": "Jigsaw Puzzle 1000 Pieces for Adults - 'Starry Night'",
+    "price": 17.99,
+    "category": "Toys & Games",
+    "image": "https://picsum.photos/seed/59/500/500",
+    "rating": 4.6,
+    "reviews": 8200,
+    "oldPrice": 22.99,
+    "brandStore": {
+      "name": "Visit the Ravensburger Store",
+      "url": "/ravensburger"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Features a stunning reproduction of Van Gogh's 'The Starry Night'.",
+      "1000 premium quality pieces with a linen finish to reduce glare.",
+      "Softclick technology ensures a perfect interlocking fit.",
+      "A great way to relax and challenge your mind.",
+      "Finished puzzle measures 27 x 20 inches."
+    ],
+    "subImages": ["https://picsum.photos/seed/59a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Ravensburger" },
+      { "key": "Number of Pieces", "value": "1000" },
+      { "key": "Theme", "value": "Art" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 17.99,
+      "oldPrice": 22.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 60,
+    "title": "Oura Ring Gen3 - Fitness & Sleep Tracker",
+    "price": 299.0,
+    "category": "Wearable Technology",
+    "image": "https://picsum.photos/seed/60/500/500",
+    "rating": 4.3,
+    "reviews": 4300,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Oura Store", "url": "/oura" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Monitors sleep, activity, and readiness with pinpoint accuracy.",
+      "Personalized insights to help you understand your body.",
+      "Lightweight, durable titanium construction.",
+      "Up to 7 days of battery life.",
+      "Water resistant up to 100m."
+    ],
+    "subImages": ["https://picsum.photos/seed/60a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Oura" },
+      { "key": "Material", "value": "Titanium" },
+      { "key": "Sensor Type", "value": "Infrared, Temperature" }
+    ],
+    "variants": [
+      {
+        "type": "Finish",
+        "options": [
+          { "name": "Silver", "swatch": "#C0C0C0" },
+          { "name": "Black", "swatch": "#000000" },
+          { "name": "Gold", "swatch": "#FFD700" }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 299.0,
+      "oldPrice": null,
+      "delivery": "FREE delivery Monday, August 4",
+      "primeDelivery": null,
+      "stockStatus": "In Stock",
+      "shipsFrom": "Oura",
+      "soldBy": "Oura",
+      "returnsPolicy": "Eligible for Return, Refund or Replacement",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 61,
+    "title": "Car Phone Mount - Universal Air Vent Holder",
+    "price": 12.99,
+    "category": "Automotive",
+    "image": "https://picsum.photos/seed/61/500/500",
+    "rating": 4.3,
+    "reviews": 13200,
+    "oldPrice": 15.99,
+    "brandStore": { "name": "Visit the iOttie Store", "url": "/iottie" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Easy one-touch mechanism allows for quick one-handed operation.",
+      "Universal cradle fits smartphones up to 3.5 inches wide.",
+      "Rotates 360 degrees for optimal viewing angles.",
+      "Securely mounts to any car air vent.",
+      "Durable and reliable construction."
+    ],
+
+    "subImages": ["https://picsum.photos/seed/61a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "iOttie" },
+      { "key": "Mounting Type", "value": "Vent" },
+      { "key": "Compatible Devices", "value": "Smartphones" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 12.99,
+      "oldPrice": 15.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 62,
+    "title": "Beard Grooming Kit for Men",
+    "price": 22.95,
+    "category": "Beauty & Personal Care",
+    "image": "https://picsum.photos/seed/62/500/500",
+    "rating": 4.7,
+    "reviews": 9200,
+    "oldPrice": 29.95,
+    "brandStore": {
+      "name": "Visit the Viking Revolution Store",
+      "url": "/viking-revolution"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Complete grooming kit with beard oil, balm, brush, comb, and scissors.",
+      "Made with all-natural ingredients to soften and style your beard.",
+      "Promotes healthy beard growth and prevents itchiness.",
+      "Comes in a premium gift box, perfect for any occasion.",
+      "Unscented for those with sensitive skin."
+    ],
+    "subImages": ["https://picsum.photos/seed/62a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Viking Revolution" },
+      { "key": "Scent", "value": "Unscented" },
+      { "key": "Item Form", "value": "Oil, Balm" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 22.95,
+      "oldPrice": 29.95,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 63,
+    "title": "'The Hill We Climb' by Amanda Gorman",
+    "price": 10.79,
+    "category": "Books",
+    "image": "https://picsum.photos/seed/63/500/500",
+    "rating": 4.9,
+    "reviews": 35000,
+    "oldPrice": 17.99,
+    "brandStore": {
+      "name": "Visit the Viking Books Store",
+      "url": "/viking-books"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "The stirring poem read at the inauguration of the 46th President of the United States.",
+      "A message of hope, unity, and healing.",
+      "A beautifully designed gift book.",
+      "Includes a foreword by Oprah Winfrey."
+    ],
+    "subImages": [],
+    "videos": [],
+    "productInformation": [
+      { "key": "Publisher", "value": "Viking Books for Young Readers" },
+      { "key": "Publication date", "value": "March 30, 2021" },
+      { "key": "Language", "value": "English" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 10.79,
+      "oldPrice": 17.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 64,
+    "title": "Men's Quick Dry Swim Trunks with Mesh Lining",
+    "price": 21.99,
+    "category": "Clothing",
+    "image": "https://picsum.photos/seed/64/500/500",
+    "rating": 4.5,
+    "reviews": 14200,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Kanu Surf Store", "url": "/kanu-surf" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "100% polyester fabric is quick-drying and lightweight.",
+      "UPF 50+ rating provides excellent sun protection.",
+      "Comfortable mesh lining and elastic waistband.",
+      "Two side pockets and a cargo pocket for storage.",
+      "Available in a wide range of colors and prints."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/64a/500/500",
+      "https://picsum.photos/seed/64b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Kanu Surf" },
+      { "key": "Material", "value": "Polyester" },
+      { "key": "Fit Type", "value": "Classic" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Royal Blue", "swatch": "#4169E1" },
+          { "name": "Red", "swatch": "#FF0000" },
+          { "name": "Black", "swatch": "#000000" }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 21.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 65,
+    "title": "Wireless Mechanical Keyboard - 60% Compact",
+    "price": 69.99,
+    "category": "Computers & Accessories",
+    "image": "https://picsum.photos/seed/65/500/500",
+    "rating": 4.6,
+    "reviews": 6100,
+    "oldPrice": 89.99,
+    "brandStore": { "name": "Visit the Keychron Store", "url": "/keychron" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Compact 60% layout to save desk space.",
+      "Connect up to 3 devices via Bluetooth 5.1.",
+      "Hot-swappable switches for easy customization.",
+      "RGB backlighting with multiple lighting effects.",
+      "Compatible with both Mac and Windows."
+    ],
+    "subImages": ["https://picsum.photos/seed/65a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Keychron" },
+      { "key": "Model", "value": "K6" },
+      { "key": "Connectivity", "value": "Bluetooth, USB-C" }
+    ],
+    "variants": [
+      {
+        "type": "Switch Type",
+        "options": [
+          { "name": "Gateron Brown", "price": 69.99, "oldPrice": 89.99 },
+          { "name": "Gateron Red", "price": 69.99, "oldPrice": 89.99 },
+          { "name": "Gateron Blue", "price": 69.99, "oldPrice": 89.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 69.99,
+      "oldPrice": 89.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 66,
+    "title": "4K UHD Smart TV - 65-Inch, HDR, Alexa Built-in",
+    "price": 749.99,
+    "category": "Electronics",
+    "image": "https://picsum.photos/seed/66/500/500",
+    "rating": 4.6,
+    "reviews": 13300,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Samsung Store", "url": "/samsung" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Stunning 4K UHD resolution for lifelike picture quality.",
+      "HDR for a wide range of color and contrast.",
+      "Built-in Alexa to control your TV and smart home devices.",
+      "Universal Guide provides one simple on-screen guide.",
+      "Sleek and slim design."
+    ],
+    "subImages": ["https://picsum.photos/seed/66a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Samsung" },
+      { "key": "Model", "value": "Crystal UHD 7 Series" },
+      { "key": "Screen Size", "value": "65 Inches" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 749.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Monday, August 4",
+      "primeDelivery": null,
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": false,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      {
+        "name": "4-Year TV Protection",
+        "price": 69.99,
+        "listPrice": null,
+        "savings": null
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 67,
+    "title": "Keto-Friendly Protein Bars - 12 Pack, Chocolate Chip",
+    "price": 24.99,
+    "category": "Grocery",
+    "image": "https://picsum.photos/seed/67/500/500",
+    "rating": 4.2,
+    "reviews": 5200,
+    "oldPrice": 29.99,
+    "brandStore": {
+      "name": "Visit the Quest Nutrition Store",
+      "url": "/quest-nutrition"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "21g of protein, 4g of net carbs, and 1g of sugar per bar.",
+      "Packed with delicious chocolate chips and a cookie dough flavor.",
+      "A great way to satisfy your sweet tooth while staying on track.",
+      "Gluten-free and keto-friendly.",
+      "Includes 12 bars."
+    ],
+    "subImages": ["https://picsum.photos/seed/67a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Quest Nutrition" },
+      { "key": "Flavor", "value": "Chocolate Chip Cookie Dough" },
+      { "key": "Protein Source", "value": "Whey Protein Isolate" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 24.99,
+      "oldPrice": 29.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "Eligible for Return, Refund or Replacement",
+      "isGiftable": false,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 68,
+    "title": "Immersion Hand Blender - 4-in-1, with Whisk & Chopper",
+    "price": 39.99,
+    "category": "Home & Kitchen",
+    "image": "https://picsum.photos/seed/68/500/500",
+    "rating": 4.6,
+    "reviews": 16800,
+    "oldPrice": 49.99,
+    "brandStore": {
+      "name": "Visit the Mueller Austria Store",
+      "url": "/mueller-austria"
+    },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "description": [
+      "4-in-1 versatility with immersion blender, whisk, and chopper attachments.",
+      "Powerful 500-watt motor for efficient blending.",
+      "12-speed settings and a turbo button for maximum control.",
+      "Ergonomic design with a non-slip grip.",
+      "Easy to clean with dishwasher-safe parts."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/68a/500/500",
+      "https://picsum.photos/seed/68b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Mueller Austria" },
+      { "key": "Wattage", "value": "500 watts" },
+      { "key": "Special Feature", "value": "4-in-1, 12 Speeds" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 39.99,
+      "oldPrice": 49.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 69,
+    "title": "Set of 4 Modern Art Prints - Unframed, 8x10",
+    "price": 18.99,
+    "category": "Home Decor",
+    "image": "https://picsum.photos/seed/69/500/500",
+    "rating": 4.5,
+    "reviews": 2450,
+    "oldPrice": null,
+    "brandStore": {
+      "name": "Visit the Haus and Hues Store",
+      "url": "/haus-and-hues"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Set of 4 coordinating abstract art prints.",
+      "Printed on high-quality, archival paper.",
+      "Each print measures 8x10 inches, perfect for standard frames.",
+      "Adds a touch of modern sophistication to any room.",
+      "Frames not included."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/69a/500/500",
+      "https://picsum.photos/seed/69b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Haus and Hues" },
+      { "key": "Size", "value": "8x10 Inches" },
+      { "key": "Theme", "value": "Abstract" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 18.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 70,
+    "title": "Magnetic Dry Erase Board for Fridge",
+    "price": 16.99,
+    "category": "Office Supplies",
+    "image": "https://picsum.photos/seed/70/500/500",
+    "rating": 4.7,
+    "reviews": 15100,
+    "oldPrice": 21.99,
+    "brandStore": { "name": "Visit the Cinch! Store", "url": "/cinch" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Strong magnetic backing stays securely on your fridge.",
+      "Stain-resistant surface erases cleanly every time.",
+      "Includes 4 colored markers and a magnetic eraser.",
+      "Perfect for to-do lists, grocery lists, and reminders.",
+      "Measures 17x12 inches."
+    ],
+    "subImages": ["https://picsum.photos/seed/70a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Cinch!" },
+      { "key": "Material", "value": "PET Film" },
+      { "key": "Mounting Type", "value": "Magnetic" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 16.99,
+      "oldPrice": 21.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 71,
+    "title": "Dog Poop Bags - 900 Count, with Dispenser",
+    "price": 19.99,
+    "category": "Pet Supplies",
+    "image": "https://picsum.photos/seed/71/500/500",
+    "rating": 4.9,
+    "reviews": 220000,
+    "oldPrice": 24.99,
+    "brandStore": {
+      "name": "Visit the Earth Rated Store",
+      "url": "/earth-rated"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "900 lavender-scented bags on 60 rolls.",
+      "Guaranteed leak-proof to keep your hands clean.",
+      "Includes 2 leash dispensers for convenience.",
+      "Made with recycled materials.",
+      "Easy to open and detach from the roll."
+    ],
+    "subImages": ["https://picsum.photos/seed/71a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Earth Rated" },
+      { "key": "Scent", "value": "Lavender" },
+      { "key": "Unit Count", "value": "900" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 19.99,
+      "oldPrice": 24.99,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 72,
+    "title": "4-Person Family Camping Tent - Waterproof, Easy Setup",
+    "price": 99.99,
+    "category": "Sports & Outdoors",
+    "image": "https://picsum.photos/seed/72/500/500",
+    "rating": 4.5,
+    "reviews": 6700,
+    "oldPrice": 129.99,
+    "brandStore": { "name": "Visit the Coleman Store", "url": "/coleman" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Spacious interior fits a queen-size air mattress.",
+      "WeatherTec system with patented welded floors and inverted seams.",
+      "Sets up in just 10 minutes.",
+      "Large windows and a ground vent for enhanced airflow.",
+      "Comes with a convenient carry bag."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/72a/500/500",
+      "https://picsum.photos/seed/72b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Coleman" },
+      { "key": "Model", "value": "Sundome" },
+      { "key": "Occupancy", "value": "4 Person" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 99.99,
+      "oldPrice": 129.99,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 73,
+    "title": "Stud Finder Wall Scanner - 4 in 1",
+    "price": 26.97,
+    "category": "Tools & Home Improvement",
+    "image": "https://picsum.photos/seed/73/500/500",
+    "rating": 4.4,
+    "reviews": 16200,
+    "oldPrice": 32.97,
+    "brandStore": { "name": "Visit the TAVOOL Store", "url": "/tavool" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "4 scanning modes for wood, metal studs, and live AC wires.",
+      "Large LCD display and sound warning for accurate detection.",
+      "Easy to use with a one-button operation.",
+      "Ergonomic design for a comfortable grip.",
+      "A must-have tool for any homeowner or DIYer."
+    ],
+    "subImages": ["https://picsum.photos/seed/73a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "TAVOOL" },
+      { "key": "Power Source", "value": "Battery Powered" },
+      { "key": "Measurement Accuracy", "value": "0.5 Inches" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 26.97,
+      "oldPrice": 32.97,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 74,
+    "title": "Remote Control Car - 1:16 Scale, Off-Road RC Truck",
+    "price": 39.99,
+    "category": "Toys & Games",
+    "image": "https://picsum.photos/seed/74/500/500",
+    "rating": 4.4,
+    "reviews": 8100,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the DEERC Store", "url": "/deerc" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "High-speed motor for exciting off-road action.",
+      "Durable construction with anti-slip tires and shock absorbers.",
+      "2.4GHz remote control for interference-free operation.",
+      "Includes two rechargeable batteries for extended playtime.",
+      "A great gift for kids and adults alike."
+    ],
+    "subImages": ["https://picsum.photos/seed/74a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "DEERC" },
+      { "key": "Scale", "value": "1:16" },
+      { "key": "Control Type", "value": "Remote Control" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 39.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 75,
+    "title": "Kids Smartwatch with GPS Tracker and Camera",
+    "price": 39.99,
+    "category": "Wearable Technology",
+    "image": "https://picsum.photos/seed/75/500/500",
+    "rating": 4.2,
+    "reviews": 3850,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the VTech Store", "url": "/vtech" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Two-way calling and messaging to stay connected with your child.",
+      "Real-time GPS tracking for peace of mind.",
+      "SOS button for emergencies.",
+      "Built-in camera for fun photos and videos.",
+      "Durable and splash-proof design."
+    ],
+    "subImages": ["https://picsum.photos/seed/75a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "VTech" },
+      { "key": "Model", "value": "KidiZoom Smartwatch DX2" },
+      { "key": "Special Feature", "value": "GPS, Camera" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Blue", "swatch": "#0000FF" },
+          { "name": "Pink", "swatch": "#FFC0CB" }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 39.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 76,
+    "title": "Car Seat Covers - Full Set, Universal Fit",
+    "price": 35.99,
+    "category": "Automotive",
+    "image": "https://picsum.photos/seed/76/500/500",
+    "rating": 4.3,
+    "reviews": 6800,
+    "oldPrice": 45.99,
+    "brandStore": { "name": "Visit the FH Group Store", "url": "/fh-group" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Protects your car seats from spills, stains, and wear and tear.",
+      "Universal fit for most cars, trucks, and SUVs.",
+      "Made of durable, breathable polyester fabric.",
+      "Easy to install with included hooks and instructions.",
+      "Available in a variety of colors to match your interior."
+    ],
+    "subImages": ["https://picsum.photos/seed/76a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "FH Group" },
+      { "key": "Material", "value": "Polyester" },
+      { "key": "Fit Type", "value": "Universal Fit" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 35.99,
+      "oldPrice": 45.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 77,
+    "title": "Micellar Cleansing Water - All-in-1 Makeup Remover",
+    "price": 6.99,
+    "category": "Beauty & Personal Care",
+    "image": "https://picsum.photos/seed/77/500/500",
+    "rating": 4.7,
+    "reviews": 45000,
+    "oldPrice": null,
+    "brandStore": { "name": "Visit the Garnier Store", "url": "/garnier" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Gently removes makeup, dirt, and oil without harsh rubbing.",
+      "No-rinse formula is perfect for on-the-go use.",
+      "Leaves skin feeling clean, refreshed, and hydrated.",
+      "Suitable for all skin types, including sensitive skin.",
+      "Ophthalmologist and dermatologist tested."
+    ],
+    "subImages": [],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Garnier" },
+      { "key": "Item Form", "value": "Liquid" },
+      { "key": "Skin Type", "value": "All" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 6.99,
+      "oldPrice": null,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Friday, August 1.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "Eligible for Return, Refund or Replacement",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 78,
+    "title": "'The Guest List' by Lucy Fokley",
+    "price": 10.99,
+    "category": "Books",
+    "image": "https://picsum.photos/seed/78/500/500",
+    "rating": 4.5,
+    "reviews": 65000,
+    "oldPrice": 17.0,
+    "brandStore": {
+      "name": "Visit the William Morrow Store",
+      "url": "/william-morrow"
+    },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "A gripping, atmospheric mystery set on a remote island off the coast of Ireland.",
+      "A wedding celebration turns deadly in this whodunit from the author of The Hunting Party.",
+      "Secrets and lies unravel as a storm rages outside."
+    ],
+    "subImages": [],
+    "videos": [],
+    "productInformation": [
+      { "key": "Publisher", "value": "William Morrow" },
+      { "key": "Publication date", "value": "June 2, 2020" },
+      { "key": "Language", "value": "English" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 10.99,
+      "oldPrice": 17.0,
+      "delivery": "FREE delivery on orders over $35",
+      "primeDelivery": "Or get FREE delivery Saturday, August 2.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 79,
+    "title": "Women's 3-in-1 Rain Jacket - Waterproof, Windproof",
+    "price": 69.95,
+    "category": "Clothing",
+    "image": "https://picsum.photos/seed/79/500/500",
+    "rating": 4.5,
+    "reviews": 7100,
+    "oldPrice": 89.95,
+    "brandStore": { "name": "Visit the Wantdo Store", "url": "/wantdo" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "description": [
+      "Versatile 3-in-1 design with a waterproof shell and a removable fleece liner.",
+      "Wear the shell and liner together for maximum warmth, or wear them separately.",
+      "Adjustable hood, cuffs, and hem for a custom fit.",
+      "Multiple pockets for storing your essentials.",
+      "Ideal for hiking, camping, and everyday wear."
+    ],
+    "subImages": [
+      "https://picsum.photos/seed/79a/500/500",
+      "https://picsum.photos/seed/79b/500/500"
+    ],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Wantdo" },
+      { "key": "Material", "value": "Polyester" },
+      { "key": "Special Feature", "value": "3-in-1" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 69.95,
+      "oldPrice": 89.95,
+      "delivery": "FREE delivery Sunday, August 3",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": null,
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 80,
+    "title": "USB C Hub Multiport Adapter - 7-in-1 Dongle",
+    "price": 29.99,
+    "category": "Computers & Accessories",
+    "image": "https://picsum.photos/seed/80/500/500",
+    "rating": 4.5,
+    "reviews": 17800,
+    "oldPrice": 39.99,
+    "brandStore": { "name": "Visit the Anker Store", "url": "/anker" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "description": [
+      "Expand your laptop's connectivity with 7 ports: 4K HDMI, USB-C, 2x USB 3.0, and SD/microSD card readers.",
+      "High-speed data transfer up to 5Gbps.",
+      "Pass-through charging up to 100W.",
+      "Compact and lightweight design for portability.",
+      "Plug and play, no drivers required."
+    ],
+    "subImages": ["https://picsum.photos/seed/80a/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Brand", "value": "Anker" },
+      { "key": "Model", "value": "PowerExpand+ 7-in-1" },
+      { "key": "Hardware Interface", "value": "USB, HDMI, USB-C" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "delivery": "FREE delivery Saturday, August 2",
+      "primeDelivery": "Or get FREE delivery Tomorrow, July 31.",
+      "stockStatus": "In Stock",
+      "shipsFrom": "AmazonClone.com",
+      "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns",
+      "isGiftable": true,
+      "support": "Product support included",
+      "payment": "Secure transaction"
+    },
+    "protectionPlans": [],
+    "offers": []
+  },
+  {
+    "id": 81,
+    "title": "Smart Wi-Fi Enabled Air Fryer Oven, 8-Quart",
+    "price": 129.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/81/500/500",
+    "rating": 4.8,
+    "reviews": 7800,
+    "oldPrice": 159.99,
+    "brandStore": { "name": "Visit the KitchenPro Store", "url": "/kitchenpro-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "salesVolume": "8K+ bought in past month",
+    "description": [
+      "12-in-1 functionality allows you to Air Fry, Roast, Bake, Dehydrate, Reheat, and more.",
+      "Control and monitor your cooking from anywhere with our intuitive smart app and Wi-Fi connectivity.",
+      "Generous 8-quart capacity is perfect for family-sized meals and hosting guests.",
+      "Rapid 360° air circulation technology ensures crispy results with up to 85% less fat.",
+      "Dishwasher-safe, non-stick basket and crisper tray make cleanup effortless."
+    ],
+    "subImages": ["https://picsum.photos/seed/81a/500/500", "https://picsum.photos/seed/81b/500/500", "https://picsum.photos/seed/81c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "15.6 x 11.8 x 14.2 inches" },
+      { "key": "Weight", "value": "19.5 pounds" },
+      { "key": "Capacity", "value": "8 Quarts" },
+      { "key": "Wattage", "value": "1700 Watts" },
+      { "key": "Manufacturer", "value": "KitchenPro" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Matte Black", "price": 129.99, "oldPrice": 159.99 },
+          { "name": "Stainless Steel", "price": 139.99, "oldPrice": 169.99 },
+          { "name": "Seafoam Green", "price": 134.99, "oldPrice": 164.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 129.99, "oldPrice": 159.99, "delivery": "FREE delivery Monday, August 4", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 19.99 },
+      { "name": "3-Year Appliance Protection", "price": 28.99 }
+    ],
+    "offers": ["Get a $50 Amazon Gift Card instantly upon approval for the Amazon Rewards Visa Card."]
+  },
+  {
+    "id": 82,
+    "title": "High-Efficiency Front Load Smart Washer with Steam Clean",
+    "price": 899.00,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/82/500/500",
+    "rating": 4.6,
+    "reviews": 4250,
+    "oldPrice": 1099.00,
+    "brandStore": { "name": "Visit the CleanWave Store", "url": "/cleanwave-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "500+ bought in past month",
+    "description": [
+      "Ultra-large 5.2 cu. ft. capacity can handle king-size bedding and large family loads in a single go.",
+      "Steam Clean cycle powerfully penetrates fabrics to eliminate dirt, odors, and wrinkles.",
+      "Wi-Fi enabled to remotely start, stop, and monitor cycles from your smartphone.",
+      "Allergiene™ Cycle uses steam to remove over 95% of common household allergens.",
+      "Energy Star Certified for exceptional energy efficiency and cost savings."
+    ],
+    "subImages": ["https://picsum.photos/seed/82a/500/500", "https://picsum.photos/seed/82b/500/500", "https://picsum.photos/seed/82c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "30.25 x 27 x 39 inches" },
+      { "key": "Weight", "value": "202 pounds" },
+      { "key": "Capacity", "value": "5.2 Cubic Feet" },
+      { "key": "Access Location", "value": "Front Load" },
+      { "key": "Manufacturer", "value": "CleanWave" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "White", "price": 899.00, "oldPrice": 1099.00 },
+          { "name": "Graphite Steel", "price": 949.00, "oldPrice": 1149.00 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 899.00, "oldPrice": 1099.00, "delivery": "FREE Scheduled Delivery", "primeDelivery": null, "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "Major Appliances LLC", "returnsPolicy": "30-Day Return Policy", "isGiftable": false, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "3-Year Major Appliance Protection", "price": 89.99 },
+      { "name": "5-Year Major Appliance Protection", "price": 149.99 }
+    ],
+    "offers": ["0% APR for 12 months with Amazon financing."]
+  },
+  {
+    "id": 83,
+    "title": "Retro Series Countertop Microwave Oven - 0.9 Cu. Ft.",
+    "price": 99.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/83/500/500",
+    "rating": 4.7,
+    "reviews": 11500,
+    "oldPrice": 119.99,
+    "brandStore": { "name": "Visit the Nostalgia Electrics Store", "url": "/nostalgia-electrics-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "10K+ bought in past month",
+    "description": [
+      "Stylish retro design with chrome accents adds a classic look to any kitchen counter.",
+      "12 pre-programmed settings for popcorn, pizza, potatoes, and more for convenient cooking.",
+      "Easy-to-use rotary dial and digital clock provide a simple and intuitive interface.",
+      "0.9 cubic foot capacity is ideal for apartments, dorm rooms, and smaller kitchens.",
+      "Rotating glass carousel ensures food is cooked evenly every time."
+    ],
+    "subImages": ["https://picsum.photos/seed/83a/500/500", "https://picsum.photos/seed/83b/500/500", "https://picsum.photos/seed/83c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "19.5 x 15.25 x 11.5 inches" },
+      { "key": "Weight", "value": "24.5 pounds" },
+      { "key": "Capacity", "value": "0.9 Cubic Feet" },
+      { "key": "Wattage", "value": "900 Watts" },
+      { "key": "Manufacturer", "value": "Nostalgia Electrics" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Aqua Blue", "price": 99.99, "oldPrice": 119.99 },
+          { "name": "Retro Red", "price": 99.99, "oldPrice": 119.99 },
+          { "name": "Classic White", "price": 94.99, "oldPrice": 119.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 99.99, "oldPrice": 119.99, "delivery": "FREE delivery Saturday, August 2", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 14.99 },
+      { "name": "3-Year Appliance Protection", "price": 21.99 }
+    ],
+    "offers": ["Save 10% on this item with coupon."]
+  },
+  {
+    "id": 84,
+    "title": "Professional Series Countertop Blender, 1400-Watt",
+    "price": 89.95,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/84/500/500",
+    "rating": 4.8,
+    "reviews": 19800,
+    "oldPrice": 119.95,
+    "brandStore": { "name": "Visit the BlendMaster Store", "url": "/blendmaster-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": true },
+    "salesVolume": "5K+ bought in past month",
+    "description": [
+      "Powerful 1400-watt motor crushes ice, whole fruits, and seeds in seconds for smooth results.",
+      "3 pre-programmed settings for Smoothies, Ice Crush, and Soups take the guesswork out of blending.",
+      "Durable, BPA-free 72 oz pitcher is perfect for making large batches for the whole family.",
+      "Hardened stainless-steel blades are designed to handle the toughest ingredients.",
+      "Includes a tamper to help process thick or stubborn blends."
+    ],
+    "subImages": ["https://picsum.photos/seed/84a/500/500", "https://picsum.photos/seed/84b/500/500", "https://picsum.photos/seed/84c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "8.8 x 7.1 x 17.3 inches" },
+      { "key": "Weight", "value": "11.2 pounds" },
+      { "key": "Capacity", "value": "72 Ounces" },
+      { "key": "Wattage", "value": "1400 Watts" },
+      { "key": "Manufacturer", "value": "BlendMaster" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 89.95, "oldPrice": 119.95, "delivery": "FREE delivery Monday, August 4", "primeDelivery": "Or get FREE delivery Sunday, August 3.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 11.99 },
+      { "name": "3-Year Appliance Protection", "price": 18.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 85,
+    "title": "Programmable 12-Cup Drip Coffee Maker with Glass Carafe",
+    "price": 59.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/85/500/500",
+    "rating": 4.5,
+    "reviews": 25000,
+    "oldPrice": 74.99,
+    "brandStore": { "name": "Visit the MorningBrew Store", "url": "/morningbrew-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "20K+ bought in past month",
+    "description": [
+      "Brew up to 12 cups of coffee with the large-capacity glass carafe.",
+      "24-hour programmability lets you wake up to a fresh pot of coffee.",
+      "Brew strength selector allows you to choose between regular and bold settings.",
+      "Grab-a-cup auto-pause feature lets you pour a cup before the brewing cycle is complete.",
+      "2-hour auto shut-off for peace of mind and energy savings."
+    ],
+    "subImages": ["https://picsum.photos/seed/85a/500/500", "https://picsum.photos/seed/85b/500/500", "https://picsum.photos/seed/85c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "9.6 x 7.8 x 14.1 inches" },
+      { "key": "Weight", "value": "6.8 pounds" },
+      { "key": "Capacity", "value": "12 Cups" },
+      { "key": "Special Feature", "value": "Programmable, Permanent Filter" },
+      { "key": "Manufacturer", "value": "MorningBrew" }
+    ],
+    "variants": [
+      {
+        "type": "Style",
+        "options": [
+          { "name": "Stainless Steel", "price": 59.99, "oldPrice": 74.99 },
+          { "name": "Matte Black", "price": 54.99, "oldPrice": 74.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 59.99, "oldPrice": 74.99, "delivery": "FREE delivery Saturday, August 2", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 7.99 },
+      { "name": "3-Year Appliance Protection", "price": 12.99 }
+    ],
+    "offers": ["Get a $50 Amazon Gift Card instantly upon approval for the Amazon Rewards Visa Card."]
+  },
+  {
+    "id": 86,
+    "title": "2-Slice Extra-Wide Slot Toaster with Bagel Function",
+    "price": 29.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/86/500/500",
+    "rating": 4.6,
+    "reviews": 31200,
+    "oldPrice": 39.99,
+    "brandStore": { "name": "Visit the HomeSphere Store", "url": "/homesphere-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "30K+ bought in past month",
+    "description": [
+      "1.5-inch extra-wide slots fit thick slices of bread, bagels, and Texas toast.",
+      "7 shade settings from light to dark to get your toast just the way you like it.",
+      "Dedicated Bagel, Defrost, and Cancel functions for customized toasting.",
+      "High-lift lever makes it easy to retrieve smaller items without burning your fingers.",
+      "Slide-out crumb tray is removable for quick and easy cleaning."
+    ],
+    "subImages": ["https://picsum.photos/seed/86a/500/500", "https://picsum.photos/seed/86b/500/500", "https://picsum.photos/seed/86c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "11.2 x 6.5 x 7.5 inches" },
+      { "key": "Weight", "value": "3.1 pounds" },
+      { "key": "Material", "value": "Stainless Steel" },
+      { "key": "Number of Slices", "value": "2" },
+      { "key": "Manufacturer", "value": "HomeSphere" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Brushed Silver", "price": 29.99, "oldPrice": 39.99 },
+          { "name": "Black", "price": 29.99, "oldPrice": 39.99 },
+          { "name": "Red", "price": 32.99, "oldPrice": 39.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 29.99, "oldPrice": 39.99, "delivery": "FREE delivery Saturday, August 2", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 4.99 },
+      { "name": "3-Year Appliance Protection", "price": 6.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 87,
+    "title": "Energy Star QuietCool Window Air Conditioner, 8,000 BTU",
+    "price": 329.00,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/87/500/500",
+    "rating": 4.4,
+    "reviews": 3400,
+    "oldPrice": 379.00,
+    "brandStore": { "name": "Visit the Arctic King Store", "url": "/arctic-king-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "2K+ bought in past month",
+    "description": [
+      "8,000 BTU cooling capacity effectively cools rooms up to 350 square feet.",
+      "Energy Star certified for lower energy consumption, saving you money on utility bills.",
+      "Ultra-quiet operation is perfect for bedrooms and living rooms.",
+      "Includes a remote control, 24-hour timer, and sleep mode for customized comfort.",
+      "Easy-to-clean washable filter helps remove dust and allergens from the air."
+    ],
+    "subImages": ["https://picsum.photos/seed/87a/500/500", "https://picsum.photos/seed/87b/500/500", "https://picsum.photos/seed/87c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "18.6 x 15.7 x 13.4 inches" },
+      { "key": "Weight", "value": "52.9 pounds" },
+      { "key": "Cooling Power", "value": "8000 BTU" },
+      { "key": "Special Feature", "value": "Remote Controlled, Dehumidifier" },
+      { "key": "Manufacturer", "value": "Arctic King" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 329.00, "oldPrice": 379.00, "delivery": "FREE delivery Tuesday, August 5", "primeDelivery": null, "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": false, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 34.99 },
+      { "name": "3-Year Appliance Protection", "price": 52.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 88,
+    "title": "3-in-1 Upright Bagless Vacuum Cleaner with HEPA Filter",
+    "price": 79.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/88/500/500",
+    "rating": 4.5,
+    "reviews": 15600,
+    "oldPrice": 99.99,
+    "brandStore": { "name": "Visit the PowerSweep Store", "url": "/powersweep-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": true },
+    "salesVolume": "6K+ bought in past month",
+    "description": [
+      "Powerful suction provides a deep clean on both carpets and hard floors.",
+      "Lightweight and steerable design makes it easy to maneuver around furniture.",
+      "HEPA filtration system traps 99.9% of dust and allergens inside the vacuum.",
+      "XL-capacity dust cup is easy to empty with the touch of a button.",
+      "Includes a crevice tool and dusting brush for versatile above-floor cleaning."
+    ],
+    "subImages": ["https://picsum.photos/seed/88a/500/500", "https://picsum.photos/seed/88b/500/500", "https://picsum.photos/seed/88c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "12 x 10.5 x 45 inches" },
+      { "key": "Weight", "value": "12.5 pounds" },
+      { "key": "Form Factor", "value": "Upright" },
+      { "key": "Filter Type", "value": "HEPA" },
+      { "key": "Manufacturer", "value": "PowerSweep" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 79.99, "oldPrice": 99.99, "delivery": "FREE delivery Saturday, August 2", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 9.99 },
+      { "name": "3-Year Appliance Protection", "price": 14.99 }
+    ],
+    "offers": ["Get a $50 Amazon Gift Card instantly upon approval for the Amazon Rewards Visa Card."]
+  },
+  {
+    "id": 89,
+    "title": "Stainless Steel Electric Gooseneck Kettle for Pour Over Coffee",
+    "price": 45.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/89/500/500",
+    "rating": 4.9,
+    "reviews": 8900,
+    "oldPrice": 59.99,
+    "brandStore": { "name": "Visit the Barista Pro Store", "url": "/barista-pro-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "4K+ bought in past month",
+    "description": [
+      "Precision-pour gooseneck spout provides optimal control for pour-over coffee and tea.",
+      "1000-watt heating element boils water rapidly, faster and safer than a stovetop.",
+      "Features a built-in thermometer on the lid for brewing at the exact right temperature.",
+      "Constructed from 100% food-grade stainless steel with no chemical linings.",
+      "Automatic shut-off and boil-dry protection for enhanced safety."
+    ],
+    "subImages": ["https://picsum.photos/seed/89a/500/500", "https://picsum.photos/seed/89b/500/500", "https://picsum.photos/seed/89c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "10.8 x 5.9 x 8.1 inches" },
+      { "key": "Weight", "value": "2.8 pounds" },
+      { "key": "Capacity", "value": "1 Liter" },
+      { "key": "Material", "value": "Stainless Steel" },
+      { "key": "Manufacturer", "value": "Barista Pro" }
+    ],
+    "variants": [
+      {
+        "type": "Finish",
+        "options": [
+          { "name": "Matte Black", "price": 45.99, "oldPrice": 59.99 },
+          { "name": "Polished Silver", "price": 45.99, "oldPrice": 59.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 45.99, "oldPrice": 59.99, "delivery": "FREE delivery Sunday, August 3", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 6.99 },
+      { "name": "3-Year Appliance Protection", "price": 9.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 90,
+    "title": "Compact 3.2 Cu. Ft. Mini Refrigerator with Freezer",
+    "price": 199.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/90/500/500",
+    "rating": 4.5,
+    "reviews": 5100,
+    "oldPrice": 249.99,
+    "brandStore": { "name": "Visit the CoolZone Store", "url": "/coolzone-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "1K+ bought in past month",
+    "description": [
+      "Spacious 3.2 cubic foot capacity provides ample storage for dorm rooms, offices, or man caves.",
+      "Separate top-freezer compartment for storing frozen meals and ice.",
+      "Adjustable mechanical thermostat control allows you to set the perfect temperature.",
+      "Reversible door hinge allows for right or left-handed opening.",
+      "Features a crisper drawer, can dispenser, and removable glass shelves for organization."
+    ],
+    "subImages": ["https://picsum.photos/seed/90a/500/500", "https://picsum.photos/seed/90b/500/500", "https://picsum.photos/seed/90c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "18.5 x 19.4 x 33 inches" },
+      { "key": "Weight", "value": "50.7 pounds" },
+      { "key": "Capacity", "value": "3.2 Cubic Feet" },
+      { "key": "Freezer Capacity", "value": "0.4 Cubic Feet" },
+      { "key": "Manufacturer", "value": "CoolZone" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Black", "price": 199.99, "oldPrice": 249.99 },
+          { "name": "Stainless Look", "price": 209.99, "oldPrice": 259.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 199.99, "oldPrice": 249.99, "delivery": "FREE delivery Wednesday, August 6", "primeDelivery": null, "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": false, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 24.99 },
+      { "name": "3-Year Appliance Protection", "price": 36.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 91,
+    "title": "Digital Food Steamer with Stackable Baskets, 9.5-Quart",
+    "price": 49.95,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/91/500/500",
+    "rating": 4.6,
+    "reviews": 6300,
+    "oldPrice": 59.95,
+    "brandStore": { "name": "Visit the HealthyChoice Store", "url": "/healthychoice-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "3K+ bought in past month",
+    "description": [
+      "Steam vegetables, fish, chicken, and rice for healthy and delicious meals.",
+      "Two-tiered stackable baskets provide a large 9.5-quart capacity to cook multiple items at once.",
+      "Digital LCD display with 75-minute timer and automatic shut-off.",
+      "Includes a rice bowl for perfectly cooked fluffy rice.",
+      "Baskets are dishwasher safe for easy cleaning."
+    ],
+    "subImages": ["https://picsum.photos/seed/91a/500/500", "https://picsum.photos/seed/91b/500/500", "https://picsum.photos/seed/91c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "12.6 x 11.8 x 15.8 inches" },
+      { "key": "Weight", "value": "5.5 pounds" },
+      { "key": "Capacity", "value": "9.5 Quarts" },
+      { "key": "Material", "value": "Plastic, Stainless Steel" },
+      { "key": "Manufacturer", "value": "HealthyChoice" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 49.95, "oldPrice": 59.95, "delivery": "FREE delivery Saturday, August 2", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com",
+      "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 6.99 },
+      { "name": "3-Year Appliance Protection", "price": 9.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 92,
+    "title": "Quiet-Operation Dishwasher with Stainless Steel Tub",
+    "price": 549.00,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/92/500/500",
+    "rating": 4.5,
+    "reviews": 2900,
+    "oldPrice": 699.00,
+    "brandStore": { "name": "Visit the SparkleClean Store", "url": "/sparkleclean-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "300+ bought in past month",
+    "description": [
+      "Operates at a library-quiet 48 dBA to keep your home peaceful.",
+      "Durable stainless steel tub resists rust and provides better drying performance.",
+      "Third rack provides extra space for silverware and utensils.",
+      "StormWash™ rotating spray jets deliver a heavy-duty clean from every angle.",
+      "AutoRelease™ door automatically opens at the end of the cycle to improve drying."
+    ],
+    "subImages": ["https://picsum.photos/seed/92a/500/500", "https://picsum.photos/seed/92b/500/500", "https://picsum.photos/seed/92c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "24 x 25 x 33.75 inches" },
+      { "key": "Weight", "value": "88 pounds" },
+      { "key": "Noise Level", "value": "48 dBA" },
+      { "key": "Control Console", "value": "Top Control" },
+      { "key": "Manufacturer", "value": "SparkleClean" }
+    ],
+    "variants": [
+      {
+        "type": "Finish",
+        "options": [
+          { "name": "Fingerprint Resistant Stainless Steel", "price": 549.00, "oldPrice": 699.00 },
+          { "name": "Black Stainless Steel", "price": 599.00, "oldPrice": 749.00 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 549.00, "oldPrice": 699.00, "delivery": "FREE Scheduled Delivery", "primeDelivery": null, "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "Major Appliances LLC", "returnsPolicy": "30-Day Return Policy", "isGiftable": false, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "3-Year Major Appliance Protection", "price": 64.99 },
+      { "name": "5-Year Major Appliance Protection", "price": 109.99 }
+    ],
+    "offers": ["0% APR for 12 months with Amazon financing."]
+  },
+  {
+    "id": 93,
+    "title": "Immersion Hand Blender with Whisk and Chopper Attachments",
+    "price": 39.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/93/500/500",
+    "rating": 4.7,
+    "reviews": 22000,
+    "oldPrice": 49.99,
+    "brandStore": { "name": "Visit the KitchenWiz Store", "url": "/kitchenwiz-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "15K+ bought in past month",
+    "description": [
+      "4-in-1 versatility with stick blender, whisk, and 500ml food chopper attachments.",
+      "Powerful 500-watt motor with 12-speed control plus a turbo boost for maximum power.",
+      "Ergonomic soft-grip handle provides non-slip and comfortable use.",
+      "Blend smoothies, puree soups, whip cream, and chop vegetables with one tool.",
+      "Attachments are easy to switch and are dishwasher safe."
+    ],
+    "subImages": ["https://picsum.photos/seed/93a/500/500", "https://picsum.photos/seed/93b/500/500", "https://picsum.photos/seed/93c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "9.8 x 5.5 x 9.8 inches" },
+      { "key": "Weight", "value": "3.5 pounds" },
+      { "key": "Wattage", "value": "500 Watts" },
+      { "key": "Voltage", "value": "120 Volts" },
+      { "key": "Manufacturer", "value": "KitchenWiz" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Black", "price": 39.99, "oldPrice": 49.99 },
+          { "name": "Red", "price": 42.99, "oldPrice": 49.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 39.99, "oldPrice": 49.99, "delivery": "FREE delivery Saturday, August 2", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 5.99 },
+      { "name": "3-Year Appliance Protection", "price": 8.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 94,
+    "title": "5-Quart Artisan Series Stand Mixer with Pouring Shield",
+    "price": 349.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/94/500/500",
+    "rating": 4.9,
+    "reviews": 35000,
+    "oldPrice": 429.99,
+    "brandStore": { "name": "Visit the Artisan Mix Store", "url": "/artisan-mix-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "4K+ bought in past month",
+    "description": [
+      "Durable and built-to-last metal construction with over 20 colors to choose from.",
+      "5-quart stainless steel bowl with handle can mix dough for 9 dozen cookies.",
+      "10-speed slide control ranges from a very fast whip to a very slow stir.",
+      "Tilt-head design allows clear access to the bowl and attached beater or accessory.",
+      "Includes flat beater, dough hook, wire whip and pouring shield."
+    ],
+    "subImages": ["https://picsum.photos/seed/94a/500/500", "https://picsum.photos/seed/94b/500/500", "https://picsum.photos/seed/94c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "14.1 x 8.7 x 13.9 inches" },
+      { "key": "Weight", "value": "26 pounds" },
+      { "key": "Capacity", "value": "5 Quarts" },
+      { "key": "Wattage", "value": "325 Watts" },
+      { "key": "Manufacturer", "value": "Artisan Mix" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Empire Red", "price": 349.99, "oldPrice": 429.99 },
+          { "name": "Aqua Sky", "price": 349.99, "oldPrice": 429.99 },
+          { "name": "Matte Black", "price": 349.99, "oldPrice": 429.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 349.99, "oldPrice": 429.99, "delivery": "FREE delivery Tuesday, August 5", "primeDelivery": "Or get FREE delivery Sunday, August 3.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 39.99 },
+      { "name": "3-Year Appliance Protection", "price": 59.99 }
+    ],
+    "offers": ["Get a $100 Amazon Gift Card instantly upon approval for the Amazon Rewards Visa Card."]
+  },
+  {
+    "id": 95,
+    "title": "Robotic Vacuum Cleaner with Smart Mapping & Wi-Fi",
+    "price": 249.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/95/500/500",
+    "rating": 4.4,
+    "reviews": 9800,
+    "oldPrice": 349.99,
+    "brandStore": { "name": "Visit the RoboClean Store", "url": "/roboclean-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": true },
+    "salesVolume": "2K+ bought in past month",
+    "description": [
+      "Cleans in neat rows thanks to intelligent, straight-line navigation.",
+      "Powerful suction and a 3-stage cleaning system tackle dirt, dust, and pet hair.",
+      "Control and schedule cleanings from anywhere using the app or your voice assistant.",
+      "Patented Dirt Detect™ Technology finds the dirtiest areas of your home and cleans them more thoroughly.",
+      "Automatically recharges and resumes cleaning until the job is done."
+    ],
+    "subImages": ["https://picsum.photos/seed/95a/500/500", "https://picsum.photos/seed/95b/500/500", "https://picsum.photos/seed/95c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "13.4 x 13.5 x 3.6 inches" },
+      { "key": "Weight", "value": "6.77 pounds" },
+      { "key": "Battery Life", "value": "90 minutes" },
+      { "key": "Filter Type", "value": "High-Efficiency Filter" },
+      { "key": "Manufacturer", "value": "RoboClean" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 249.99, "oldPrice": 349.99, "delivery": "FREE delivery Monday, August 4", "primeDelivery": "Or get FREE delivery Sunday, August 3.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 29.99 },
+      { "name": "3-Year Appliance Protection", "price": 44.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 96,
+    "title": "French Door Refrigerator with Ice Maker, 27 cu. ft.",
+    "price": 1899.00,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/96/500/500",
+    "rating": 4.6,
+    "reviews": 1500,
+    "oldPrice": 2299.00,
+    "brandStore": { "name": "Visit the FreshFlow Store", "url": "/freshflow-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "200+ bought in past month",
+    "description": [
+      "Large 27 cu. ft. capacity easily stores all your family's favorite foods.",
+      "Fingerprint-resistant finish keeps the exterior looking clean and new.",
+      "Full-width pantry drawer is perfect for storing party platters, sheet cakes, or large deli trays.",
+      "Twin Cooling Plus® system maintains optimal humidity levels to keep produce fresher for longer.",
+      "High-efficiency LED lighting illuminates every corner of your refrigerator."
+    ],
+    "subImages": ["https://picsum.photos/seed/96a/500/500", "https://picsum.photos/seed/96b/500/500", "https://picsum.photos/seed/96c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "35.75 x 35.4 x 70 inches" },
+      { "key": "Weight", "value": "308 pounds" },
+      { "key": "Capacity", "value": "27 Cubic Feet" },
+      { "key": "Configuration", "value": "French Door" },
+      { "key": "Manufacturer", "value": "FreshFlow" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Stainless Steel", "price": 1899.00, "oldPrice": 2299.00 },
+          { "name": "Black Stainless", "price": 1999.00, "oldPrice": 2399.00 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 1899.00, "oldPrice": 2299.00, "delivery": "FREE Scheduled Delivery", "primeDelivery": null, "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "Major Appliances LLC", "returnsPolicy": "30-Day Return Policy", "isGiftable": false, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "3-Year Major Appliance Protection", "price": 179.99 },
+      { "name": "5-Year Major Appliance Protection", "price": 289.99 }
+    ],
+    "offers": ["0% APR for 24 months with Amazon financing."]
+  },
+  {
+    "id": 97,
+    "title": "Electric Deep Fryer with Adjustable Temperature, 3.5 Liter",
+    "price": 69.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/97/500/500",
+    "rating": 4.5,
+    "reviews": 4500,
+    "oldPrice": 89.99,
+    "brandStore": { "name": "Visit the CrispyCook Store", "url": "/crispycook-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "1K+ bought in past month",
+    "description": [
+      "Large 3.5-liter oil capacity can fry up to 2.3 pounds of food at once.",
+      "Immersed heating element quickly recovers oil temperature for crispy results.",
+      "Adjustable thermostat allows you to select the perfect cooking temperature.",
+      "Viewing window in the lid lets you monitor the cooking process without opening the cover.",
+      "Removable, dishwasher-safe oil tank and parts make for easy cleanup."
+    ],
+    "subImages": ["https://picsum.photos/seed/97a/500/500", "https://picsum.photos/seed/97b/500/500", "https://picsum.photos/seed/97c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "16.5 x 11 x 10 inches" },
+      { "key": "Weight", "value": "9.5 pounds" },
+      { "key": "Capacity", "value": "3.5 Liters" },
+      { "key": "Wattage", "value": "1800 Watts" },
+      { "key": "Manufacturer", "value": "CrispyCook" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 69.99, "oldPrice": 89.99, "delivery": "FREE delivery Saturday, August 2", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 8.99 },
+      { "name": "3-Year Appliance Protection", "price": 13.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 98,
+    "title": "Cool Mist Ultrasonic Humidifier for Bedroom, 4L",
+    "price": 39.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/98/500/500",
+    "rating": 4.6,
+    "reviews": 29000,
+    "oldPrice": 54.99,
+    "brandStore": { "name": "Visit the PureMist Store", "url": "/puremist-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": false },
+    "salesVolume": "25K+ bought in past month",
+    "description": [
+      "Provides up to 50 hours of continuous operation on the low setting from a single fill.",
+      "Whisper-quiet operation makes it perfect for use in bedrooms and nurseries.",
+      "360-degree rotating nozzle allows you to direct the mist wherever you need it.",
+      "Optional night light offers a soothing glow.",
+      "Automatically shuts off when the water level is low or the tank is removed."
+    ],
+    "subImages": ["https://picsum.photos/seed/98a/500/500", "https://picsum.photos/seed/98b/500/500", "https://picsum.photos/seed/98c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "7.8 x 6.9 x 11.6 inches" },
+      { "key": "Weight", "value": "3.2 pounds" },
+      { "key": "Capacity", "value": "4 Liters" },
+      { "key": "Runtime", "value": "50 hours" },
+      { "key": "Manufacturer", "value": "PureMist" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 39.99, "oldPrice": 54.99, "delivery": "FREE delivery Sunday, August 3", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 5.99 },
+      { "name": "3-Year Appliance Protection", "price": 8.99 }
+    ],
+    "offers": ["Save 5% with coupon on first Subscribe & Save order."]
+  },
+  {
+    "id": 99,
+    "title": "Digital Food Dehydrator with 6 Trays and Timer",
+    "price": 79.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/99/500/500",
+    "rating": 4.7,
+    "reviews": 5600,
+    "oldPrice": 99.99,
+    "brandStore": { "name": "Visit the PreservaPro Store", "url": "/preservapro-store" },
+    "badges": { "isAmazonChoice": false, "isLimitedTimeDeal": false },
+    "salesVolume": "2K+ bought in past month",
+    "description": [
+      "Make healthy, homemade snacks like beef jerky, fruit leather, and dried herbs.",
+      "Includes 6 spacious, BPA-free trays that are height adjustable.",
+      "Digital thermostat adjusts from 95°F to 165°F for precise drying.",
+      "Digital timer with auto-shutoff lets you dehydrate for up to 48 hours.",
+      "Rear-mounted fan ensures even drying without the need to rotate trays."
+    ],
+    "subImages": ["https://picsum.photos/seed/99a/500/500", "https://picsum.photos/seed/99b/500/500", "https://picsum.photos/seed/99c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "17.7 x 13.5 x 12.2 inches" },
+      { "key": "Weight", "value": "12.1 pounds" },
+      { "key": "Number of Trays", "value": "6" },
+      { "key": "Wattage", "value": "600 Watts" },
+      { "key": "Manufacturer", "value": "PreservaPro" }
+    ],
+    "variants": [],
+    "buyBox": {
+      "price": 79.99, "oldPrice": 99.99, "delivery": "FREE delivery Monday, August 4", "primeDelivery": "Or get FREE delivery Sunday, August 3.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 9.99 },
+      { "name": "3-Year Appliance Protection", "price": 14.99 }
+    ],
+    "offers": []
+  },
+  {
+    "id": 100,
+    "title": "Single-Serve K-Cup Pod Coffee Maker",
+    "price": 89.99,
+    "category": "Appliances",
+    "image": "https://picsum.photos/seed/100/500/500",
+    "rating": 4.6,
+    "reviews": 55000,
+    "oldPrice": 129.99,
+    "brandStore": { "name": "Visit the QuickBrew Store", "url": "/quickbrew-store" },
+    "badges": { "isAmazonChoice": true, "isLimitedTimeDeal": true },
+    "salesVolume": "40K+ bought in past month",
+    "description": [
+      "Brews multiple K-Cup pod sizes: 6, 8, 10, or 12 oz.",
+      "Large 52 oz. water reservoir allows you to brew 5+ cups before having to refill.",
+      "Strong Brew button increases the coffee's strength and bold taste.",
+      "Brews coffee in under a minute for a quick start to your day.",
+      "Removable drip tray accommodates travel mugs up to 7.4 inches tall."
+    ],
+    "subImages": ["https://picsum.photos/seed/100a/500/500", "https://picsum.photos/seed/100b/500/500", "https://picsum.photos/seed/100c/500/500"],
+    "videos": [],
+    "productInformation": [
+      { "key": "Dimensions", "value": "12.2 x 9.2 x 12.7 inches" },
+      { "key": "Weight", "value": "6.1 pounds" },
+      { "key": "Capacity", "value": "52 Ounces" },
+      { "key": "Special Feature", "value": "Removable Tank, Programmable" },
+      { "key": "Manufacturer", "value": "QuickBrew" }
+    ],
+    "variants": [
+      {
+        "type": "Color",
+        "options": [
+          { "name": "Matte Black", "price": 89.99, "oldPrice": 129.99 },
+          { "name": "Imperial Red", "price": 89.99, "oldPrice": 129.99 },
+          { "name": "Oasis Blue", "price": 94.99, "oldPrice": 129.99 }
+        ]
+      }
+    ],
+    "buyBox": {
+      "price": 89.99, "oldPrice": 129.99, "delivery": "FREE delivery Saturday, August 2", "primeDelivery": "Or get FREE delivery Tomorrow, July 31.", "stockStatus": "In Stock", "shipsFrom": "AmazonClone.com", "soldBy": "AmazonClone.com", "returnsPolicy": "FREE Returns", "isGiftable": true, "support": "Product support included", "payment": "Secure transaction"
+    },
+    "protectionPlans": [
+      { "name": "2-Year Appliance Protection", "price": 11.99 },
+      { "name": "3-Year Appliance Protection", "price": 18.99 }
+    ],
+    "offers": ["Get a $50 Amazon Gift Card instantly upon approval for the Amazon Rewards Visa Card."]
+  }
+]
+

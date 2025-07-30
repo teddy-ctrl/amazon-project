@@ -1,0 +1,84 @@
+{
+    "movie": [
+        {
+            "itemTitle": "Dune: Part Two",
+            "imgs": "https://m.media-amazon.com/images/I/81ON-T8GfZL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Elden Ring - PlayStation 5",
+            "imgs": "https://m.media-amazon.com/images/I/81pF8NzKtzS._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Oppenheimer",
+            "imgs": "https://m.media-amazon.com/images/I/81dTzNuj5rL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "The Legend of Zelda: Tears of the Kingdom",
+            "imgs": "https://m.media-amazon.com/images/I/71j3TDk6rwL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "The Super Mario Bros. Movie",
+            "imgs": "https://m.media-amazon.com/images/I/81eynakiODL._AC_UL320_.jpg"
+        },
+        {
+            "itemTitle": "Baldur's Gate 3 - PC",
+            "imgs": "https://m.media-amazon.com/images/I/711nY54eplL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Spider-Man: Across the Spider-Verse",
+            "imgs": "https://m.media-amazon.com/images/I/91HywYQ1jgL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "God of War Ragnarök - PlayStation 5",
+            "imgs": "https://m.media-amazon.com/images/I/817y77i7EFL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "The Godfather",
+            "imgs": "https://m.media-amazon.com/images/I/817YGnAYCbL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Cyberpunk 2077: Ultimate Edition - Xbox",
+            "imgs": "https://m.media-amazon.com/images/I/81pVS9PPekL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Pulp Fiction",
+            "imgs": "https://m.media-amazon.com/images/I/81d2CoIjg-L._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Red Dead Redemption 2 - PlayStation 4",
+            "imgs": "https://m.media-amazon.com/images/I/81JIrvxqc2L._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "The Dark Knight",
+            "imgs": "https://m.media-amazon.com/images/I/81iv5S3m5RL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Hogwarts Legacy - Nintendo Switch",
+            "imgs": "https://m.media-amazon.com/images/I/8161-L7fOIL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Inception",
+            "imgs": "https://m.media-amazon.com/images/I/81i7S802xFL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Minecraft - Nintendo Switch",
+            "imgs": "https://m.media-amazon.com/images/I/81KR1DyfEmL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "John Wick: Chapter 4",
+            "imgs": "https://m.media-amazon.com/images/I/71Yt9ieefiL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Grand Theft Auto V: Premium Edition - PS4",
+            "imgs": "https://m.media-amazon.com/images/I/81P5-gAe7uL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Everything Everywhere All at Once",
+            "imgs": "https://m.media-amazon.com/images/I/81yscarJOeL._AC_UY218_.jpg"
+        },
+        {
+            "itemTitle": "Star Wars Jedi: Survivor - PlayStation 5",
+            "imgs": "https://m.media-amazon.com/images/I/61qJxr7J9gL._AC_UY218_.jpg"
+        }
+    ]
+}

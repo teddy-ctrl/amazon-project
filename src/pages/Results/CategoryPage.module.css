@@ -1,0 +1,141 @@
+/* CategoryPage.module.css */
+.pageWrapper {
+  background-color: #ffffff;
+  font-family: "Amazon Ember", Arial, sans-serif;
+}
+
+.headerContainer {
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid #ddd;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+.resultsText {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+.resultsText strong {
+  color: #c7511f;
+}
+.headerBottomRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.headerBottomRow h1 {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+}
+.sortDropdown select {
+  padding: 5px 10px;
+  background-color: #f0f2f2;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(213, 217, 217, 0.5);
+  font-size: 13px;
+}
+
+.mainLayout {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.leftSidebar {
+  font-size: 14px;
+}
+.filterSection {
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+.filterTitle {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.filterList,
+.ratingList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.filterList li {
+  margin-bottom: 0.5rem;
+}
+.filterList a {
+  color: #0f1111;
+  text-decoration: none;
+}
+.filterList a:hover {
+  color: #c7511f;
+  text-decoration: underline;
+}
+.activeFilter a {
+  color: #c7511f;
+  font-weight: 700;
+}
+.ratingList li {
+  margin-bottom: 4px;
+}
+.ratingLink {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #565959;
+  text-decoration: none;
+}
+.ratingLink:hover {
+  color: #c7511f;
+}
+.ratingLink :global(.MuiRating-iconFilled) {
+  color: #ffa41c;
+}
+
+.productGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+}
+.pageButton {
+  margin: 0 4px;
+  padding: 8px 16px;
+  border: 1px solid #d5d9d9;
+  border-radius: 4px;
+  background-color: #fff;
+  cursor: pointer;
+  color: #0f1111;
+}
+.pageButton:hover:not(:disabled) {
+  background-color: #f0f2f2;
+}
+.disabledButton {
+  color: #a6a6a6;
+  cursor: not-allowed;
+  background-color: #f7f7f7;
+}
+.currentPageText {
+  font-weight: bold;
+  margin: 0 1rem;
+}
+
+@media (max-width: 768px) {
+  .mainLayout {
+    grid-template-columns: 1fr;
+  }
+  .leftSidebar {
+    display: none;
+  }
+}

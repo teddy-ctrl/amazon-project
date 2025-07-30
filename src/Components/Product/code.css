@@ -1,0 +1,361 @@
+/* General Page Styles */
+.productPage {
+    width: 100%;
+    background-color: #FFFFFF; 
+    font-family: "Amazon Ember", Arial, sans-serif; 
+    color: #0F1111; 
+    font-size: 14px;
+    line-height: 1.4;
+    padding-bottom: 30px; 
+}
+
+/* Results Bar (Top) */
+.resultsBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #DDD;
+    margin-bottom: 20px;
+}
+
+.resultsCount {
+    font-size: 14px;
+}
+.resultsCount strong {
+    color: #C45500; /* Amazon orange for search term */
+}
+
+.sortByDropdown label {
+    margin-right: 5px;
+    font-size: 13px;
+}
+
+.sortSelect {
+    padding: 5px 8px;
+    border: 1px solid #DDD;
+    border-radius: 3px;
+    background-color: #f0f2f2;
+    box-shadow: 0 1px 0 rgba(255,255,255,.5) inset;
+    font-size: 13px;
+}
+.sortSelect:hover {
+    background-color: #e3e5e5;
+}
+.sortSelect:focus {
+    outline: 1px solid #007185; /* Amazon blue focus */
+    border-color: #007185;
+}
+
+
+/* Main Layout: Sidebar + Content */
+.productPageLayout {
+    display: flex;
+    max-width: 1500px; /* Max width like Amazon */
+    /* margin: 0 auto; Center it */
+    padding: 0 18px; /* Padding around the content */
+}
+
+/* Left Sidebar (Filters) */
+.productLeftMenu {
+    width: 280px; /* Fixed width for sidebar */
+    margin-right: 20px;
+    flex-shrink: 0; /* Prevent shrinking */
+    background-color: #fff;
+    border-right: 1px solid #DDD;
+}
+
+.filterSection {
+    margin-bottom: 20px;
+    background-color: #fff; /* Filters often on white bg */
+    padding: 15px;
+    /* border-radius: 4px; */
+    /* border: 1px solid #ddd; */
+}
+
+.filterTitle {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #0F1111;
+}
+
+.filterList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.filterList li {
+    margin-bottom: 6px;
+}
+
+.filterList li a,
+.filterList li label {
+    text-decoration: none;
+    color: #007185; /* Amazon link blue */
+    font-size: 13px;
+    cursor: pointer;
+}
+.filterList li a:hover,
+.filterList li label:hover {
+    color: #C45500; /* Amazon orange hover */
+    text-decoration: underline;
+}
+
+.filterList li label input[type="checkbox"] {
+    margin-right: 8px;
+    vertical-align: middle;
+    accent-color: #007185; /* Checkbox color */
+}
+
+.subItem {
+    padding-left: 20px; /* Indent sub-categories */
+}
+.arrowIcon {
+    vertical-align: middle;
+    margin-right: 4px;
+    font-size: 10px;
+    color: #555;
+}
+
+.starFilterItem {
+    display: flex;
+    align-items: center;
+    color: #0F1111; 
+    font-size: 13px;
+    cursor: pointer;
+}
+.starFilterItem:hover {
+    color: #C45500;
+}
+.starFilterItem:hover .starIcon {
+    color: #C45500 !important; 
+}
+.starIcon {
+    font-size: 18px !important; 
+    color: #FFA41C !important; 
+    margin-right: 2px;
+}
+
+
+.priceInputGroup {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.priceInput {
+    width: 60px;
+    padding: 6px;
+    border: 1px solid #a6a6a6;
+    border-radius: 3px;
+    font-size: 13px;
+    margin-right: 5px;
+}
+.priceInputGroup span {
+    margin: 0 5px;
+}
+.priceGoButton {
+    padding: 6px 10px;
+    font-size: 13px;
+    background-color: #fff;
+    border: 1px solid #a6a6a6;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.priceGoButton:hover {
+    background-color: #f0f0f0;
+}
+
+/* Right Content Area (Product Grid) */
+.productRightContent {
+    flex-grow: 1; 
+    background-color: #fff;
+    padding: 15px;
+    /* border-radius: 4px;
+    border: 1px solid #ddd; */
+}
+
+.sponsoredMessage {
+    text-align: right;
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 15px;
+}
+.sponsoredMessage span span { 
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border: 1px solid #555;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 11px; 
+    font-style: italic;
+    font-size: 9px;
+    cursor: help;
+    margin-left: 2px;
+}
+
+
+.productGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); 
+    gap: 20px;
+}
+
+/* Product Card Styles */
+.productCard {
+    border: 1px solid #DDD;
+    border-radius: 4px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    position: relative; 
+}
+
+.productImageContainer {
+    /* text-align: center; */ /* No longer needed with flex */
+    margin-bottom: 15px;
+    position: relative;
+    display: flex; /* Use flex to center content */
+    align-items: center; /* Vertical centering */
+    justify-content: center; /* Horizontal centering */
+    min-height: 180px; /* Ensure the container has a minimum height */
+    background-color: #f9f9f9; /* Light background for the image area */
+    border-radius: 3px; /* Slight rounding for container */
+}
+
+.productImage {
+    max-width: 100%;
+    max-height: 180px; 
+    object-fit: contain;
+    cursor: pointer;
+    display: block; /* Good practice for images you want to control layout for */
+}
+/* If image fails to load, alt text styling can be helpful */
+.productImage[alt]:not([src=""]) { /* Style alt text when image src is present but fails */
+    /* You could add specific styles for alt text here if needed */
+    /* For example, to make alt text more visible if image fails: */
+    /* font-size: 12px; */
+    /* color: #777; */
+}
+
+
+.amazonChoiceBadge, .bestSellerBadge {
+    position: absolute;
+    top: -5px; 
+    left: -5px; 
+    padding: 3px 8px;
+    font-size: 11px;
+    font-weight: bold;
+    color: white;
+    z-index: 1;
+}
+.amazonChoiceBadge {
+    background-color: #232F3E; 
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 85% 100%, 0% 75%); 
+}
+.bestSellerBadge {
+    background-color: #C45500; 
+}
+.bestSellerWithChoice { 
+    top: 25px; 
+}
+
+
+.productInfo {
+    flex-grow: 1; 
+}
+.productTitle {
+    font-size: 14px;
+    color: #007185;
+    line-height: 1.3;
+    margin-bottom: 5px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 2.6em; 
+    cursor: pointer;
+}
+.productTitle:hover {
+    color: #C45500;
+    text-decoration: underline;
+}
+
+.productRating {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+.reviewCount {
+    margin-left: 5px;
+    color: #007185;
+    cursor: pointer;
+}
+.reviewCount:hover {
+    color: #C45500;
+    text-decoration: underline;
+}
+
+.productPrice {
+    margin-bottom: 5px;
+}
+.currentPrice {
+    font-size: 21px;
+    font-weight: 500;
+    color: #0F1111;
+}
+.oldPrice {
+    font-size: 12px;
+    color: #565959;
+    text-decoration: line-through;
+    margin-left: 5px;
+}
+
+.productShipping, .productDelivery {
+    font-size: 12px;
+    color: #565959;
+    margin-bottom: 3px;
+}
+
+/* Pagination Styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    padding: 10px 0;
+    border-top: 1px solid #DDD;
+}
+.pageLink, .pageEllipsis {
+    color: #007185;
+    padding: 8px 12px;
+    text-decoration: none;
+    border: 1px solid transparent; 
+    margin: 0 2px;
+    border-radius: 3px;
+    font-size: 13px;
+}
+.pageLink:hover {
+    border-color: #DDD;
+    background-color: #f0f2f2;
+    color: #C45500;
+}
+.pageLink.active {
+    background-color: #007185;
+    color: white;
+    border-color: #007185;
+    font-weight: bold;
+}
+.pageEllipsis {
+    color: #555;
+}
+
+
+

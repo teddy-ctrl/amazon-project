@@ -1,6 +1,6 @@
 /* --- Base Navbar Styles --- */
 .navbar {
-  background-color: #131921; 
+  background-color: #131921; /* User's specified color */
   display: flex;
   align-items: center;
   height: 60px;
@@ -16,7 +16,12 @@
   cursor: pointer;
   border: 1px solid transparent;
   transition: border-color 0.1s ease-in-out;
-  display: flex;
+  /* display: none; */ /* This is overridden by specific classes, which is fine */
+  /* If a component ONLY has this class, it would be hidden.
+     But components have their own classes like .leftNavBarLogo which set display: flex */
+  display: flex; /* Let's make it flex by default for items that might *only* have this.
+                     Specific component classes will still override if they also set display.
+                     The main benefit is consistency if a new item only gets this class. */
   align-items: center;
   height: calc(100% - 10px);
   margin: 5px 0;
@@ -30,7 +35,10 @@
 
 /* --- Hamburger Menu --- */
 .navbarHamburgerMenu {
-  display: none; 
+  /* inherits .navbarItemHoverable styles if also applied in JSX */
+  /* Base style will be display:none if only navbarItemHoverable is applied and it's none */
+  /* For clarity, setting its own display here and overriding in MQ */
+  display: none; /* Hidden by default, shown in media queries */
   padding: 5px 10px;
   font-size: 24px;
 }
@@ -41,7 +49,8 @@
 
 /* --- Logo --- */
 .leftNavBarLogo {
-  display: flex; 
+  /* inherits .navbarItemHoverable if applied */
+  display: flex; /* Ensure it's displayed */
   padding: 2px 6px;
   align-items: center;
   justify-content: center;
@@ -57,7 +66,8 @@
 
 /* --- Location Section --- */
 .navbarLocation {
-  display: flex;
+  /* inherits .navbarItemHoverable if applied */
+  display: flex; /* Ensure it's displayed */
   align-items: center;
   gap: 3px;
   flex-shrink: 0;
@@ -66,7 +76,7 @@
 .navbarLocationImgIcon {
   font-size: 22px;
   color: white;
-  margin-bottom: 10px; 
+  margin-bottom: 10px; /* This will make the icon appear higher relative to the text block */
   flex-shrink: 0;
 }
 .navbarLocationImgIcon svg { display: block; }
@@ -143,8 +153,6 @@
   color: #555;
   display: flex;
   align-items: center;
-  text-decoration: none;
-  
 }
 .dropdownIcon svg,
 .dropdownIconLanguage svg,
@@ -187,7 +195,6 @@
 .searchIconNavbarIcon {
   font-size: 24px;
   color: #131921;
-  text-decoration: none;
 }
 .searchIconNavbarIcon svg { display: block; }
 
@@ -202,7 +209,7 @@
 
 /* Individual items on the right side */
 .flag, .signInNavbar, .returnsOrdersNavbar, .cartContainerNavbar {
-  display: flex; 
+  display: flex; /* Ensure these are displayed by default if they use .navbarItemHoverable */
   flex-shrink: 0;
 }
 
@@ -236,7 +243,7 @@
   align-items: center;
   gap: 5px;
 }
-.signInTextContainer { 
+.signInTextContainer { /* Contains the two lines of text */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -245,10 +252,9 @@
 }
 
 .personIcon {
-  display: none; 
+  display: none; /* Hidden by default, shown in media query for 1024px */
   font-size: 20px;
   color: white;
-  text-decoration: none;
 }
 .personIcon svg { display: block; }
 
@@ -257,11 +263,10 @@
   font-size: 12px;
   font-weight: 400;
   color: #ffffff;
-  text-decoration: none;
 }
 /* For "Sign in" text specifically if needed */
 .signInText {
-  text-decoration: none;
+    /* Add styles if you introduce a span for "Sign in" */
 }
 
 
@@ -271,13 +276,11 @@
   color: white;
   display: flex;
   align-items: center;
-  text-decoration: none;
 }
 .dropdownIconAccount {
   color: #a7acb2;
   font-size: 16px;
   margin-left: 1px;
-  text-decoration: none;
 }
 
 
@@ -295,9 +298,9 @@
 
 .cartItemNumberNavbar {
   position: absolute;
-  top: 12px; 
-  left: 22%; 
-  transform: translateX(calc(-50% + 10px)); 
+  top: 12px; /* User's value */
+  left: 22%; /* User's value */
+  transform: translateX(calc(-50% + 10px)); /* User's value */
   color: #f08804;
   font-weight: 700;
   font-size: 16px;
@@ -305,7 +308,6 @@
   text-align: center;
   z-index: 1;
   padding: 0 3px;
-  text-decoration: none;
 }
 
 .cartLogo {
@@ -321,7 +323,6 @@
   line-height: 1;
   color: white;
   margin-bottom: 1px;
-  text-decoration: none;
 }
 
 
@@ -329,23 +330,28 @@
 /* ========== RESPONSIVE CSS ========== */
 /* =================================== */
 
+/* Default: Desktop view (wider than 1024px) - Hamburger hidden */
+/* .navbarHamburgerMenu is display:none by default */
+/* All other items like .leftNavBarLogo, .navbarLocation etc. have display:flex */
+
+/* Medium devices (tablets, target for your image is 1024px) */
 @media (max-width: 1024px) {
   .navbar {
     gap: 2px;
   }
-  .navbarItemHoverable { 
+  .navbarItemHoverable { /* Applies to all items using this class */
     padding: 5px 4px;
   }
 
   .navbarHamburgerMenu {
-    display: flex; 
+    display: flex; /* Show hamburger */
     padding: 5px 8px;
   }
 
   .navbarLocation,
   .flag,
   .returnsOrdersNavbar {
-    display: none; 
+    display: none; /* Hide these items */
   }
 
   .amazonLogoNavbar {
@@ -360,48 +366,76 @@
 
   /* Sign In simplified for 1024px image: [Icon] Sign in [Arrow] */
   .signInNavbar {
-    gap: 4px; 
+    /* .navbarItemHoverable already makes it display:flex, align-items:center */
+    gap: 4px; /* Space between icon, text, arrow */
   }
   .personIcon {
-    display: block; 
+    display: block; /* Show person icon */
   }
 
   .signInNavbar .signInTextContainer {
-    display: flex; 
+    display: flex; /* Make the text container a row */
     flex-direction: row;
     align-items: center;
-    gap: 2px; 
+    gap: 2px; /* Gap between "Sign in" and arrow */
   }
 
   .signInNavbar .topNavbar {
     font-size: 13px;
-    font-weight: 700; 
+    font-weight: 700; /* Make "Sign in" bold like the image */
+    /* To hide "Hello, " part:
+       Requires either JS change or more complex CSS if "Hello," is not in its own span.
+       For now, it will show "Hello, Sign in".
+       If you can wrap "Hello, " in a span in JSX:
+       <div className={styles.topNavbar}><span className={styles.helloText}>Hello, </span>Sign in</div>
+       Then add: .signInNavbar .helloText { display: none; }
+    */
+    /* Assuming "Hello, Sign in" is acceptable for now, or "Sign in" is directly from props */
   }
 
   .signInNavbar .bottomNavbarAccount {
-    font-size: 0; 
-    line-height: 1; 
-    
+    font-size: 0; /* Hide the text "Account & Lists" */
+    line-height: 1; /* Collapse space */
+    /* The MdArrowDropDown icon is a child, so it needs its font-size restored */
   }
   .signInNavbar .bottomNavbarAccount .dropdownIconAccount {
-    font-size: 16px; 
+    font-size: 16px; /* Make dropdown icon visible */
     color: #a7acb2;
-    margin-left: 0; 
+    margin-left: 0; /* Remove margin if text is gone */
   }
+  /* If "Hello, Sign in" text is an issue, and you must use pure CSS to show only "Sign in": */
+  /* Alternative for .topNavbar to show only "Sign in" if text is "Hello, Sign in" */
+  /*
+  .signInNavbar .topNavbar {
+      position: relative;
+      font-size: 0; // Hide original text
+      color: transparent; // Hide original text
+  }
+  .signInNavbar .topNavbar::after {
+      content: "Sign in";
+      font-size: 13px;
+      font-weight: 700;
+      color: white; // Make text visible
+      position: absolute;
+      left: 0;
+      top: 0;
+      white-space: nowrap;
+  }
+  */
 
 
   .cartContainerNavbar .cartTitle {
-    display: none; 
+    display: none; /* Hide "Cart" text */
   }
   .cartLogo {
     width: 35px;
     height: 24px;
   }
   .cartItemNumberNavbar {
-    top: 15px; 
-    left: 36%; 
+    top: 15px; /* User's value */
+    left: 36%; /* User's value */
     font-size: 15px;
-    transform: translateX(calc(-50% + 7px)); 
+    transform: translateX(calc(-50% + 7px)); /* User's value */
   }
 }
 
@@ -414,7 +448,7 @@
   }
   /* .navbarItemHoverable padding already set by 1024px or base */
   .navbarHamburgerMenu {
-      font-size: 22px; 
+      font-size: 22px; /* Hamburger might be slightly smaller */
   }
   .amazonLogoNavbar {
     width: 80px;
@@ -422,10 +456,10 @@
   }
 
   .navbarSearchBoxAllText {
-    display: none; 
+    display: none; /* Hide "All" text in search dropdown */
   }
   .navbarSearchBoxAll {
-    padding: 0 8px;
+    padding: 0 8px; /* Adjust padding for icon only */
   }
   .navbarInputSearchBox,
   .navbarInputSearchBox::placeholder {
@@ -437,13 +471,15 @@
 
   /* Sign In further simplified: [Icon] Sign in */
   .signInNavbar .signInTextContainer {
-      
+      /* display: flex; From 1024px */
+      /* flex-direction: row; From 1024px */
   }
   .signInNavbar .topNavbar {
-    font-size: 12px; 
+    font-size: 12px; /* For "Hello, Sign in" or just "Sign in" */
+    /* If using ::after for "Sign in", adjust its font-size here */
   }
   .signInNavbar .bottomNavbarAccount {
-    display: none; 
+    display: none; /* Hide the Account & Lists line entirely (including its arrow) */
   }
   .personIcon {
       font-size: 18px;
@@ -455,9 +491,9 @@
   }
   .cartItemNumberNavbar {
     font-size: 14px;
-    top: 12px; 
-    left: 40%; 
-    transform: translateX(calc(-50% + 5px)); 
+    top: 12px; /* User's value */
+    left: 40%; /* User's value */
+    transform: translateX(calc(-50% + 5px)); /* User's value */
   }
 }
 
@@ -465,16 +501,16 @@
 /* Extra small devices (phones, up to 576px) */
 @media (max-width: 576px) {
   .navbar {
-    flex-wrap: wrap; 
-    height: auto;    
+    flex-wrap: wrap; /* Allow items to wrap */
+    height: auto;    /* Adjust height dynamically */
     padding-top: 5px;
     padding-bottom: 5px;
-    gap: 0; 
+    gap: 0; /* Remove main gap when wrapping */
   }
 
   /* First row items: Hamburger, Logo, (Sign In & Cart pushed to right) */
   .navbarHamburgerMenu, .leftNavBarLogo, .signInNavbar, .cartContainerNavbar {
-    height: 45px; 
+    height: 45px; /* Fixed height for first row elements */
   }
   .leftNavBarLogo {
     margin-left: 5px;
@@ -484,14 +520,14 @@
   }
 
   .signInNavbar {
-      margin-left: auto; 
+      margin-left: auto; /* Push Sign In (and subsequently Cart) to the far right */
   }
 
   /* Search bar takes full width on the second line */
   .navbarSearchBox {
     width: 100%;
-    order: 1;       
-    margin: 8px 0 0 0; 
+    order: 1;       /* Move search bar below the first row */
+    margin: 8px 0 0 0; /* Margin top for spacing */
     padding: 0;
     height: 38px;
   }
@@ -499,9 +535,9 @@
     height: 100%;
   }
   .navbarSearchBoxAll {
-    display: none; 
+    display: none; /* Hide "All" dropdown completely */
   }
-  .navbarSearchDiv .navbarInputSearchBox { 
+  .navbarSearchDiv .navbarInputSearchBox { /* Adjust radius if "All" is gone */
       border-top-left-radius: 4px;
       border-bottom-left-radius: 4px;
   }
@@ -509,13 +545,14 @@
   /* Sign In for very small screens */
   .signInNavbar .topNavbar {
     font-size: 11px;
+    /* If using ::after for "Sign in", adjust its font-size here */
   }
   .personIcon {
       font-size: 17px;
   }
 
   .cartContainerNavbar {
-    padding-left: 5px; 
+    padding-left: 5px; /* Some padding for cart on edge */
     padding-right: 5px;
   }
   .cartLogo {
@@ -523,9 +560,9 @@
     height: 20px;
   }
   .cartItemNumberNavbar {
-    top: 14px; 
-    left: 44%; 
+    top: 14px; /* User's value */
+    left: 44%; /* User's value */
     font-size: 13px;
-    transform: translateX(calc(-50% + 3px)); 
+    transform: translateX(calc(-50% + 3px)); /* User's value */
   }
 }
