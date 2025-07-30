@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import LayOut from "../../Components/LayOut/LayOut";
 import { db } from "../../Utility/firebase";
 import { DataContext } from "../../Components/DataProvider/DataProvider";
-import styles from "./Orders.module.css";
+import styles from "./orders.module.css";
 import ProductCard from "../../Components/Product/ProductCard";
 import { ClipLoader } from "react-spinners";
 
